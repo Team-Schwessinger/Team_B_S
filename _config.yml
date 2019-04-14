@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "as called as Bayesian Behavior Lab"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab based in Rehabilitation Institute of Chicago and Northwestern University, Chicago"
+name:               "Schwessinger lab"
+title:              "Plants, Fungi, Evolution"
+description:        "this is a page for the Benjamin Schwessinger lab, we are _____, at the Research School of Biology at the Australian  National University, Canberra, Australia."
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                http://Team_B_S.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html

@@ -1,6 +1,6 @@
 ---
-title: Blog
-permalink: /blog/
+title: Extra
+permalink: /extra/
 ---
 
 ### **Blog posts from the lab**

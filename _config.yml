@@ -10,7 +10,7 @@ description:        "this is a page for the Benjamin Schwessinger lab, we are __
 
 # URL
 url:                https://aishaward.github.io/Team_B_S/
-baseurl:
+baseurl:            /Team_B_S
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 

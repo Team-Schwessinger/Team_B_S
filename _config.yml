@@ -23,7 +23,7 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/Team_B_S/"
+    href:           "/Team_B_S/home"
   - name:           "about"
     href:           "/Team_B_S/about"
   - name:           "publications"

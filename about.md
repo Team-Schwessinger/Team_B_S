@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Right at the moment, much of the research in the lab is about deep learning and its applications. However, we are now very much interested in causality and its links with machine learning.
+We are a group of plant research scientists with interest in rust and accuracy of minION sequencing. There is a big variety. 
 
 ### Research
 Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
@@ -17,7 +17,7 @@ We've pursued projects that involve handshake greetings, human movement, [cell-p
 
 ### Lab Members
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://schwessingerlab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 
 ### Publications

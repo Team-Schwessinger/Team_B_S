@@ -25,15 +25,15 @@ nav:
   - name:           "home"
     href:           "/"
   - name:           "about"
-    href:           "/about"
+    href:           "/Team_B_S/about"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/Team_B_S/publication"
   - name:           "people"
-    href:           "/people"
+    href:           "/Team_B_S/people"
   - name:           "extra"
-    href:           "/extra"
+    href:           "/Team_B_S/extra"
   - name:           "resources"
-    href:           "/resources"
+    href:           "/Team_B_S/resources"
 
 # Sass
 sass:

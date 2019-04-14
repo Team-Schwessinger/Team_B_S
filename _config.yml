@@ -30,8 +30,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
+  - name:           "extra"
+    href:           "/extra"
   - name:           "resources"
     href:           "/resources"
 

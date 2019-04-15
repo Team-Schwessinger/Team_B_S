@@ -26,7 +26,7 @@ Our lab group is varied, with each member bringing their own expertise and knowl
 
 ### Publications
 
-For PDFs of our work, visit our [publications page](http://Team-Schwessinger.github.io/Team_B_S/publications/). Feel free to [issue on Github](https://github.com/Team-Schwessinger/Team_B_S.github.io/issues) if links don't work or are obsolete.
+For PDFs of our work, visit our [publications page](http://Team-Schwessinger.github.io/Team_B_S/publication/). Feel free to [issue on Github](https://github.com/Team-Schwessinger/Team_B_S.github.io/issues) if links don't work or are obsolete.
 
 
 ### Collaborators

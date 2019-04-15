@@ -1,8 +1,10 @@
 ---
 name: Aisha Ward
-position: pi
+position: postdoc
 avatar: Benjamin-Schwessinger.jpg
-joined: 2019
+twitter: 
 ---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Lab technician

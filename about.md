@@ -4,25 +4,29 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of plant research scientists with interest in rust and accuracy of minION sequencing. There is a big variety. We work well together.
+We are a highly collaborative and interactive team that studies the interaction of fungi and plants. We use a wide varity of tools reaching from biochemistry, bioinformatics, genomics, to environmental sampling. Modern biology is best mixed by combining good 'old school' biochemistry with modern data science stired with interesting biological questions.
 
 ### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
+We study these plant-fungi interactions on multiple molecular and temporal scales. This includes many aspects:
 
+Detailed molecular interaction studies of plant and fungal proteins leading to disease or immunity. The seconds to days timescale.
+Detailed genome evolution and adaptation of fungal pathogens, especially the [wheat stripe rust fungus](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14159?scrollTo=references&), in response to wild and agricultural ecosystems. The months to years timescale.
+Detailed comparative and population genomics analysis of rust fungi with a focus on wheat rusts, yet looking beyond. The decades to millions of year timescale.
 
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
+Our 2019 lab projects include: 
 
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
+[Fungal genomics, evolution, and host adaptation](https://biology.anu.edu.au/research/projects/fungal-genomics-evolution-and-host-adaptation) (Summer, Honours, Master, and PhD students)
+
+[Detection of fungal pathogens and their associated microbiome](https://biology.anu.edu.au/research/projects/detection-fungal-pathogens-and-their-associated-microbiome) (Summer, Honours, and Master students)
 
 
 ### Lab Members
-
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://schwessingerlab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Our lab group is varied, with each member bringing their own expertise and knowloedge to create a comprehensive lab group. Our interests span statistics, sequencing technologies, biology, applied mathematics, molecular biology, and many other disciplines. Visit our [people page](http://Team-Schwessinger.github.io/Team_B_S/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 
 ### Publications
 
-For PDFs of our work, visit our [publications page](http://kordinglab.com/publication/). Feel free to [issue on Github](https://github.com/KordingLab/KordingLab.github.io/issues) if links don't work or are obsolete.
+For PDFs of our work, visit our [publications page](http://Team-Schwessinger.github.io/Team_B_S/publications/). Feel free to [issue on Github](https://github.com/Team-Schwessinger/Team_B_S.github.io/issues) if links don't work or are obsolete.
 
 
 ### Collaborators
@@ -30,29 +34,6 @@ For PDFs of our work, visit our [publications page](http://kordinglab.com/public
 Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
 
 **University of Pennsylvania:**
-- [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
-- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
-- [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
-- [Maria Geffen - Dept of Otorhinolaryngology](https://geffenlab.weebly.com/)
-- [Yale Cohen - Dept of Otorhinolaryngology](http://auditoryresearchlaboratory.weebly.com/)
-- [Dani Bassett - Dept of Bionengineering](https://www.danisbassett.com/)
-- [Andrew Tsourkas - Dept of Bioengineering](http://www.seas.upenn.edu/~atsourk/)
-- [Jason Moore - Dept of Biostatistics](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452)
-- [Lyle Ungar - Dept of CIS](http://www.cis.upenn.edu/~ungar/)
-
-**Northwestern University:**
-- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
-- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
-- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
-- [David Mohr - Dept of Preventive medicine](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17234)
-
-
-**External:**
-
-- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
-- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
-- [Mriganka Sur - MIT](http://surlab.mit.edu/)
-- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
+- [John Rathjen - Cool Dude](https://biology.anu.edu.au/people/john-rathjen)
 
 

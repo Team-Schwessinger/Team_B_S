@@ -9,12 +9,12 @@ permalink: /people/
 {% for item in people_array %}
 
 <div class="pos_header">
+{% if item == 'postdoc' %}
+<h3>Postdoctoral Fellows</h3>
  {% elsif item == 'pi' %}
 <h3>Principal Investigator</h3>
-{% elsif item == 'postdoc' %}
-<h3>Postdoctoral Fellows</h3>
  {% elsif item == 'gradstudent' %}
-<h3>Masters and Honours Students</h3>
+<h3>Graduate Students</h3>
  {% elsif item == 'projectstudent' %}
 <h3>Undergraduate Project Students</h3>
  {% elsif item == 'staff' %}

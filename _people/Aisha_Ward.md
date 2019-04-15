@@ -1,7 +1,7 @@
 ---
 name: Aisha Ward
 position: postdoc
-avatar: Benjamin-Schwessinger.jpg
+avatar: Aisha.jpg
 twitter: 
 ---
 

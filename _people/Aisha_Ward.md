@@ -1,6 +1,6 @@
 ---
 name: Aisha Ward
-position: postdoc
+position: pi
 avatar: Benjamin-Schwessinger.jpg
 joined: 2019
 ---

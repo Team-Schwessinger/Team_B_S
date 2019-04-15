@@ -5,12 +5,12 @@
 # Basic
 name:               "Schwessinger lab"
 title:              "Plants, Fungi, Evolution"
-description:        "this is a page for the Benjamin Schwessinger lab, we are _____, at the Research School of Biology at the Australian  National University, Canberra, Australia."
+description:        "This is the webpage page for the Schwessinger lab, we specialise in Rust and MinION and are situated at the Research School of Biology at the Australian  National University, Canberra, Australia."
 
 
 # URL
 url:                https://team-schwessinger.github.io/Team_B_S/
-baseurl:            /Team_B_S
+baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 

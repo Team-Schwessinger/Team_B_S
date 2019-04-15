@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|gradstudent|visiting|others|alumni" | split: "|" %}
+{% assign people_array = "pi|postdoc|gradstudent|visiting|staff|others|alumni" | split: "|" %}
 
 {% for item in people_array %}
 
@@ -18,6 +18,8 @@ permalink: /people/
  {% elsif item == 'visiting' %}
 <h3>Visiting Scholars</h3>
  {% elsif item == 'others' %}
+ <h3>Staff</h3>
+ {% elsif item == 'staff' %}
 <h3>Honorary Members</h3>
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
@@ -70,23 +72,3 @@ permalink: /people/
 | Bill Lotter    | Research Scientist (2012-2013)| PhD at MIT |
 | Mark Albert	   | (Dec 2009 - Dec 2012) | Asst Prof, Loyola University, Computer Science |
 | Yoshiyuki (Yoshi) Sato | Visiting Professor (2012 - 2013) | Asst Prof, Univ of Electro-Communications, Tokyo |
-| Petra Conaway	Clinical | Coordinator (2012) | Continuing her work at RIC |
-| Rich Li | Rotation Student (Fall 2012) | Continuing Rotations |
-| James Ellis | Rotation Student (Fall 2012) | Continuing Rotations |
-| Hamid Buini | Summer Intern (2012) | University of Southern Florida |
-| AmberLace Moore | Summer Intern (2012) | Spelman College |
-| Mayowa Agbaje-Williams | Clinical Coordinator (Summer 2012) | Univ. Illinois Chicago School of Pharmacy |
-| Florian Neubauer | Visiting Scholar (2011 - 2012) | PostDoc in Switerland |
-| Qiang (Chris) Chen | Rotation Student (Spring 2012) | Raphael Pinaud's lab at Northwestern |
-| Ranit Sengupta | Rotation Student (Fall 2011) | Finishing rotations |
-| [Ian Stevenson](http://stevenson.lab.uconn.edu/) | Grad Student (2006-2011) | Asst Prof. University of Connecticut |
-| Andrew Cichowski | MD rotation student (Summer 2011) | Feinberg Med School MD program |
-| James Howard | Rotation Student (Winter 2009) | Jay Gottfried's Lab at Northwestern |
-| Kunlin Wei | Postdoc (2006-2009) | Assc Prof, Beijing University, Dept of Psychology |
-| Ricardo Ruiz Torres | Rotation Student (Spring 2009) | Lee Miller's Lab at Northwestern |
-| Gregory Dam | Grad Student (2006-2009) | Jim Houk's Lab at Northwestern |
-| Daniel Wert | SINE Intern (2008) | BME Grad student at LeTourneau University |
-| Nicholas Bowman | Rotation Student (Winter 2007) | Jay Gottfried's Lab at Northwestern |
-| Taro Kiritani | Rotation Student (Winter 2007) | Gordon Shepard's Lab at Northwestern |
-| Rashmi Sarnaik | Rotation Student (Winter 2007) | JC Cang's Lab at Northwestern |
-| Emily Oby | Rotation Student (Fall 2006) | Lee Miller's Lab at Northwestern |

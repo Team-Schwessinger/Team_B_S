@@ -1,6 +1,6 @@
 ---
 name: Aisha Ward
-position: other
+position: postdoc
 avatar:
 joined: 2019
 ---

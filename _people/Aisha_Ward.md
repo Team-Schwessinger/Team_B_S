@@ -1,6 +1,6 @@
 ---
 name: Aisha Ward
-position: postdoc
+position: staff
 avatar: Aisha.jpg
 twitter: 
 ---

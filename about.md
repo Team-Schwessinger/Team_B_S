@@ -19,6 +19,8 @@ Our 2019 lab projects include:
 
 [Detection of fungal pathogens and their associated microbiome](https://biology.anu.edu.au/research/projects/detection-fungal-pathogens-and-their-associated-microbiome) (Summer, Honours, and Master students)
 
+### The science beyond the 'lab'
+Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science.
 
 ### Lab Members
 Our lab group is varied, with each member bringing their own expertise and knowloedge to create a comprehensive lab group. Our interests span statistics, sequencing technologies, biology, applied mathematics, molecular biology, and many other disciplines. Visit our [people page](http://Team-Schwessinger.github.io/Team_B_S/people/) to see more information on each person who works in the lab (publications, contact information, photos).

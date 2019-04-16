@@ -3,7 +3,7 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
+For those interested in numbers, see Benjamin's [google scholar citations profile](https://scholar.google.com.au/citations?user=lEhYW3QAAAAJ&hl=en).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
@@ -11,29 +11,18 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2018
 
-_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
-Joshua I. Glaser\*, Ari S. Benjamin\*, Roozbeh Farhoodi\*, Konrad P. Kording<br>
-arXiv, 2018 ([Article](https://arxiv.org/abs/1805.08239))
+_De Novo Assembly and Phasing of Dikaryotic Genomes from Two Isolates of Puccinia coronata f. sp. avenae, the Causal Agent of Oat Crown Rust._<br>
+Miller, M.E., Zhang, Y., Omidvar, V., Sperschneider, J., Schwessinger, B., Raley, C., Palmer, J.M., Garnica, D., Upadhyaya, N., Rathjen, J., Taylor, J.M., Park, R.F., Dodds, P.N., Hirsch, C.D., Kianian, S.F., Figueroa, M.<br>
+mBio, 2018  
 
-_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
-Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
-Nature Communications, 2018 ([Article](https://www.nature.com/articles/s41467-018-04062-6))
+_A comprehensive toolkit to enable MinION long-read sequencing in any laboratory._<br>
+Schalamun, M., Kainer, D., Beavan, E., Nagar, R., Eccles, D., Rathjen, J., Lanfear, R., Schwessinger, B.<br>
+bioRxiv, 2018
 
-_Linear-Nonlinear-Time-Warp-Poisson models of neural activity_<br>
-Patrick N. Lawlor, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
-Biorxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/22/194498)) ([Code](https://github.com/pnlawlor/LNTWP))
+_Assembly of chloroplast genomes with long- and short-read data: a comparison of approaches using Eucalyptus pauciflora as a test case_<br>
+Wang, W., Schalamun, M., Suarez, A.M., Kainer, D., Schwessinger, B., Lanfear, R.<br>
+bioRxiv 2018 ([Article](https://doi.org/10.1101/320085))
 
-_From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
-Joshua I. Glaser, Daniel K Wood, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/02/07/251835))
-
-_Sampling Neuron Morphologies_<br>
-Roozbeh Farhoodi, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385)) ([Code](https://github.com/NeuronGenerator/MCMC))
-
-_Spiking allows neurons to estimate their causal effect_<br>
-Benjamin James Lansdell, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/25/253351))
 
 ### 2017
 _The Roles of Machine Learning in Biomedical Science_<br>

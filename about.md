@@ -33,7 +33,7 @@ For PDFs of our work, visit our [publications page](http://Team-Schwessinger.git
 
 Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
 
-**University of Pennsylvania:**
+**Australian National University:**
 - [John Rathjen - Cool Dude](https://biology.anu.edu.au/people/john-rathjen)
 
 

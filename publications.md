@@ -21,7 +21,7 @@ bioRxiv, 2018
 
 _Assembly of chloroplast genomes with long- and short-read data: a comparison of approaches using Eucalyptus pauciflora as a test case_<br>
 Wang, W., Schalamun, M., Suarez, A.M., Kainer, D., Schwessinger, B., Lanfear, R.<br>
-bioRxiv 2018 ([Article](https://doi.org/10.1101/320085))
+bioRxiv, 2018 ([Article](https://doi.org/10.1101/320085))
 
 <hr>
 
@@ -29,67 +29,111 @@ bioRxiv 2018 ([Article](https://doi.org/10.1101/320085))
 
 _The Rice XA21 Ectodomain Fused to the Arabidopsis EFR Cytoplasmic Domain Confers Resistance to Xanthomonas oryzae pv. oryzae._<br>
 Thomas, N.C., Oksenberg, N., Liu, F., Caddell, D., Nalyvayko, A., Nguyen, Y., Schwessinger, B.$, Ronald, P.$<br> 
-PeerJ 2017
+PeerJ, 2017
 
 _A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplome diversity._<br>
 Schwessinger, B.$, Sperschneider, J., Cuddy, W.$, Miller, M., Garnica, D., Taylor, J., Dodds, P., Figueroa, M., Robert, P., Rathjen, J.$<br>
-mBio 2017
+mBio, 2017
 
-Pornsiriwong, W., Estavillo, G.M., Chan, K.X., Tee, E.E., Ganguly, D., Crisp, P.A., Phua, S.Y., Zhao, C., Qiu, J., Park, J., Yong, M.T., Nisar, N., Yadav, A.K., Schwessinger, B., Rathjen, J., Cazzonelli, C.I., Wilson, P.B., Gilliham, M., Chen, Z.-H., Pogson, B.J., 2017. A chloroplast retrograde signal, 3’-phosphoadenosine 5’-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination. Elife 
+_A chloroplast retrograde signal, 3’-phosphoadenosine 5’-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination._<br>
+Pornsiriwong, W., Estavillo, G.M., Chan, K.X., Tee, E.E., Ganguly, D., Crisp, P.A., Phua, S.Y., Zhao, C., Qiu, J., Park, J., Yong, M.T., Nisar, N., Yadav, A.K., Schwessinger, B., Rathjen, J., Cazzonelli, C.I., Wilson, P.B., Gilliham, M., Chen, Z.-H., Pogson, B.J.<br>
+Elife, 2017 
 
-Pruitt, R.N., Joe, A., Zhang, W., Feng, W., Stewart, V., Schwessinger, B., Dinneny, J.R., Ronald, P.C., 2017. A microbially derived tyrosine-sulfated peptide mimics a plant peptide hormone. New Phytol
+_A microbially derived tyrosine-sulfated peptide mimics a plant peptide hormone._<br>
+Pruitt, R.N., Joe, A., Zhang, W., Feng, W., Stewart, V., Schwessinger, B., Dinneny, J.R., Ronald, P.C.<br>
+New Phytol., 2017
 
-Schwessinger, B.$, 2017. Fundamental wheat stripe rust research in the 21st century. New Phytol.
+_Fundamental wheat stripe rust research in the 21st century._<br>
+Schwessinger, B.$<br>
+New Phytol., 2017
 
-Singh, V., Perraki, A., Kim, S.Y., Shrivastava, S., Lee, J.H., Zhao, Y., Schwessinger, B., Oh, M.-H., Marshall-Colon, A., Zipfel, C., Huber, S.C., 2017. Tyrosine-610 in the Receptor Kinase BAK1 Does Not Play a Major Role in Brassinosteroid Signaling or Innate Immunity. Front. Plant Sci
+_Tyrosine-610 in the Receptor Kinase BAK1 Does Not Play a Major Role in Brassinosteroid Signaling or Innate Immunity. Front._<br>
+Singh, V., Perraki, A., Kim, S.Y., Shrivastava, S., Lee, J.H., Zhao, Y., Schwessinger, B., Oh, M.-H., Marshall-Colon, A., Zipfel, C., Huber, S.C.<br>
+Plant Sci., 2017
 
-Thynne, E., Saur, I.M.L., Simbaqueba, J., Ogilvie, H.A., Gonzalez-Cendales, Y., Mead, O., Taranto, A., Catanzariti, A.-M., McDonald, M.C., Schwessinger, B., Jones, D.A., Rathjen, J.P., Solomon, P.S., 2017. Fungal phytopathogens encode functional homologues of plant rapid alkalinization factor (RALF) peptides. Mol. Plant Pathol.
+_Fungal phytopathogens encode functional homologues of plant rapid alkalinization factor (RALF) peptides._<br>
+Thynne, E., Saur, I.M.L., Simbaqueba, J., Ogilvie, H.A., Gonzalez-Cendales, Y., Mead, O., Taranto, A., Catanzariti, A.-M., McDonald, M.C., Schwessinger, B., Jones, D.A., Rathjen, J.P., Solomon, P.S.<br>
+Mol. Plant Pathol., 2017
 
-Schwessinger, B. $, Rathjen, J.P., 2017. Extraction of High Molecular Weight DNA from Fungal Rust Spores for Long Read Sequencing. Methods Mol. Biol.
+_Extraction of High Molecular Weight DNA from Fungal Rust Spores for Long Read Sequencing._<br>
+Schwessinger, B. $, Rathjen, J.P.<br>
+Methods Mol. Biol., 2017
 
-McDonald, M.#, Schwessinger, B.#, Stewart, V., Ronald, P., 2017. Distribution and inheritance of a gene cluster encoding a sulfated tyrosine peptide in Xanthomonas spp. bioRxiv
+_Distribution and inheritance of a gene cluster encoding a sulfated tyrosine peptide in Xanthomonas spp._<br>
+McDonald, M.#, Schwessinger, B.#, Stewart, V., Ronald, P.<br>
+bioRxiv, 2017
 
 <hr>
 
 ### 2016
 
-Bahar, O., Mordukhovich, G., Luu, D.D., Schwessinger, B., Daudi, A., Jehle, A.K., Felix, G., Ronald, P.C., 2016. Bacterial Outer Membrane Vesicles Induce Plant Immune Responses. Mol. Plant Microbe Interact.
+_Bacterial Outer Membrane Vesicles Induce Plant Immune Responses._<br>
+Bahar, O., Mordukhovich, G., Luu, D.D., Schwessinger, B., Daudi, A., Jehle, A.K., Felix, G., Ronald, P.C.<br>
+Mol. Plant Microbe Interact., 2016
 
-Kohler, A.C., Chen, L.-H., Hurlburt, N., Salvucci, A., Schwessinger, B., Fisher, A.J., Stergiopoulos, I., 2016. Structural Analysis of an Avr4 Effector Ortholog Offers Insight into Chitin Binding and Recognition by the Cf-4 Receptor. Plant Cell
+_Structural Analysis of an Avr4 Effector Ortholog Offers Insight into Chitin Binding and Recognition by the Cf-4 Receptor._<br>
+Kohler, A.C., Chen, L.-H., Hurlburt, N., Salvucci, A., Schwessinger, B., Fisher, A.J., Stergiopoulos, I.<br>
+Plant Cell, 2016
 
-Schwessinger, B., Li, X., Ellinghaus, T.L., Chan, L.J.G., Wei, T., Joe, A., Thomas, N., Pruitt, R., Adams, P.D., Chern, M.S., Petzold, C.J., Liu, C.C. $, Ronald, P.C. $, 2016. A second-generation expression system for tyrosine-sulfated proteins and its application in crop protection. Integr. Biol.
+_A second-generation expression system for tyrosine-sulfated proteins and its application in crop protection._<br>
+Schwessinger, B., Li, X., Ellinghaus, T.L., Chan, L.J.G., Wei, T., Joe, A., Thomas, N., Pruitt, R., Adams, P.D., Chern, M.S., Petzold, C.J., Liu, C.C. $, Ronald, P.C. $<br>
+Integr. Biol., 2016
 
-Thomas, N.C.#, Schwessinger, B.#, Liu, F., Chen, H., Wei, T., Nguyen, Y.P., Shaker, I.W.F., Ronald, P.C., 2016. XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves. PeerJ
+_XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves._<br>
+Thomas, N.C.#, Schwessinger, B.#, Liu, F., Chen, H., Wei, T., Nguyen, Y.P., Shaker, I.W.F., Ronald, P.C.<br>
+PeerJ, 2016
 
 <hr>
 
 ### 2015
 
-Lao, J., Sharma, M.K., Sharma, R., Fernández-Niño, S.M.G., Schmutz, J., Ronald, P.C., Heazlewood, J.L., Schwessinger, B. $, 2015. Proteome profile of the endomembrane of developing coleoptiles from switchgrass (Panicum virgatum). Proteomics
+_Proteome profile of the endomembrane of developing coleoptiles from switchgrass (Panicum virgatum)._<br>
+Lao, J., Sharma, M.K., Sharma, R., Fernández-Niño, S.M.G., Schmutz, J., Ronald, P.C., Heazlewood, J.L., Schwessinger, B. $<br>
+Proteomics, 2015 
 
-Pruitt, R.N.#, Schwessinger, B. #,$, Joe, A., Thomas, N., Liu, F., Albert, M., Robinson, M.R., Chan, L.J.G., Luu, D.D., Chen, H., Bahar, O., Daudi, A., Vleesschauwer, D.D., Caddell, D., Zhang, W., Zhao, X., Li, X., Heazlewood, J.L., Ruan, D., Majumder, D., Chern, M., Kalbacher, H., Midha, S., Patil, P.B., Sonti, R.V., Petzold, C.J., Liu, C.C., Brodbelt, J.S., Felix, G., Ronald, P.C.$, 2015. The rice immune receptor XA21 recognizes a tyrosine-sulfated protein from a Gram-negative bacterium. Science Advances
+_The rice immune receptor XA21 recognizes a tyrosine-sulfated protein from a Gram-negative bacterium._<br>
+Pruitt, R.N.#, Schwessinger, B. #,$, Joe, A., Thomas, N., Liu, F., Albert, M., Robinson, M.R., Chan, L.J.G., Luu, D.D., Chen, H., Bahar, O., Daudi, A., Vleesschauwer, D.D., Caddell, D., Zhang, W., Zhao, X., Li, X., Heazlewood, J.L., Ruan, D., Majumder, D., Chern, M., Kalbacher, H., Midha, S., Patil, P.B., Sonti, R.V., Petzold, C.J., Liu, C.C., Brodbelt, J.S., Felix, G., Ronald, P.C.$<br>
+Science Advances, 2015
 
-Schwessinger, B. #, Bahar, O. #, Thomas, N., Holton, N., Nekrasov, V., Ruan, D., Canlas, P.E., Daudi, A., Petzold, C.J., Singan, V.R., Kuo, R., Chovatia, M., Daum, C., Heazlewood, J.L., Zipfel, C., Ronald, P.C., 2015a. Transgenic Expression of the Dicotyledonous Pattern Recognition Receptor EFR in Rice Leads to Ligand-Dependent Activation of Defense Responses. PLoS Pathog
+_Transgenic Expression of the Dicotyledonous Pattern Recognition Receptor EFR in Rice Leads to Ligand-Dependent Activation of Defense Responses._<br>
+Schwessinger, B. #, Bahar, O. #, Thomas, N., Holton, N., Nekrasov, V., Ruan, D., Canlas, P.E., Daudi, A., Petzold, C.J., Singan, V.R., Kuo, R., Chovatia, M., Daum, C., Heazlewood, J.L., Zipfel, C., Ronald, P.C.<br>
+PLoS Pathog., 2015
 
-Schwessinger, B. $, Bart, R., Krasileva, K.V., Coaker, G. $, 2015. Focus issue on plant immunity: from model systems to crop species. Front. Plant Sci
+_Focus issue on plant immunity: from model systems to crop species._<br>
+Schwessinger, B. $, Bart, R., Krasileva, K.V., Coaker, G. $<br>
+Front. Plant Sci., 2015
 
-Schwessinger, B.$, Rathjen, J.P.$, 2015. Changing SERKs and priorities during plant life. Trends in Plant Science
+_Changing SERKs and priorities during plant life._<br>
+Schwessinger, B.$, Rathjen, J.P.$<br>
+Trends in Plant Science, 2015
 
 <hr>
 
 ### 2014
 
-Cain, B., Budke, J.M., Wood, K.J., Sweeney, N.T., Schwessinger, B.$, 2014. How postdocs benefit from building a union. eLife
+_How postdocs benefit from building a union._<br>
+Cain, B., Budke, J.M., Wood, K.J., Sweeney, N.T., Schwessinger, B.$<br>
+eLife, 2014
 
-Chen, X.#, Zuo, S.#, Schwessinger, B.#, Chern, M., Canlas, P.E., Ruan, D., Zhou, X., Wang, J., Daudi, A., Petzold, C.J., Heazlewood, J.L., Ronald, P.C., 2014. An XA21-Associated Kinase (OsSERK2) Regulates Immunity Mediated by the XA21 and XA3 Immune Receptors. Molecular Plant
+_An XA21-Associated Kinase (OsSERK2) Regulates Immunity Mediated by the XA21 and XA3 Immune Receptors._<br>
+Chen, X.#, Zuo, S.#, Schwessinger, B.#, Chern, M., Canlas, P.E., Ruan, D., Zhou, X., Wang, J., Daudi, A., Petzold, C.J., Heazlewood, J.L., Ronald, P.C.<br>
+Molecular Plant, 2014
 
-Macho, A.P. #, Schwessinger, B. #, Ntoukakis, V. #, Brutus, A., Segonzac, C., Roy, S., Kadota, Y., Oh, M.-H., Sklenar, J., Derbyshire, P., Lozano-Durán, R., Malinovsky, F.G., Monaghan, J., Menke, F.L., Huber, S.C., He, S.Y., Zipfel, C., 2014. A Bacterial Tyrosine Phosphatase Inhibits Plant Pattern Recognition Receptor Activation. Science
+_A Bacterial Tyrosine Phosphatase Inhibits Plant Pattern Recognition Receptor Activation._<br>
+Macho, A.P. #, Schwessinger, B. #, Ntoukakis, V. #, Brutus, A., Segonzac, C., Roy, S., Kadota, Y., Oh, M.-H., Sklenar, J., Derbyshire, P., Lozano-Durán, R., Malinovsky, F.G., Monaghan, J., Menke, F.L., Huber, S.C., He, S.Y., Zipfel, C.<br>
+Science, 2014
 
-Malinovsky, F.G., Batoux, M., Schwessinger, B., Youn, J.H., Stransfeld, L., Win, J., Kim, S.-K., Zipfel, C., 2014. Antagonistic Regulation of Growth and Immunity by the Arabidopsis Basic Helix-Loop-Helix Transcription Factor HOMOLOG OF BRASSINOSTEROID ENHANCED EXPRESSION2 INTERACTING WITH INCREASED LEAF INCLINATION1 BINDING bHLH1. Plant Physiol.
+_Antagonistic Regulation of Growth and Immunity by the Arabidopsis Basic Helix-Loop-Helix Transcription Factor HOMOLOG OF BRASSINOSTEROID ENHANCED EXPRESSION2 INTERACTING WITH INCREASED LEAF INCLINATION1 BINDING bHLH1._<br>
+Malinovsky, F.G., Batoux, M., Schwessinger, B., Youn, J.H., Stransfeld, L., Win, J., Kim, S.-K., Zipfel, C.<br>
+Plant Physiol., 2014
 
-Zuo, S., Zhou, X., Chen, M., Zhang, S., Schwessinger, B., Ruan, D., Yuan, C., Wang, J., Chen, X., Ronald, P.C., 2014. OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae. J. Integr. Plant Biol.
+_OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae. J. Integr._<br>
+Zuo, S., Zhou, X., Chen, M., Zhang, S., Schwessinger, B., Ruan, D., Yuan, C., Wang, J., Chen, X., Ronald, P.C.<br>
+Plant Biol., 2014
 
-Bahar, O.#, Pruitt, R.#, Luu, D.D., Schwessinger, B., Daudi, A., Liu, F., Ruan, R., Fontaine-Bodin, L., Koebnik, R., Ronald, P., 2014. The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles. PeerJ
+_The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles._<br>
+Bahar, O.#, Pruitt, R.#, Luu, D.D., Schwessinger, B., Daudi, A., Liu, F., Ruan, R., Fontaine-Bodin, L., Koebnik, R., Ronald, P.<br>
+PeerJ, 2014
 
 <hr>
 
@@ -106,15 +150,15 @@ PNAS, 2012
 
 _Non-arginine-aspartate (non-RD) kinases are associated with innate immune receptors that recognize conserved microbial signatures._<br>
 Dardick, C., Schwessinger, B., Ronald, P.<br>
-Curr Opin Plant Biol, 2012
+Curr. Opin. Plant Biol., 2012
 
 _Tyrosine sulfation in a Gram-negative bacterium._<br>
 Han, S.-W. #, Lee, S.-W. #, Bahar, O., Schwessinger, B., Robinson, M.R., Shaw, J.B., Madsen, J.A., Brodbelt, J.S., Ronald, P.C.<br>
-Nat Commun, 2012
+Nat. Commun., 2012
 
 _Plant innate immunity: perception of conserved microbial signatures._<br>
 Schwessinger, B., Ronald, P.C.<br>
-Annu Rev Plant Biol, 2012
+Annu.. Rev Plant Biol., 2012
 
 _A Common Signaling Process that Promotes Mycorrhizal and Oomycete Colonization of Plants._<br>
 Wang, E.#, Schornack, S.#, Marsh, J.F., Gobbato, E., Schwessinger, B., Eastmond, P., Schultze, M., Kamoun, S., Oldroyd, G.E.D.<br>
@@ -162,7 +206,7 @@ Plant Cell, 2008
 
 _News from the frontline: recent insights into PAMP-triggered immunity in plants_<br>
 Schwessinger, B., Zipfel, C.<br>
-Curr Opin Plant Biol, 2008
+Curr. Opin. Plant Biol., 2008
 
 _Genetic analysis of PAMP-triggered immunity in Arabidopsis, Biology of Plant-Microbe Interactions._<br>
 Jones, J., Zipfel, C., Schwessinger, B., Roux, M.<br>

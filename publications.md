@@ -27,9 +27,13 @@ bioRxiv 2018 ([Article](https://doi.org/10.1101/320085))
 
 ### 2017
 
-Thomas, N.C., Oksenberg, N., Liu, F., Caddell, D., Nalyvayko, A., Nguyen, Y., Schwessinger, B.$, Ronald, P.$, 2017. The Rice XA21 Ectodomain Fused to the Arabidopsis EFR Cytoplasmic Domain Confers Resistance to Xanthomonas oryzae pv. oryzae. PeerJ
+_The Rice XA21 Ectodomain Fused to the Arabidopsis EFR Cytoplasmic Domain Confers Resistance to Xanthomonas oryzae pv. oryzae._<br>
+Thomas, N.C., Oksenberg, N., Liu, F., Caddell, D., Nalyvayko, A., Nguyen, Y., Schwessinger, B.$, Ronald, P.$<br> 
+PeerJ 2017
 
-Schwessinger, B.$, Sperschneider, J., Cuddy, W.$, Miller, M., Garnica, D., Taylor, J., Dodds, P., Figueroa, M., Robert, P., Rathjen, J.$, 2017. A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplome diversity. mBio 
+_A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplome diversity._<br>
+Schwessinger, B.$, Sperschneider, J., Cuddy, W.$, Miller, M., Garnica, D., Taylor, J., Dodds, P., Figueroa, M., Robert, P., Rathjen, J.$<br>
+mBio 2017
 
 Pornsiriwong, W., Estavillo, G.M., Chan, K.X., Tee, E.E., Ganguly, D., Crisp, P.A., Phua, S.Y., Zhao, C., Qiu, J., Park, J., Yong, M.T., Nisar, N., Yadav, A.K., Schwessinger, B., Rathjen, J., Cazzonelli, C.I., Wilson, P.B., Gilliham, M., Chen, Z.-H., Pogson, B.J., 2017. A chloroplast retrograde signal, 3’-phosphoadenosine 5’-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination. Elife 
 
@@ -96,25 +100,41 @@ Bahar, O.#, Pruitt, R.#, Luu, D.D., Schwessinger, B., Daudi, A., Liu, F., Ruan, 
 
 ### 2012
 
-Albrecht, C.#, Boutrot, F.#, Segonzac, C., Schwessinger, B., Gimenez-Ibanez, S., Chinchilla, D., Rathjen, J.P., Vries, S.C. de, Zipfel, C., 2012. Brassinosteroids inhibit pathogen-associated molecular pattern–triggered immune signaling independent of the receptor kinase BAK1. PNAS
+_Brassinosteroids inhibit pathogen-associated molecular pattern–triggered immune signaling independent of the receptor kinase BAK1._<br>
+Albrecht, C.#, Boutrot, F.#, Segonzac, C., Schwessinger, B., Gimenez-Ibanez, S., Chinchilla, D., Rathjen, J.P., Vries, S.C. de, Zipfel, C.<br>
+PNAS, 2012
 
-Dardick, C., Schwessinger, B., Ronald, P., 2012. Non-arginine-aspartate (non-RD) kinases are associated with innate immune receptors that recognize conserved microbial signatures. Curr Opin Plant Biol
+_Non-arginine-aspartate (non-RD) kinases are associated with innate immune receptors that recognize conserved microbial signatures._<br>
+Dardick, C., Schwessinger, B., Ronald, P.<br>
+Curr Opin Plant Biol, 2012
 
-Han, S.-W. #, Lee, S.-W. #, Bahar, O., Schwessinger, B., Robinson, M.R., Shaw, J.B., Madsen, J.A., Brodbelt, J.S., Ronald, P.C., 2012. Tyrosine sulfation in a Gram-negative bacterium. Nat Commun
+_Tyrosine sulfation in a Gram-negative bacterium._<br>
+Han, S.-W. #, Lee, S.-W. #, Bahar, O., Schwessinger, B., Robinson, M.R., Shaw, J.B., Madsen, J.A., Brodbelt, J.S., Ronald, P.C.<br>
+Nat Commun, 2012
 
-Schwessinger, B., Ronald, P.C., 2012. Plant innate immunity: perception of conserved microbial signatures. Annu Rev Plant Biol
+_Plant innate immunity: perception of conserved microbial signatures._<br>
+Schwessinger, B., Ronald, P.C.<br>
+Annu Rev Plant Biol, 2012
 
-Wang, E.#, Schornack, S.#, Marsh, J.F., Gobbato, E., Schwessinger, B., Eastmond, P., Schultze, M., Kamoun, S., Oldroyd, G.E.D., 2012. A Common Signaling Process that Promotes Mycorrhizal and Oomycete Colonization of Plants. Current Biology
+_A Common Signaling Process that Promotes Mycorrhizal and Oomycete Colonization of Plants._<br>
+Wang, E.#, Schornack, S.#, Marsh, J.F., Gobbato, E., Schwessinger, B., Eastmond, P., Schultze, M., Kamoun, S., Oldroyd, G.E.D.<br>
+Current Biology, 2012
 
 <hr>
 
 ### 2011
 
-Ntoukakis, V.#, Schwessinger, B.#, Segonzac, C., Zipfel, C., 2011. Cautionary notes on the use of C-terminal BAK1 fusion proteins for functional studies. Plant Cell
+_Cautionary notes on the use of C-terminal BAK1 fusion proteins for functional studies._<br>
+Ntoukakis, V.#, Schwessinger, B.#, Segonzac, C., Zipfel, C.<br>
+Plant Cell, 2011
 
-Roux, M.#, Schwessinger, B.#, Albrecht, C., Chinchilla, D., Jones, A., Holton, N., Malinovsky, F.G., Tor, M., de Vries, S., Zipfel, C., 2011. The Arabidopsis Leucine-Rich Repeat Receptor-Like Kinases BAK1/SERK3 and BKK1/SERK4 Are Required for Innate Immunity to Hemibiotrophic and Biotrophic Pathogens. Plant Cell
+_The Arabidopsis Leucine-Rich Repeat Receptor-Like Kinases BAK1/SERK3 and BKK1/SERK4 Are Required for Innate Immunity to Hemibiotrophic and Biotrophic Pathogens._<br>
+Roux, M.#, Schwessinger, B.#, Albrecht, C., Chinchilla, D., Jones, A., Holton, N., Malinovsky, F.G., Tor, M., de Vries, S., Zipfel, C.<br>
+Plant Cell, 2011
 
-Schwessinger, B., Roux, M., Kadota, Y., Ntoukakis, V., Sklenar, J., Jones, A., Zipfel, C., 2011. Phosphorylation-Dependent Differential Regulation of Plant Growth, Cell Death, and Innate Immunity by the Regulatory Receptor-Like Kinase BAK1. PLoS Genet
+_Phosphorylation-Dependent Differential Regulation of Plant Growth, Cell Death, and Innate Immunity by the Regulatory Receptor-Like Kinase BAK1_<br>
+Schwessinger, B., Roux, M., Kadota, Y., Ntoukakis, V., Sklenar, J., Jones, A., Zipfel, C.<br>
+PLoS Genet, 2011
 
 <hr>
 
@@ -124,19 +144,29 @@ Schwessinger, B., Roux, M., Kadota, Y., Ntoukakis, V., Sklenar, J., Jones, A., Z
 
 ### 2009
 
-Haas, B.J., Kamoun, S., Zody, M.C., Jiang, R.H., Handsaker, R.E., Cano, L.M., Grabherr, M., Kodira, C.D., Raffaele, S., Torto-Alalibo, T., Bozkurt, T.O., Ah-Fong, A.M., Alvarado, L., Anderson, V.L., Armstrong, M.R., Avrova, A., Baxter, L., Beynon, J., Boevink, P.C., Bollmann, S.R., Bos, J.I., Bulone, V., Cai, G., Cakir, C., Carrington, J.C., Chawner, M., Conti, L., Costanzo, S., Ewan, R., Fahlgren, N., Fischbach, M.A., Fugelstad, J., Gilroy, E.M., Gnerre, S., Green, P.J., Grenville-Briggs, L.J., Griffith, J., Grunwald, N.J., Horn, K., Horner, N.R., Hu, C.H., Huitema, E., Jeong, D.H., Jones, A.M., Jones, J.D., Jones, R.W., Karlsson, E.K., Kunjeti, S.G., Lamour, K., Liu, Z., Ma, L., Maclean, D., Chibucos, M.C., McDonald, H., McWalters, J., Meijer, H.J., Morgan, W., Morris, P.F., Munro, C.A., O’Neill, K., Ospina-Giraldo, M., Pinzon, A., Pritchard, L., Ramsahoye, B., Ren, Q., Restrepo, S., Roy, S., Sadanandom, A., Savidor, A., Schornack, S., Schwartz, D.C., Schumann, U.D., Schwessinger, B., Seyer, L., Sharpe, T., Silvar, C., Song, J., Studholme, D.J., Sykes, S., Thines, M., van de Vondervoort, P.J., Phuntumart, V., Wawra, S., Weide, R., Win, J., Young, C., Zhou, S., Fry, W., Meyers, B.C., van West, P., Ristaino, J., Govers, F., Birch, P.R., Whisson, S.C., Judelson, H.S., Nusbaum, C., 2009. Genome sequence and analysis of the Irish potato famine pathogen Phytophthora infestans. Nature
+_Genome sequence and analysis of the Irish potato famine pathogen Phytophthora infestans._<br>
+Haas, B.J., Kamoun, S., Zody, M.C., Jiang, R.H., Handsaker, R.E., Cano, L.M., Grabherr, M., Kodira, C.D., Raffaele, S., Torto-Alalibo, T., Bozkurt, T.O., Ah-Fong, A.M., Alvarado, L., Anderson, V.L., Armstrong, M.R., Avrova, A., Baxter, L., Beynon, J., Boevink, P.C., Bollmann, S.R., Bos, J.I., Bulone, V., Cai, G., Cakir, C., Carrington, J.C., Chawner, M., Conti, L., Costanzo, S., Ewan, R., Fahlgren, N., Fischbach, M.A., Fugelstad, J., Gilroy, E.M., Gnerre, S., Green, P.J., Grenville-Briggs, L.J., Griffith, J., Grunwald, N.J., Horn, K., Horner, N.R., Hu, C.H., Huitema, E., Jeong, D.H., Jones, A.M., Jones, J.D., Jones, R.W., Karlsson, E.K., Kunjeti, S.G., Lamour, K., Liu, Z., Ma, L., Maclean, D., Chibucos, M.C., McDonald, H., McWalters, J., Meijer, H.J., Morgan, W., Morris, P.F., Munro, C.A., O’Neill, K., Ospina-Giraldo, M., Pinzon, A., Pritchard, L., Ramsahoye, B., Ren, Q., Restrepo, S., Roy, S., Sadanandom, A., Savidor, A., Schornack, S., Schwartz, D.C., Schumann, U.D., Schwessinger, B., Seyer, L., Sharpe, T., Silvar, C., Song, J., Studholme, D.J., Sykes, S., Thines, M., van de Vondervoort, P.J., Phuntumart, V., Wawra, S., Weide, R., Win, J., Young, C., Zhou, S., Fry, W., Meyers, B.C., van West, P., Ristaino, J., Govers, F., Birch, P.R., Whisson, S.C., Judelson, H.S., Nusbaum, C.<br>
+Nature, 2009
 
-Nekrasov, V., Li, J., Batoux, M., Roux, M., Chu, Z.H., Lacombe, S., Rougon, A., Bittel, P., Kiss-Papp, M., Chinchilla, D., van Esse, H.P., Jorda, L., Schwessinger, B., Nicaise, V., Thomma, B.P., Molina, A., Jones, J.D., Zipfel, C., 2009. Control of the pattern-recognition receptor EFR by an ER protein complex in plant immunity. Embo J
+_Control of the pattern-recognition receptor EFR by an ER protein complex in plant immunity._<br>
+Nekrasov, V., Li, J., Batoux, M., Roux, M., Chu, Z.H., Lacombe, S., Rougon, A., Bittel, P., Kiss-Papp, M., Chinchilla, D., van Esse, H.P., Jorda, L., Schwessinger, B., Nicaise, V., Thomma, B.P., Molina, A., Jones, J.D., Zipfel, C.<br>
+Embo J, 2009
 
 <hr>
 
 ### 2008
 
-Conti, L., Price, G., O’Donnell, E., Schwessinger, B., Dominy, P., Sadanandom, A., 2008. Small ubiquitin-like modifier proteases OVERLY TOLERANT TO SALT1 and -2 regulate salt stress responses in Arabidopsis. Plant Cell
+_Small ubiquitin-like modifier proteases OVERLY TOLERANT TO SALT1 and -2 regulate salt stress responses in Arabidopsis._<br>
+Conti, L., Price, G., O’Donnell, E., Schwessinger, B., Dominy, P., Sadanandom, A.<br>
+Plant Cell, 2008
 
-Schwessinger, B., Zipfel, C., 2008. News from the frontline: recent insights into PAMP-triggered immunity in plants. Curr Opin Plant Biol
+_News from the frontline: recent insights into PAMP-triggered immunity in plants_<br>
+Schwessinger, B., Zipfel, C.<br>
+Curr Opin Plant Biol, 2008
 
-Jones, J., Zipfel, C., Schwessinger, B., Roux, M., 2008. Genetic analysis of PAMP-triggered immunity in Arabidopsis, Biology of Plant-Microbe Interactions. International Society for Molecular Plant-Microbe Interactions
+_Genetic analysis of PAMP-triggered immunity in Arabidopsis, Biology of Plant-Microbe Interactions._<br>
+Jones, J., Zipfel, C., Schwessinger, B., Roux, M.<br>
+International Society for Molecular Plant-Microbe Interactions, 2008
 
 <hr>
 

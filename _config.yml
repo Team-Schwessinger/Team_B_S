@@ -22,8 +22,6 @@ highlighter:        rouge
 
 # Navigation
 nav:
- - name:           "Schwessinger lab"
-    href:           "/Team_B_S"
   - name:           "home"
     href:           "/Team_B_S"
   - name:           "about"

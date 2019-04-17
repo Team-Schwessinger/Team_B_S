@@ -1,7 +1,7 @@
-# Kording lab (Bayesian Behavior Lab) page
+# Schwessinger lab (Plant, Fungi, Evolution Lab) page
 
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is a repository for the [Team Schwessinger lab page](http://https://team-schwessinger.github.io/Team_B_S/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 
 ## Run the page locally
@@ -22,23 +22,23 @@ date. Each post can be written in markdown format. You just have to state header
 
 ```
 ---
-title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
-description: all links to CoSMo summer school in computational neuroscience materials
-categories: scientists
+title: How to add a post to the website
+description: Instructions for adding a post to the Team Schwessinger lab page
+categories: everyone
 ---
 ```
 
-We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location.
+We have 4 categories: `everyone`, `researchers`, `discussion`, `blog` you can choose and this will be rendered to different location.
 
 
 ## How to add posts
 
 
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
+- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file in the format `Year-Month-Day-Post-Name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on the [Team Schwessinger](https://team-schwessinger.github.io/Team_B_S/) lab page!
 
 
 ## Add yourself
@@ -47,16 +47,16 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 
 ```
 ---
-name: Eva Dyer
-position: postdoc
-avatar: eva.jpg
-twitter:
-joined: 2014
+name: Benjamin Schwessinger
+position: pi
+avatar: Benjamin-Schwessinger.jpg
+twitter: @Schwessinger
+joined: 2008
 ---
 ```
 
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent` (for Honours and Masters students), `projectstudent` (for undergraduate students), and `staff`. Position will put you into section that you choose.
 
 ## Add new publications
 

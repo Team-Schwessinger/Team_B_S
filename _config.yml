@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Schwessinger... lab"
+name:               "Schwessinger lab"
 title:              "Plants, Fungi, Evolution"
 description:        "This is the webpage page for the Schwessinger lab, we specialise in Rust and MinION and are situated at the Research School of Biology at the Australian  National University, Canberra, Australia."
 
@@ -22,6 +22,8 @@ highlighter:        rouge
 
 # Navigation
 nav:
+ - name:           "Team Schwessinger"
+    href:           "/Team_B_S"
   - name:           "home"
     href:           "/Team_B_S"
   - name:           "about"

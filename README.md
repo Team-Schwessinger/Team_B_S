@@ -1,4 +1,4 @@
-# Schwessinger lab (Plant, Fungi, Evolution Lab) page
+# Team Schwessinger (Plant, Fungi, Evolution Lab) page
 
 
 This is a repository for the [Team Schwessinger lab page](http://https://team-schwessinger.github.io/Team_B_S/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!

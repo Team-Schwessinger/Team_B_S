@@ -10,8 +10,8 @@ description:        "This is the webpage page for the Schwessinger Lab, we speci
 
 # URL
 url:                https://team-schwessinger.github.io/Team_B_S/
-baseurl:            https://team-schwessinger.github.io/Team_B_S/
-#baseurl:            "" #For Root Domain
+baseurl:            /Team_B_S
+#baseurl:            "/Team_B_S" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown

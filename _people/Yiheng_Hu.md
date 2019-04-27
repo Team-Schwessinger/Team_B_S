@@ -1,7 +1,7 @@
 ---
 name: Yiheng Hu
-position: alumni
-avatar: Yiheng.jpg
+position: postdoc
+avatar: yiheng_hu.jpg
 twitter: 
 ---
 

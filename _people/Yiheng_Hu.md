@@ -1,6 +1,6 @@
 ---
 name: Yiheng Hu
-position: gradstudent
+position: postgrad
 avatar: yiheng_hu.jpg
 twitter: 
 ---

@@ -34,6 +34,9 @@ nav:
     href:           "/Team_B_S/extra"
   - name:           "resources"
     href:           "/Team_B_S/resources"
+  - name:           "open science"
+    href:           "/Team_B_S/open_science"
+
 
 # Sass
 sass:

@@ -3,6 +3,10 @@ title: Publication
 permalink: /publication/
 ---
 
+**Publications involving members of Team Schwessinger**
+
+<hr>
+
 For those interested in numbers, see Benjamin's [google scholar citations profile](https://scholar.google.com.au/citations?user=lEhYW3QAAAAJ&hl=en).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.

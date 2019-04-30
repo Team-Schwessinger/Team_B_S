@@ -192,7 +192,7 @@ code {
   padding: .25em .5em;
   font-size: 80%;
   color: #bf616a;
-  background-color: #f9f9f9;
+  background-color: #DB5E90;
   border-radius: 3px;
 }
 
@@ -207,7 +207,7 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   // word-wrap: break-word;
-  background-color: #f9f9f9;
+  background-color: #0000BA;
 }
 
 pre code {
@@ -276,7 +276,7 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: #6BC79C;
 }
 
 .lead {
@@ -529,5 +529,5 @@ tbody tr:nth-child(odd) th {
 // fix menu button for mobile
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
-  background-color: #FFF;
+  background-color: #91BF94;
 }

@@ -7,3 +7,7 @@ joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+I'm an undergraduate student at the ANU, currently looking into tools for improving fungal pathogen identification in plants using the Oxford Nanopore Technologies' MinION sequencer, by investigating the accuracy of the reads, how well they can be mapped to reference genomes, and whether assembly of inaccurate MinION reads can produce an accurate consensus reference genome or reference region for future identification of new or little-studied pathogens.
+
+Relatively new to the world of plants and fungi, I came to Biology with a maths and physics background, and am enjoying applying that to bioinformatic analysis combined with wet-lab work in my projects. The Schwessinger lab has been a great environment for cooperative and collaborative learning from people from all walks of the scientific community.

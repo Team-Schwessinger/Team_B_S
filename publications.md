@@ -4,7 +4,7 @@ permalink: /publication/
 ---
 <hr>
 
-### **Publications involving members of Team Schwessinger**
+#### **Publications involving members of Team Schwessinger**
 
 <hr>
 

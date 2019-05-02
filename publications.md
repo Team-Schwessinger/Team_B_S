@@ -3,7 +3,7 @@ title: Publication
 permalink: /publication/
 ---
    
-   
+<hr>
    
 ### **Publications involving members of Team Schwessinger**
 

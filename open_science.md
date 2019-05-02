@@ -3,6 +3,8 @@ title: Open Science
 permalink: /open_science/
 ---
 
+<hr>
+
 ### **Open Science**
 <div class="content list">
   {% for post in site.posts %}

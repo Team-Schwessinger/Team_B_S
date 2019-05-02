@@ -20,7 +20,7 @@ permalink: /people/
  {% elsif item == 'projectstudent' %}
 <h3>Undergraduate Project Students</h3>
  {% elsif item == 'staff' %}
-<h3>Researcher Fellows</h3>
+<h3>Research Fellows</h3>
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}

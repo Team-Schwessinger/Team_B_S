@@ -27,6 +27,10 @@ _Assembly of chloroplast genomes with long- and short-read data: a comparison of
 Wang, W., Schalamun, M., Suarez, A.M., Kainer, D., Schwessinger, B., Lanfear, R.<br>
 bioRxiv, 2018 ([Article](https://doi.org/10.1101/320085))
 
+_A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplome diversity._<br>
+Schwessinger, B., Sperschneider, J., Cuddy, W., Miller, M., Garnica, D., Taylor, J., Dodds, P., Figueroa, M., Robert, P., Rathjen, J.<br>
+mBio, 2018
+
 <hr>
 
 ### 2017
@@ -34,10 +38,6 @@ bioRxiv, 2018 ([Article](https://doi.org/10.1101/320085))
 _The Rice XA21 Ectodomain Fused to the Arabidopsis EFR Cytoplasmic Domain Confers Resistance to Xanthomonas oryzae pv. oryzae._<br>
 Thomas, N.C., Oksenberg, N., Liu, F., Caddell, D., Nalyvayko, A., Nguyen, Y., Schwessinger, B., Ronald, P.<br> 
 PeerJ, 2017
-
-_A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplome diversity._<br>
-Schwessinger, B., Sperschneider, J., Cuddy, W., Miller, M., Garnica, D., Taylor, J., Dodds, P., Figueroa, M., Robert, P., Rathjen, J.<br>
-mBio, 2017
 
 _A chloroplast retrograde signal, 3’-phosphoadenosine 5’-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination._<br>
 Pornsiriwong, W., Estavillo, G.M., Chan, K.X., Tee, E.E., Ganguly, D., Crisp, P.A., Phua, S.Y., Zhao, C., Qiu, J., Park, J., Yong, M.T., Nisar, N., Yadav, A.K., Schwessinger, B., Rathjen, J., Cazzonelli, C.I., Wilson, P.B., Gilliham, M., Chen, Z.-H., Pogson, B.J.<br>

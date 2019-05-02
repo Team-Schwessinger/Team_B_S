@@ -2,7 +2,6 @@
 title: Extra
 permalink: /extra/
 ---
-<hr>
 
 {% assign reference_types = "news|fun|achievements" | split: "|" %}
 

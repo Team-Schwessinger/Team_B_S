@@ -1,5 +1,5 @@
 ---
-name: Jamila 
+name: Jamila Nasim
 position: gradstudent
 avatar: Jamilla.jpg
 twitter: 

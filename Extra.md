@@ -3,7 +3,7 @@ title: Extra
 permalink: /extra/
 ---
 
-### **Blog posts from the lab**
+### **Extras from the lab**
 
 <div class="content list">
   {% for post in site.posts %}

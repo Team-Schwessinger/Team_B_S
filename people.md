@@ -49,5 +49,5 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| Aisha Ward | Staff (2019) | Nowhere at [Schwessinger lab](https://biology.anu.edu.au/research/groups/schwessinger-group-plants-fungi-evolution), ANU
+| Aisha Ward | Staff (2019) | Still at [Schwessinger lab](https://biology.anu.edu.au/research/groups/schwessinger-group-plants-fungi-evolution), ANU
 

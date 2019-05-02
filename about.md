@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
+<hr>
+
 ### About us
 We are a highly collaborative and interactive team that studies the interaction of fungi and plants. We use a wide varity of tools reaching from biochemistry, bioinformatics, genomics, to environmental sampling. Modern biology is best mixed by combining good 'old school' biochemistry with modern data science stired with interesting biological questions.
 

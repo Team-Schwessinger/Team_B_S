@@ -14,7 +14,7 @@ permalink: /people/
  {% elsif item == 'pi' %}
 <h3>Principal Investigator</h3>
  {% elsif item == 'postgrad' %}
-<h3>Post Graduate Researcher</h3>
+<h3>PhD Students</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Masters and Honours Students</h3>
  {% elsif item == 'projectstudent' %}

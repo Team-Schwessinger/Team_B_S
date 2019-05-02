@@ -3,8 +3,7 @@ title: Reference
 permalink: /resources/
 ---
 
-
-
+<hr>
 
 {% assign reference_types = "everyone|researchers|discussion" | split: "|" %}
 

@@ -6,6 +6,8 @@ permalink: /about/
 ### About us
 We are a highly collaborative and interactive team that studies the interaction of fungi and plants. We use a wide varity of tools reaching from biochemistry, bioinformatics, genomics, to environmental sampling. Modern biology is best mixed by combining good 'old school' biochemistry with modern data science stired with interesting biological questions.
 
+### How to join our Team
+
 ### Research
 We study these plant-fungi interactions on multiple molecular and temporal scales. This includes many aspects:
 
@@ -36,6 +38,6 @@ For PDFs of our work, visit our [publications page](http://Team-Schwessinger.git
 Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
 
 **Australian National University:**
-- [John Rathjen - Cool Dude](https://biology.anu.edu.au/people/john-rathjen)
+- [John Rathjen - Rathjen Group, Plant Immunity](https://biology.anu.edu.au/people/john-rathjen)
 
 

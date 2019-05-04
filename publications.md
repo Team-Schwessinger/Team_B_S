@@ -219,12 +219,17 @@ International Society for Molecular Plant-Microbe Interactions, 2008
 
 <hr>
 
-### Published Preprints
+### Preprints that might never be published
 
 
 <hr>
 
-### Not Classical Journal Published Preprints
+### Preprints that will maybe be published
+
+
+<hr>
+
+### Preprints that have been published
 
 
 <hr>

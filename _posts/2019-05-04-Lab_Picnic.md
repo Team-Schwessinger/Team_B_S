@@ -17,4 +17,4 @@ What to bring: Your family and partners and some sort of potluck/snack to be sha
 
 Remember, ideally we will be taking lab team pictures, so dress up how you would like to be photographed!
 
-Hope to see you there Team Schwessinger
+Hope to see all of Team Schwessinger there!

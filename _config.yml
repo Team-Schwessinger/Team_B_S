@@ -30,12 +30,14 @@ nav:
     href:           "/Team_B_S/publication"
   - name:           "people"
     href:           "/Team_B_S/people"
-  - name:           "extra"
-    href:           "/Team_B_S/extra"
   - name:           "resources"
     href:           "/Team_B_S/resources"
   - name:           "open science"
     href:           "/Team_B_S/open_science"
+  - name:           "How to join"
+    href:           "/Team_B_S/how_to_join"
+  - name:           "extra"
+    href:           "/Team_B_S/extra"
 
 
 # Sass

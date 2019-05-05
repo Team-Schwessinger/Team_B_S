@@ -1,5 +1,6 @@
 ---
-title: How to Join Team Schwessinger
+title: How to Join 
 permalink: /how_to_join/
 ---
 
+### How to Join Team Schwessinger

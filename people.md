@@ -5,7 +5,7 @@ permalink: /people/
 
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|postgrad|gradstudent|projectstudent|staff|alumni" | split: "|" %}
+{% assign people_array = "pi|postdoc|postgrad|gradstudent|projectstudent|staff|previous|alumni" | split: "|" %}
 
 {% for item in people_array %}
 
@@ -22,6 +22,8 @@ permalink: /people/
 <h3>Undergraduate Project Students</h3>
  {% elsif item == 'staff' %}
 <h3>Research Fellows</h3>
+ % elsif item == 'previous' %}
+<h3>Previously (Co-) Supervised Students</h3>
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -47,7 +49,7 @@ permalink: /people/
 {% endfor %}
 
 
-| Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
-| Aisha Ward | Staff (2019) | Still at [Schwessinger lab](https://biology.anu.edu.au/research/groups/schwessinger-group-plants-fungi-evolution), ANU
+| Who are they | When were they here | What were they | What did they research | Where they went |
+| :------------- |:-------------| :-----------| :-----------| :-----------|
+| Aisha Ward | 2019 | Staff| How to make a website | Still at [Schwessinger lab](https://biology.anu.edu.au/research/groups/schwessinger-group-plants-fungi-evolution), ANU
 

@@ -50,5 +50,21 @@ permalink: /people/
 
 | Who are they | When were they here | What were they | What did they research | Where they went |
 | :------------- |:-------------| :-----------| :-----------| :-----------|
-| Aisha Ward | 2019 | Staff| How to make a website | Still at [Schwessinger lab](https://biology.anu.edu.au/research/groups/schwessinger-group-plants-fungi-evolution), ANU
-
+| Amy MacKenzie | 2018 | Co-advised Honour Student | BLANK | BLANK
+| Anjuni Peiris | 2018 | Co-advised Honour Student | BLANK | BLANK
+| Miriam Schalamun | 2017 | Co-advised Master Student | BLANK | BLANK
+| Richard Tien | 2017 | Undergraduate Summer Student | BLANK | BLANK
+| Gamran Green | 2017 | Undergraduate Summer Student | BLANK | BLANK
+| Yiheng Hu | 2016 | Co-advised Master Student | BLANK | PhD with the Schwessinger lab
+| Daniel Stephens | 2016 | Undergraduate Summer Student | BLANK | BLANK
+| Ramawatar Nagar | 2015- | Co-advised PhD Student | BLANK | BLANK
+| Furong Liu | 2014-2017 | Co-advised PhD Student | BLANK | BLANK
+| Yen Nguyen | 2013-2015 | Undergraduate Project Student | BLANK | BLANK
+| Marielle Palatino | 2013-2014 | Undergraduate Project Student | BLANK | BLANK
+| Michael Owen | 2013 | Undergraduate Project Student | BLANK | BLANK
+| Nick Thomas | 2012-2016 | Co-advised PhD Student | BLANK | BLANK
+| Daniel Caddell | 2012-2015 | Co-advised PhD Student | BLANK | BLANK
+| Thomas Dougan | 2012 | Undergraduate Project Student | BLANK | BLANK
+| Isaac Shaker | 2011-2013 | Undergraduate Project Student | BLANK | BLANK
+| Sonali Roy | 2010 | Co-advised PhD Rotation | BLANK | BLANK
+| Johannes Hofberger | 2009 | Co-advised Master Student | BLANK | BLANK

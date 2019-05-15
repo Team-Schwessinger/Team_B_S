@@ -20,10 +20,10 @@ _How to facilitate a global open science early-career research community with lo
 B. Schwessinger 2019. In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. The Australian National University: The Australian National Centre for the Public Awareness of Science. (doi: 10.25911/5c82370880d04)
 
 _Variation and inheritance of the Xanthomonas raxX-raxSTAB gene cluster required for activation of XA21-mediated immunity._ <br>
-F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. (doi: 10.1111/mpp.12783)[https://doi.org/10.1111/mpp.12783]
+F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. [doi: 10.1111/mpp.12783](https://doi.org/10.1111/mpp.12783)
 
 _Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer._ <br>
-Y. Hu, G. S. Green, A. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger 2019. Phytobiomes Journal. (doi: 10.1094/PBIOMES-01-19-0004-R)[https://doi.org/10.1094/PBIOMES-01-19-0004-R]
+Y. Hu, G. S. Green, A. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger 2019. Phytobiomes Journal. [doi: 10.1094/PBIOMES-01-19-0004-R](https://doi.org/10.1094/PBIOMES-01-19-0004-R)
 
 _Effective data management to promote reproducibility. D. Ganguly, P. A. Crisp and B. Schwessinger 2019._ <br>
 In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. ed. The Australian National University: The Australian National Centre for the Public Awareness of Science. (doi: 10.25911/5c6e70f61de37)

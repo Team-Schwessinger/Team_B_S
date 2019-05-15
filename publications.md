@@ -17,7 +17,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2019
 
 _How to facilitate a global open science early-career research community with local impact._ <br> 
-B. Schwessinger 2019. In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c82370880d04](https://openresearch-repository.anu.edu.au/handle/1885/157033). [PDF](https://github.com/Team-Schwessinger/Team_B_S/tree/gh-pages/_publication_pdfs/How_to_facilitate.pdf)
+B. Schwessinger 2019. In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c82370880d04](https://openresearch-repository.anu.edu.au/handle/1885/157033). PDF of paper available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/How_to_facilitate.pdf)
 
 _Variation and inheritance of the Xanthomonas raxX-raxSTAB gene cluster required for activation of XA21-mediated immunity._ <br>
 F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. [doi: 10.1111/mpp.12783](https://doi.org/10.1111/mpp.12783)

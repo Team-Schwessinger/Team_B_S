@@ -7,8 +7,8 @@ twitter: schwessinger
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
-- _Science coach. Collaborator. Transdisciplinary optimist._
+- _Australian National University_<br>
+- _Plants and Fungi._
 
 <i class="fa fa-envelope-o"></i> `benjamin.schwessinger@anu.edu.au`
 

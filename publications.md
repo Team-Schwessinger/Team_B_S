@@ -120,7 +120,7 @@ N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. S
 ### 2015
 
 _Changing SERKs and priorities during plant life._ <br> 
-B. Schwessinger and J. P. Rathjen 2015. Trends in Plant Science, 20, 531-533. [doi: https://doi.org/10.1016/j.tplants.2015.06.006](http://www.sciencedirect.com/science/article/pii/S1360138515001521)
+B. Schwessinger and J. P. Rathjen 2015. Trends in Plant Science, 20, 531-533. [doi: 10.1016/j.tplants.2015.06.006](http://www.sciencedirect.com/science/article/pii/S1360138515001521)
 
 _A second-generation expression system for tyrosine-sulfated proteins and its application in crop protection._ <br> 
 B. Schwessinger, X. Li, T. L. Ellinghaus, L. J. G. Chan, T. Wei, A. Joe, N. Thomas, R. Pruitt, P. D. Adams, M. S. Chern, C. J. Petzold, C. C. Liu and P. C. Ronald 2015. Integrative Biology, 8, 542-545. [doi: 10.1039/c5ib00232j](https://doi.org/10.1039/c5ib00232j)
@@ -179,7 +179,7 @@ _Plant Innate Immunity: Perception of Conserved Microbial Signatures._ <br>
  B. Schwessinger and P. C. Ronald 2012. Annual Review of Plant Biology, 63, 451-482. [doi: 10.1146/annurev-arplant-042811-105518](https://doi.org/10.1146/annurev-arplant-042811-105518)
 
 _A Common Signaling Process that Promotes Mycorrhizal and Oomycete Colonization of Plants._ <br> 
-E. Wang, S. Schornack, John F. Marsh, E. Gobbato, B. Schwessinger, P. Eastmond, M. Schultze, S. Kamoun and Giles E. D. Oldroyd 2012. Current Biology, 22, 2242-2246. [doi: https://doi.org/10.1016/j.cub.2012.09.043](http://www.sciencedirect.com/science/article/pii/S0960982212011451)
+E. Wang, S. Schornack, John F. Marsh, E. Gobbato, B. Schwessinger, P. Eastmond, M. Schultze, S. Kamoun and Giles E. D. Oldroyd 2012. Current Biology, 22, 2242-2246. [doi: 10.1016/j.cub.2012.09.043](http://www.sciencedirect.com/science/article/pii/S0960982212011451)
 
 <hr>
 
@@ -219,7 +219,7 @@ _Small ubiquitin-like modifier proteases OVERLY TOLERANT TO SALT1 and-2 regulate
  L. Conti, G. Price, E. Donnell, B. Schwessinger, P. Dominy and A. Sadanandom 2008. The Plant Cell, 20, 2894. [doi: 10.1105/tpc.108.058669](http://www.plantcell.org/content/20/10/2894.abstract)
 
 _News from the frontline: recent insights into PAMP-triggered immunity in plants._<br>
- B. Schwessinger and C. Zipfel 2008. Current Opinion in Plant Biology, 11, 389-395. [doi: https://doi.org/10.1016/j.pbi.2008.06.001](http://www.sciencedirect.com/science/article/pii/S1369526608001040)
+ B. Schwessinger and C. Zipfel 2008. Current Opinion in Plant Biology, 11, 389-395. [doi: 10.1016/j.pbi.2008.06.001](http://www.sciencedirect.com/science/article/pii/S1369526608001040)
 
 <hr>
 

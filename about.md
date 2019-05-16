@@ -28,16 +28,12 @@ Our 2019 lab projects include:
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | B. Schwessinger | 02/2019 | Mozilla Science Foundation, Reproducibility for Everyone | Science Grant | $15, 000 | Principal Investigator |
 | B. Schwessinger | 11/2018 | Research School Biology, Increasing Scientific Rigor at RSB | Science Grant | $10, 000 | Principal Investigator |
-| B. Schwessinger | 10/2018 - 09/2022 | Australian Research Council, Identify, characterise, detect factors causing
-wheat disease epidemics | Research Grant | $780, 000 | Principal Investigator |
+| B. Schwessinger | 10/2018 - 09/2022 | Australian Research Council - Identify, characterise, detect factors causing wheat disease epidemics | Research Grant | $780, 000 | Principal Investigator |
 | B. Schwessinger | 07/2017 - 06/2019 | Hermon Slade Foundation, Rapid detection and diagnosis of plant pathogens | Innovation Grant | $50, 000 | co-Principal Investigator |
 | B. Schwessinger | 05/2015 - 04/2017 | Bioplatform Australia, Sequencing grant for wheat stripe rust fungi | Sequencing Grant | $30, 000 | co-Principal Investigator |
-| B. Schwessinger | 09/2015 - 09/2018 | Australian Research Council, Understanding the genomic and epigenomic
-mechanisms driving the evolution of highly virulent stripe rust races | Research Grant | $350, 000 | Principal Investigator |
-| B. Schwessinger | 07/2012 - 09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-
-RD kinases in plant immunity | Postdoctoral Grant | $195, 000 | Principal Investigator |
-| B. Schwessinger | 01/2012 - 07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function
-of non-RD kinases in plant immunity | Postdoctoral Grant | $80, 000 | Principal Investigator |
+| B. Schwessinger | 09/2015 - 09/2018 | Australian Research Council, Understanding the genomic and epigenomic mechanisms driving the evolution of highly virulent stripe rust races | Research Grant | $350, 000 | Principal Investigator |
+| B. Schwessinger | 07/2012 - 09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $195, 000 | Principal Investigator |
+| B. Schwessinger | 01/2012 - 07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $80, 000 | Principal Investigator |
 
 
 ### Awards, Fellowships and Scholarships

@@ -3,16 +3,19 @@ title: Extra
 permalink: /extra/
 ---
 
+
+
+
 {% assign reference_types = "news|achievements|fun" | split: "|" %}
 
 {% for type in reference_types %}
 
 {% if type == 'news' %}
-### **In the News** 
+### **In the News**
  {% elsif type == 'achievements' %}
-### **Great Achievements for Team Schwessinger** 
+### **Great achievements for Team Schwessinger**
  {% elsif type == 'fun' %}
-### **Lab Extra-curricular activities** 
+### **Lab extracurricular activities**
 {% endif %}
 
 <div class="content list">
@@ -29,4 +32,3 @@ permalink: /extra/
 
 <hr>
 {% endfor %}
-

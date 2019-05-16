@@ -6,7 +6,7 @@ permalink: /extra/
 
 
 
-{% assign reference_types = "news|achievements|fun" | split: "|" %}
+{% assign reference_types = "news|achievements|collaborators|fun" | split: "|" %}
 
 {% for type in reference_types %}
 
@@ -14,6 +14,8 @@ permalink: /extra/
 ### **In the News**
  {% elsif type == 'achievements' %}
 ### **Great achievements for Team Schwessinger**
+ {% elsif type == 'collaborators' %}
+### **Collaborators of Team Schwessinger**
  {% elsif type == 'fun' %}
 ### **Lab extracurricular activities**
 {% endif %}

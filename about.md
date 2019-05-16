@@ -24,33 +24,21 @@ Our 2019 lab projects include:
 
 ### Funding and Grants (>=$10, 000 AUD)
 
-**B. Schwessinger - 02/2019**, _Mozilla Science Foundation, Reproducibility for Everyone_<br>
-Science Grant - $15.000, ROLE: Principal Investigator
+| Granted to | When | What | Grant type | Amount | Role |
+| :------------- |:-------------| :-----------| :-----------| :-----------|
+| B. Schwessinger | 02/2019 | Mozilla Science Foundation, Reproducibility for Everyone | Science Grant | $15, 000 | Principal Investigator |
+| B. Schwessinger | 11/2018 | Research School Biology, Increasing Scientific Rigor at RSB | Science Grant | $10, 000 | Principal Investigator |
+| B. Schwessinger | 10/2018 - 09/2022 | Australian Research Council, Identify, characterise, detect factors causing
+wheat disease epidemics | Research Grant | $780, 000 | Principal Investigator |
+| B. Schwessinger | 07/2017 - 06/2019 | Hermon Slade Foundation, Rapid detection and diagnosis of plant pathogens | Innovation Grant | $50, 000 | co-Principal Investigator |
+| B. Schwessinger | 05/2015 - 04/2017 | Bioplatform Australia, Sequencing grant for wheat stripe rust fungi | Sequencing Grant | $30, 000 | co-Principal Investigator |
+| B. Schwessinger | 09/2015 - 09/2018 | Australian Research Council, Understanding the genomic and epigenomic
+mechanisms driving the evolution of highly virulent stripe rust races | Research Grant | $350, 000 | Principal Investigator |
+| B. Schwessinger | 07/2012 - 09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-
+RD kinases in plant immunity | Postdoctoral Grant | $195, 000 | Principal Investigator |
+| B. Schwessinger | 01/2012 - 07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function
+of non-RD kinases in plant immunity | Postdoctoral Grant | $80, 000 | Principal Investigator |
 
-**B. Schwessinger - 11/2018** _Research School Biology, Increasing Scientific Rigor at RSB_ <br> 
-Science Grant - $10.000, ROLE: Principal Investigator
-
-**B. Schwessinger - 10/2018 - 09/2022** _Australian Research Council, Identify, characterise, detect factors causing
-wheat disease epidemics_ <br>
-Research Grant - $780,000, ROLE: Principal Investigator
-
-**B. Schwessinger - 07/2017 - 06/2019** _Hermon Slade Foundation, Rapid detection and diagnosis of plant pathogens_ <br>
-Innovation Grant - $50.000, ROLE: co-Principal Investigator
-
-**B. Schwessinger - 05/2015 - 04/2017** _Bioplatform Australia, Sequencing grant for wheat stripe rust fungi_ <br>
-Sequencing Grant - $30.000, ROLE: co-Principal Investigator
-
-**B. Schwessinger - 09/2015 - 09/2018** _Australian Research Council, Understanding the genomic and epigenomic
-mechanisms driving the evolution of highly virulent stripe rust races_ <br>
-Research Grant - $350.000, ROLE: Principal Investigator
-
-**B. Schwessinger - 07/2012 - 09/2015** _Human Frontier Science Program Long-Term Fellowship, Function of non-
-RD kinases in plant immunity_ <br>
-Postdoctoral Grant - $195.000, ROLE: Principal Investigator
-
-**B. Schwessinger - 01/2012 - 07/2015** _European Molecular Biology Organization Long-Term Fellowship, Function
-of non-RD kinases in plant immunity_ <br>
-Postdoctoral Grant - $80.000 ROLE: Principal Investigator
 
 ### Awards, Fellowships and Scholarships
 

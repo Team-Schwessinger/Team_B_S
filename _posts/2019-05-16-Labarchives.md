@@ -10,3 +10,5 @@ As such, the Research School of Biology is endeavouring to introduce LabArchives
 The ANU LabArchives login can be found [here](https://aushib.labarchives.com?entityID=https%3A%2F%2Fidp2.anu.edu.au%2Fidp%2Fshibboleth).
 
 An introduction to how to use LabArchives can be found [here](_______________).
+
+Any questions you still have about LabArchives, please email [Aisha](mailto:aisha.ward@anu.edu.au) to organise a one-on-one tutorial.

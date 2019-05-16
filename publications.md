@@ -236,7 +236,6 @@ _News from the frontline: recent insights into PAMP-triggered immunity in plants
 <hr>
 
 ### Preprints that have been published
-References
 
 _An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors_ <br>
 X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2)

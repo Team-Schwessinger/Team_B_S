@@ -25,6 +25,8 @@ Our 2019 lab projects include:
 ### The science beyond the 'lab'
 Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science.
 
+<hr>
+
 ### Funding and Grants (>=$10, 000 AUD)
 
 | Granted to | When | What | Grant type | Amount (AUD) | Role |
@@ -38,6 +40,7 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 | B. S. | 07/2012-09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $195k | Principal Investigator |
 | B. S. | 01/2012-07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $80k | Principal Investigator |
 
+<hr>
 
 ### Awards, Fellowships and Scholarships
 

@@ -25,7 +25,7 @@ Our 2019 lab projects include:
 ### Funding and Grants (>=$10, 000 AUD)
 
 | Granted to | When | What | Grant type | Amount | Role |
-| :------------- |:-------------| :-----------| :-----------| :-----------|
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | B. Schwessinger | 02/2019 | Mozilla Science Foundation, Reproducibility for Everyone | Science Grant | $15, 000 | Principal Investigator |
 | B. Schwessinger | 11/2018 | Research School Biology, Increasing Scientific Rigor at RSB | Science Grant | $10, 000 | Principal Investigator |
 | B. Schwessinger | 10/2018 - 09/2022 | Australian Research Council, Identify, characterise, detect factors causing

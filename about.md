@@ -27,7 +27,7 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 
 <hr>
 
-### Funding and Grants (>=$10, 000 AUD)
+### **Funding and Grants (>=$10, 000 AUD)**
 
 | Granted to | When | What | Grant type | Amount (AUD) | Role |
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
@@ -42,7 +42,7 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 
 <hr>
 
-### Awards, Fellowships and Scholarships
+### **Awards, Fellowships and Scholarships**
 
 | Awarded to | When | Award type | What | 
 | :----------- | :----------- | :----------- | :----------- | 

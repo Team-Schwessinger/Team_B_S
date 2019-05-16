@@ -15,7 +15,7 @@ body {
 }
 
 html {
-  font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu",  sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: .5rem;
   font-weight: 600;
-  font-family: "Open Sans", "Source Sans Pro";
+  font-family: "Ubuntu";
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
@@ -73,14 +73,14 @@ h4, h5, h6 {
 }
 
 p {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: "Ubuntu";
   font-weight: 300;
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: "Ubuntu";
   font-weight: 300;
   font-size: 0.8rem;
   margin-top: 0;
@@ -502,7 +502,7 @@ tbody tr:nth-child(odd) th {
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;

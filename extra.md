@@ -16,6 +16,8 @@ permalink: /extra/
 ### **Great achievements for Team Schwessinger**
  {% elsif type == 'collaborators' %}
 ### **Collaborators of Team Schwessinger**
+Here are some cool people in fields that interest us. note: This list is in no way complete. We have a lot of collaborators – if you’ve collaborated with us and want a link here, let us know!
+
  {% elsif type == 'fun' %}
 ### **Lab extracurricular activities**
 {% endif %}

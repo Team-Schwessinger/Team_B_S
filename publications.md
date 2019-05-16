@@ -25,9 +25,6 @@ In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Austral
 _Differential effect of a novel BAK1 allele on brassinosteroid, innate immunity and cell death signalling._ <br>
 B. Schwessinger, M. Roux, J. W. Borst, A. Vries, T. Mentzel, D. Chinchilla, N. Holton, M. Tör, B. Kemmerling, B. Thomma and C. Zipfel 2019. [Available here](https://www.researchgate.net/publication/43609751_Differential_effect_of_a_novel_BAK1_allele_on_brassinosteroid_innate_immunity_and_cell_death_signalling)
 
-_On the value of preprints: An early career researcher perspective._ <br>
-S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hensel 2019. PLOS Biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](https://doi.org/10.1371/journal.pbio.3000151)
-
 _Harnessing the MinION: An example of how to establish long-read sequencing in a laboratory using challenging plant tissue from Eucalyptus pauciflora._ <br>
 M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfear and B. Schwessinger 2019. Molecular Ecology Resources, 19, 77-89. [doi: 10.1111/1755-0998.12938](https://doi.org/10.1111/1755-0998.12938)
 
@@ -43,12 +40,6 @@ Christiana J McDonald-Spicer, Benjamin Schwessinger and S. Howitt. 2018. [Online
 
 _Engineering pathogen resistance in plants._ <br> 
 B. Schwessinger, Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461. [Available here](https://patents.google.com/patent/US20180002717A1/en)
-
-_Maintaining confidence in the reporting of scientific outputs._ <br>
-S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints, 6, e27098v1. [doi: 10.7287/peerj.preprints.27098v1](https://doi.org/10.7287/peerj.preprints.27098v1)
-
-_Departmental-level approaches to gender equity in biology._ <br>
-C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints, 6, e27325v1. [doi: 10.7287/peerj.preprints.27325v1](https://doi.org/10.7287/peerj.preprints.27325v1)
 
 _Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling._ <br>
 A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 561, 248-252. [doi: 10.1038/s41586-018-0471-x](https://doi.org/10.1038/s41586-018-0471-x)
@@ -88,9 +79,6 @@ O. Bahar, G. Mordukhovich, D. D. Luu, B. Schwessinger, A. Daudi, A. K. Jehle, G.
 _Structural Analysis of an Avr4 Effector Ortholog Offers Insight into Chitin Binding and Recognition by the Cf-4 Receptor._ <br> 
 A. C. Kohler, L.-H. Chen, N. Hurlburt, A. Salvucci, B. Schwessinger, A. J. Fisher and I. Stergiopoulos 2016. The Plant Cell, 28, 1945. [doi: 10.1105/tpc.15.00893](http://www.plantcell.org/content/28/8/1945.abstract)
 
-_XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves._ <br> 
-N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ, 4, e2446. [doi: 10.7717/peerj.2446](https://doi.org/10.7717/peerj.2446)
-
 <hr>
 
 ### 2015
@@ -113,9 +101,6 @@ R. N. Pruitt, B. Schwessinger, A. Joe, N. Thomas, F. Liu, M. Albert, M. R. Robin
 <hr>
 
 ### 2014
-
-_The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles._ <br> 
-O. Bahar, R. Pruitt, D. D. Luu, B. Schwessinger, A. Daudi, F. Liu, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2014. PeerJ, 2, e242. [doi: 10.7717/peerj.242](https://doi.org/10.7717/peerj.242)
 
 _Point of View: How postdocs benefit from building a union._ <br>
 B. Cain, J. M. Budke, K. J. Wood, N. T. Sweeney and B. Schwessinger 2014. eLife, 3, e05614. [doi: 10.7554/eLife.05614](https://doi.org/10.7554/eLife.05614)
@@ -197,11 +182,24 @@ _News from the frontline: recent insights into PAMP-triggered immunity in plants
 
 ### Preprints that might never be published
 
+_XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves._ <br> 
+N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ, 4, e2446. [doi: 10.7717/peerj.2446](https://doi.org/10.7717/peerj.2446)
+
+_The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles._ <br> 
+O. Bahar, R. Pruitt, D. D. Luu, B. Schwessinger, A. Daudi, F. Liu, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2014. PeerJ, 2, e242. [doi: 10.7717/peerj.242](https://doi.org/10.7717/peerj.242)
 
 <hr>
 
 ### Preprints that will maybe be published
 
+_On the value of preprints: An early career researcher perspective._ <br>
+S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hensel 2019. PLOS Biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](https://doi.org/10.1371/journal.pbio.3000151)
+
+_Departmental-level approaches to gender equity in biology._ <br>
+C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints, 6, e27325v1. [doi: 10.7287/peerj.preprints.27325v1](https://doi.org/10.7287/peerj.preprints.27325v1)
+
+_Maintaining confidence in the reporting of scientific outputs._ <br>
+S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints, 6, e27098v1. [doi: 10.7287/peerj.preprints.27098v1](https://doi.org/10.7287/peerj.preprints.27098v1)
 
 <hr>
 

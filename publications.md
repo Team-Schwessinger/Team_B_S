@@ -19,12 +19,6 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 _How to facilitate a global open science early-career research community with local impact._ <br> 
 B. Schwessinger 2019. In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c82370880d04](https://openresearch-repository.anu.edu.au/handle/1885/157033). PDF of paper available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/How_to_facilitate.pdf)
 
-_Variation and inheritance of the Xanthomonas raxX-raxSTAB gene cluster required for activation of XA21-mediated immunity._ <br>
-F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. [doi: 10.1111/mpp.12783](https://doi.org/10.1111/mpp.12783)
-
-_Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer._ <br>
-Y. Hu, G. S. Green, A. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger 2019. Phytobiomes Journal. [doi: 10.1094/PBIOMES-01-19-0004-R](https://doi.org/10.1094/PBIOMES-01-19-0004-R)
-
 _Effective data management to promote reproducibility. D. Ganguly, P. A. Crisp and B. Schwessinger 2019._ <br>
 In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. ed. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c6e70f61de37](https://openresearch-repository.anu.edu.au/bitstream/1885/157033/1/20190225_ANU.pdf).
 
@@ -50,26 +44,11 @@ Christiana J McDonald-Spicer, Benjamin Schwessinger and S. Howitt. 2018. [Online
 _Engineering pathogen resistance in plants._ <br> 
 B. Schwessinger, Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461. [Available here](https://patents.google.com/patent/US20180002717A1/en)
 
-_A near-complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high interhaplotype diversity._ <br>
-B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. M. Taylor, P. N. Dodds, M. Figueroa, R. F. Park and J. P. Rathjen 2018. mBio, 9, e02275-17. [doi: 10.1128/mBio.02275-17](http://mbio.asm.org/content/9/1/e02275-17.abstract)
-
 _Maintaining confidence in the reporting of scientific outputs._ <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints, 6, e27098v1. [doi: 10.7287/peerj.preprints.27098v1](https://doi.org/10.7287/peerj.preprints.27098v1)
 
 _Departmental-level approaches to gender equity in biology._ <br>
 C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints, 6, e27325v1. [doi: 10.7287/peerj.preprints.27325v1](https://doi.org/10.7287/peerj.preprints.27325v1)
-
-_The rice XA21 ectodomain fused to the Arabidopsis EFR cytoplasmic domain confers resistance to Xanthomonas oryzae pv. oryzae._ <br>
-N. C. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schwessinger and P. C. Ronald 2018. PeerJ, 6, e4456. [doi: 10.7717/peerj.4456](https://doi.org/10.7717/peerj.4456)
-
-_A comprehensive toolkit to enable MinION long-read sequencing in any laboratory._ <br> 
-M. Schalamun, D. Kainer, E. Beavan, R. Nagar, D. Eccles, J. Rathjen, R. Lanfear and B. Schwessinger 2018. bioRxiv, 289579. [doi: 10.1101/289579](http://biorxiv.org/content/early/2018/03/27/289579.abstract)
-
-_De novo assembly and phasing of dikaryotic genomes from two isolates of Puccinia coronata f. sp. avenae, the causal agent of oat crown rust._ <br>
-M. E. Miller, Y. Zhang, V. Omidvar, J. Sperschneider, B. Schwessinger, C. Raley, J. M. Palmer, D. Garnica, N. Upadhyaya, J. Rathjen, J. M. Taylor, R. F. Park, P. N. Dodds, C. D. Hirsch, S. F. Kianian and M. Figueroa 2018. mBio, 9, e01650-17. [doi: 10.1128/mBio.01650-17](http://mbio.asm.org/content/9/1/e01650-17.abstract)
-
-_Assembly of chloroplast genomes with long- and short-read data: a comparison of approaches using Eucalyptus pauciflora as a test case._ <br>
-W. Wang, M. Schalamun, A. Morales-Suarez, D. Kainer, B. Schwessinger and R. Lanfear 2018. BMC Genomics, 19, 977. [doi: 10.1186/s12864-018-5348-8](https://doi.org/10.1186/s12864-018-5348-8)
 
 _Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling._ <br>
 A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 561, 248-252. [doi: 10.1038/s41586-018-0471-x](https://doi.org/10.1038/s41586-018-0471-x)
@@ -95,9 +74,6 @@ B. Schwessinger and J. P. Rathjen 2017. In: S. Periyannan (ed.) Wheat Rust Disea
 
 _Fungal phytopathogens encode functional homologues of plant rapid alkalinization factor (RALF) peptides._ <br>
  E. Thynne, I. M. L. Saur, J. Simbaqueba, H. A. Ogilvie, Y. Gonzalez-Cendales, O. Mead, A. Taranto, A.-M. Catanzariti, M. C. McDonald, B. Schwessinger, D. A. Jones, J. P. Rathjen and P. S. Solomon 2017. Molecular Plant Pathology, 18, 811-824. [doi: 10.1111/mpp.12444](https://doi.org/10.1111/mpp.12444)
-
-_A microbially derived tyrosine-sulfated peptide mimics a plant peptide hormone._ <br>
-R. N. Pruitt, A. Joe, W. Zhang, W. Feng, V. Stewart, B. Schwessinger, J. R. Dinneny and P. C. Ronald 2017. New Phytologist, 215, 725-736. [doi: 10.1111/nph.14609](https://doi.org/10.1111/nph.14609)
 
 _Tyrosine-610 in the Receptor Kinase BAK1 Does Not Play a Major Role in Brassinosteroid Signaling or Innate Immunity._ <br> 
 V. Singh, A. Perraki, S. Y. Kim, S. Shrivastava, J. H. Lee, Y. Zhao, B. Schwessinger, M.-H. Oh, A. Marshall-Colon, C. Zipfel and S. C. Huber 2017. Frontiers in Plant Science, 8. [doi: 10.3389/fpls.2017.01273](https://www.frontiersin.org/article/10.3389/fpls.2017.01273)
@@ -131,9 +107,6 @@ B. Schwessinger, R. Bart, K. V. Krasileva and G. Coaker 2015. Frontiers in Plant
 _Proteome profile of the endomembrane of developing coleoptiles from switchgrass (Panicum virgatum)._ <br> 
 J. Lao, M. K. Sharma, R. Sharma, S. M. G. Fernández-Niño, J. Schmutz, P. C. Ronald, J. L. Heazlewood and B. Schwessinger 2015. PROTEOMICS, 15, 2286-2290. [doi: 10.1002/pmic.201400487](https://doi.org/10.1002/pmic.201400487)
 
-_Transgenic Expression of the Dicotyledonous Pattern Recognition Receptor EFR in Rice Leads to Ligand-Dependent Activation of Defense Responses._ <br>
-B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. PLOS Pathogens, 11, e1004809. [doi: 10.1371/journal.ppat.1004809](https://doi.org/10.1371/journal.ppat.1004809)
-
 _The rice immune receptor XA21 recognizes a tyrosine-sulfated protein from a Gram-negative bacterium._ <br>
 R. N. Pruitt, B. Schwessinger, A. Joe, N. Thomas, F. Liu, M. Albert, M. R. Robinson, L. J. G. Chan, D. D. Luu, H. Chen, O. Bahar, A. Daudi, D. De Vleesschauwer, D. Caddell, W. Zhang, X. Zhao, X. Li, J. L. Heazlewood, D. Ruan, D. Majumder, M. Chern, H. Kalbacher, S. Midha, P. B. Patil, R. V. Sonti, C. J. Petzold, C. C. Liu, J. S. Brodbelt, G. Felix and P. C. Ronald 2015. Science Advances, 1, e1500245. [doi: 10.1126/sciadv.1500245](http://advances.sciencemag.org/content/1/6/e1500245.abstract)
 
@@ -146,9 +119,6 @@ O. Bahar, R. Pruitt, D. D. Luu, B. Schwessinger, A. Daudi, F. Liu, R. Ruan, L. F
 
 _Point of View: How postdocs benefit from building a union._ <br>
 B. Cain, J. M. Budke, K. J. Wood, N. T. Sweeney and B. Schwessinger 2014. eLife, 3, e05614. [doi: 10.7554/eLife.05614](https://doi.org/10.7554/eLife.05614)
-
-_An XA21-Associated Kinase (OsSERK2) Regulates Immunity Mediated by the XA21 and XA3 Immune Receptors._ <br>
-X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2014. Molecular Plant, 7, 874-892. [doi: https://doi.org/10.1093/mp/ssu003](http://www.sciencedirect.com/science/article/pii/S1674205214607887)
 
 _OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae._ <br> 
 S. Zuo, X. Zhou, M. Chen, S. Zhang, B. Schwessinger, D. Ruan, C. Yuan, J. Wang, X. Chen and P. C. Ronald 2014. Journal of Integrative Plant Biology, 56, 1179-1192. [doi: 10.1111/jipb.12290](https://doi.org/10.1111/jipb.12290)

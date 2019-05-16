@@ -22,6 +22,67 @@ Our 2019 lab projects include:
 
 [Detection of fungal pathogens and their associated microbiome](https://biology.anu.edu.au/research/projects/detection-fungal-pathogens-and-their-associated-microbiome) (Summer, Honours, and Master students)
 
+### Funding and Grants (>=$10, 000 AUD)
+
+**02/2019**, _Mozilla Science Foundation, Reproducibility for Everyone_<br>
+Science Grant - $15.000, ROLE: Principal Investigator
+
+**11/2018** _Research School Biology, Increasing Scientific Rigor at RSB_ <br> 
+Science Grant - $10.000, ROLE: Principal Investigator
+
+**10/2018 - 09/2022** _Australian Research Council, Identify, characterise, detect factors causing
+wheat disease epidemics_ <br>
+Research Grant - $780,000, ROLE: Principal Investigator
+
+**07/2017 - 06/2019** _Hermon Slade Foundation, Rapid detection and diagnosis of plant pathogens_ <br>
+Innovation Grant - $50.000, ROLE: co-Principal Investigator
+
+**05/2015 - 04/2017** _Bioplatform Australia, Sequencing grant for wheat stripe rust fungi_ <br>
+Sequencing Grant - $30.000, ROLE: co-Principal Investigator
+
+**09/2015 - 09/2018** _Australian Research Council, Understanding the genomic and epigenomic
+mechanisms driving the evolution of highly virulent stripe rust races_ <br>
+Research Grant - $350.000, ROLE: Principal Investigator
+
+**07/2012 - 09/2015** _Human Frontier Science Program Long-Term Fellowship, Function of non-
+RD kinases in plant immunity_ <br>
+Postdoctoral Grant - $195.000, ROLE: Principal Investigator
+
+**01/2012 - 07/2015** _European Molecular Biology Organization Long-Term Fellowship, Function
+of non-RD kinases in plant immunity_ <br>
+Postdoctoral Grant - $80.000 ROLE: Principal Investigator
+
+### Awards, Fellowships and Scholarships
+
+**10/2018 - 09/2022** _Future Fellowship 2018 - Australian Research Council_
+
+**01/2017** _Shortlisted for the New Phytologist Tansley Medal for Excellence in Plant
+Science_
+
+**10/2015 - 09/2018** _Discovery Early Career Researcher Award - Australian Research Council_
+
+**07/2012 - 09/2015** _Human Frontier Science Program Long-Term Fellowship_
+
+**01/2012 - 06/2012** _European Molecular Biology Organization Long-Term Fellowship_
+
+**07/2011** _John Innes Foundation Prize for Excellence in Scientific Research_
+
+**10/2006 - 09/2010** _Rotation PhD Scholarship John Innes Centre and The Sainsbury
+Laboratory_
+
+**09/2006** _Short-listed for the SET Student of the Year Awards in 2006_
+
+**07/2006** _Plant Science Scholarship of the University of Glasgow_
+
+**06/2005** _Lang Scholarship (Botany) of the University of Glasgow_
+
+**05/2005 - 06/2006** _Sainsbury Undergraduate Studentship in Plant Science_
+
+**10/2002 - 07/2006** _Scholarship for Intellectually Gifted People of the State of Bavaria_
+
+**09/2002 - 09/2010** _Scholarship of e-fellows.net_
+
+
 ### The science beyond the 'lab'
 Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science.
 

@@ -18,6 +18,9 @@ permalink: /extra/
 ### **Collaborators of Team Schwessinger**
 Here are some cool people in fields that interest us. note: This list is in no way complete. We have a lot of collaborators – if you’ve collaborated with us and want a link here, let us know!
 
+[John Rathjen - Plant Immunity](https://biology.anu.edu.au/research/labs/rathjen-group-plant-immunity)
+
+
  {% elsif type == 'fun' %}
 ### **Lab extracurricular activities**
 {% endif %}

@@ -31,28 +31,28 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
 | B. S. | 02/2019 | Mozilla Science Foundation, Reproducibility for Everyone | Science Grant | $15k | Principal Investigator |
 | B. S. | 11/2018 | Research School Biology, Increasing Scientific Rigor at RSB | Science Grant | $10k | Principal Investigator |
-| B. S. | 10/2018 - 09/2022 | Australian Research Council - Identify, characterise, detect factors causing wheat disease epidemics | Research Grant | $780k | Principal Investigator |
-| B. S. | 07/2017 - 06/2019 | Hermon Slade Foundation, Rapid detection and diagnosis of plant pathogens | Innovation Grant | $50k | co-Principal Investigator |
-| B. S. | 05/2015 - 04/2017 | Bioplatform Australia, Sequencing grant for wheat stripe rust fungi | Sequencing Grant | $30k | co-Principal Investigator |
-| B. S. | 09/2015 - 09/2018 | Australian Research Council, Understanding the genomic and epigenomic mechanisms driving the evolution of highly virulent stripe rust races | Research Grant | $350k | Principal Investigator |
-| B. S. | 07/2012 - 09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $195k | Principal Investigator |
-| B. S. | 01/2012 - 07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $80k | Principal Investigator |
+| B. S. | 10/2018-09/2022 | Australian Research Council - Identify, characterise, detect factors causing wheat disease epidemics | Research Grant | $780k | Principal Investigator |
+| B. S. | 07/2017-06/2019 | Hermon Slade Foundation, Rapid detection and diagnosis of plant pathogens | Innovation Grant | $50k | co-Principal Investigator |
+| B. S. | 05/2015-04/2017 | Bioplatform Australia, Sequencing grant for wheat stripe rust fungi | Sequencing Grant | $30k | co-Principal Investigator |
+| B. S. | 09/2015-09/2018 | Australian Research Council, Understanding the genomic and epigenomic mechanisms driving the evolution of highly virulent stripe rust races | Research Grant | $350k | Principal Investigator |
+| B. S. | 07/2012-09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $195k | Principal Investigator |
+| B. S. | 01/2012-07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $80k | Principal Investigator |
 
 
 ### Awards, Fellowships and Scholarships
 
 | Awarded to | When | Award type | What | 
 | :----------- | :----------- | :----------- | :----------- | 
-| B. S. | 10/2018 - 09/2022 | Fellowship | Future Fellowship 2018 - Australian Research Council |
+| B. S. | 10/2018-09/2022 | Fellowship | Future Fellowship 2018 - Australian Research Council |
 | B. S. | 01/2017 | Award | Shortlisted for the New Phytologist Tansley Medal for Excellence in Plant Science |
-| B. S. | 10/2015 - 09/2018 | Award | Discovery Early Career Researcher Award - Australian Research Council |
-| B. S. | 07/2012 - 09/2015 | Fellowship | Human Frontier Science Program Long-Term Fellowship |
-| B. S. | 01/2012 - 06/2012 | Fellowship | European Molecular Biology Organization Long-Term Fellowship |
+| B. S. | 10/2015-09/2018 | Award | Discovery Early Career Researcher Award - Australian Research Council |
+| B. S. | 07/2012-09/2015 | Fellowship | Human Frontier Science Program Long-Term Fellowship |
+| B. S. | 01/2012-06/2012 | Fellowship | European Molecular Biology Organization Long-Term Fellowship |
 | B. S. | 07/2011 | Award | John Innes Foundation Prize for Excellence in Scientific Research |
-| B. S. | 10/2006 - 09/2010 | Scholarship | Rotation PhD Scholarship John Innes Centre and The Sainsbury Laboratory |
+| B. S. | 10/2006-09/2010 | Scholarship | Rotation PhD Scholarship John Innes Centre and The Sainsbury Laboratory |
 | B. S. | 09/2006 | Award | Short-listed for the SET Student of the Year Awards in 2006 |
 | B. S. | 07/2006 | Scholarship | Plant Science Scholarship of the University of Glasgow |
 | B. S. | 06/2005 | Scholarship | Lang Scholarship (Botany) of the University of Glasgow |
-| B. S. | 05/2005 - 06/2006 | Scholarship | Sainsbury Undergraduate Studentship in Plant Science |
-| B. S. | 10/2002 - 07/2006 | Scholarship | Scholarship for Intellectually Gifted People of the State of Bavaria |
-| B. S. | 09/2002 - 09/2010 | Scholarship | Scholarship of e-fellows.net |
+| B. S. | 05/2005-06/2006 | Scholarship | Sainsbury Undergraduate Studentship in Plant Science |
+| B. S. | 10/2002-07/2006 | Scholarship | Scholarship for Intellectually Gifted People of the State of Bavaria |
+| B. S. | 09/2002-09/2010 | Scholarship | Scholarship of e-fellows.net |

@@ -22,6 +22,9 @@ Our 2019 lab projects include:
 
 [Detection of fungal pathogens and their associated microbiome](https://biology.anu.edu.au/research/projects/detection-fungal-pathogens-and-their-associated-microbiome) (Summer, Honours, and Master students)
 
+### The science beyond the 'lab'
+Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science.
+
 ### Funding and Grants (>=$10, 000 AUD)
 
 | Granted to | When | What | Grant type | Amount | Role |
@@ -65,25 +68,3 @@ Laboratory_
 **B. Schwessinger - 10/2002 - 07/2006** _Scholarship for Intellectually Gifted People of the State of Bavaria_
 
 **B. Schwessinger - 09/2002 - 09/2010** _Scholarship of e-fellows.net_
-
-
-### The science beyond the 'lab'
-Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science.
-
-### Lab Members
-Our lab group is varied, with each member bringing their own expertise and knowloedge to create a comprehensive lab group. Our interests span statistics, sequencing technologies, biology, applied mathematics, molecular biology, and many other disciplines. Visit our [people page](http://Team-Schwessinger.github.io/Team_B_S/people/) to see more information on each person who works in the lab (publications, contact information, photos).
-
-
-### Publications
-
-For PDFs of our work, visit our [publications page](http://Team-Schwessinger.github.io/Team_B_S/publication/). Feel free to [issue on Github](https://github.com/Team-Schwessinger/Team_B_S.github.io/issues) if links don't work or are obsolete.
-
-
-### Collaborators
-
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
-
-**Australian National University:**
-- [John Rathjen - Rathjen Group, Plant Immunity](https://biology.anu.edu.au/people/john-rathjen)
-
-

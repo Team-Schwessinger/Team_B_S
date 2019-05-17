@@ -164,14 +164,14 @@ _Genome sequence and analysis of the Irish potato famine pathogen Phytophthora i
 B. J. Haas, S. Kamoun, M. C. Zody, R. H. Y. Jiang, R. E. Handsaker, L. M. Cano, M. Grabherr, C. D. Kodira, S. Raffaele, T. Torto-Alalibo, T. O. Bozkurt, A. M. V. Ah-Fong, L. Alvarado, V. L. Anderson, M. R. Armstrong, A. Avrova, L. Baxter, J. Beynon, P. C. Boevink, S. R. Bollmann, J. I. B. Bos, V. Bulone, G. Cai, C. Cakir, J. C. Carrington, M. Chawner, L. Conti, S. Costanzo, R. Ewan, N. Fahlgren, M. A. Fischbach, J. Fugelstad, E. M. Gilroy, S. Gnerre, P. J. Green, L. J. Grenville-Briggs, J. Griffith, N. J. Grünwald, K. Horn, N. R. Horner, C.-H. Hu, E. Huitema, D.-H. Jeong, A. M. E. Jones, J. D. G. Jones, R. W. Jones, E. K. Karlsson, S. G. Kunjeti, K. Lamour, Z. Liu, L. Ma, D. MacLean, M. C. Chibucos, H. McDonald, J. McWalters, H. J. G. Meijer, W. Morgan, P. F. Morris, C. A. Munro, K. O’Neill, M. Ospina-Giraldo, A. Pinzón, L. Pritchard, B. Ramsahoye, Q. Ren, S. Restrepo, S. Roy, A. Sadanandom, A. Savidor, S. Schornack, D. C. Schwartz, U. D. Schumann, **B. Schwessinger**, L. Seyer, T. Sharpe, C. Silvar, J. Song, D. J. Studholme, S. Sykes, M. Thines, P. J. I. van de Vondervoort, V. Phuntumart, S. Wawra, R. Weide, J. Win, C. Young, S. Zhou, W. Fry, B. C. Meyers, P. van West, J. Ristaino, F. Govers, P. R. J. Birch, S. C. Whisson, H. S. Judelson and C. Nusbaum 2009. Nature, 461, 393. [doi: 10.1038/nature08358](https://doi.org/10.1038/nature08358). PDF available [here]
 
 _Control of the pattern‐recognition receptor EFR by an ER protein complex in plant immunity._<br>
- V. Nekrasov, J. Li, M. Batoux, M. Roux, Z. H. Chu, S. Lacombe, A. Rougon, P. Bittel, M. Kiss‐Papp, D. Chinchilla, H. P. van Esse, L. Jorda, **B. Schwessinger**, V. Nicaise, B. P. H. J. Thomma, A. Molina, J. D. G. Jones and C. Zipfel 2009. The EMBO Journal, 28, 3428-3438. [doi: 10.1038/emboj.2009.262](https://doi.org/10.1038/emboj.2009.262). PDF available [here]
+ V. Nekrasov, J. Li, M. Batoux, M. Roux, Z. H. Chu, S. Lacombe, A. Rougon, P. Bittel, M. Kiss‐Papp, D. Chinchilla, H. P. van Esse, L. Jorda, **B. Schwessinger**, V. Nicaise, B. P. H. J. Thomma, A. Molina, J. D. G. Jones and C. Zipfel 2009. The EMBO Journal, 28, 3428-3438. [doi: 10.1038/emboj.2009.262](http://emboj.embopress.org/content/embojnl/28/21/3428.full.pdf). PDF available [here]
 
 <hr>
 
 ### 2008
 
 _Small ubiquitin-like modifier proteases OVERLY TOLERANT TO SALT1 and-2 regulate salt stress responses in Arabidopsis._ <br>
- L. Conti, G. Price, E. Donnell, **B. Schwessinger**, P. Dominy and A. Sadanandom 2008. The Plant Cell, 20, 2894. [doi: 10.1105/tpc.108.058669](https://doi. org/10.1105/tpc.108.058669). PDF available [here]
+ L. Conti, G. Price, E. Donnell, **B. Schwessinger**, P. Dominy and A. Sadanandom 2008. The Plant Cell, 20, 2894. [doi: 10.1105/tpc.108.058669](http://www.plantcell.org/content/20/10/2894.abstract). PDF available [here]
 
 _News from the frontline: recent insights into PAMP-triggered immunity in plants._<br>
  **B. Schwessinger** and C. Zipfel 2008. Current Opinion in Plant Biology, 11, 389-395. [doi: 10.1016/j.pbi.2008.06.001](http://www.sciencedirect.com/science/article/pii/S1369526608001040). PDF available [here]

@@ -16,7 +16,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2019
 
-_How to facilitate a global open science early-career research community with local impact._ <br> 
+**_How to facilitate a global open science early-career research community with local impact._** <br> 
 **B. Schwessinger** 2019. In: Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c82370880d04](https://openresearch-repository.anu.edu.au/handle/1885/157033). PDF of paper available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/How_to_facilitate.pdf)
 
 _Effective data management to promote reproducibility._ <br>

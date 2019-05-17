@@ -9,8 +9,8 @@ description:        "This is the webpage page for the Schwessinger Lab, we speci
 
 
 # URL
-url:                https://team-schwessinger.github.io/Team_B_S/
-baseurl:            /Team_B_S
+url:               http://teamschwessinger.com/Team_B_S
+baseurl:            
 #baseurl:            "/Team_B_S" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -23,21 +23,21 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "home"
-    href:           "/Team_B_S"
-  - name:           "about"
-    href:           "/Team_B_S/about"
-  - name:           "How to join"
-    href:           "/Team_B_S/how_to_join"  
-  - name:           "publications"
-    href:           "/Team_B_S/publication"
-  - name:           "people"
-    href:           "/Team_B_S/people"
-  - name:           "resources"
-    href:           "/Team_B_S/resources"
-  - name:           "open science"
-    href:           "/Team_B_S/open_science"
-  - name:           "extra"
-    href:           "/Team_B_S/extra"
+    href:           "/"
+  - name:           "ABOUT"
+    href:           "/about"
+  - name:           "HOW TO JOIN"
+    href:           "/how_to_join"  
+  - name:           "PUBLICATIONS"
+    href:           "/publication"
+  - name:           "PEOPLE"
+    href:           "/people"
+  - name:           "RESOURCES"
+    href:           "/resources"
+  - name:           "OPEN SCIENCE"
+    href:           "/open_science"
+  - name:           "EXTRA"
+    href:           "/extra"
 
 
 # Sass

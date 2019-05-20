@@ -21,6 +21,19 @@ Here are some cool people in fields that interest us. note: This list is in no w
 **Australian National University**
 
 [John Rathjen - Plant Immunity](https://biology.anu.edu.au/research/labs/rathjen-group-plant-immunity)
+[Professor Eric Stone - Quantitative and Computational Biology](https://biology.anu.edu.au/research/labs/stone-group-quantitative-and-computational-biology)
+
+**NSW Department of Primary Industries**
+
+[Dr. Andrew Milgate - Research Plant Pathologist](https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/andrew-milgate)
+
+**University of Sydney**
+
+[Professor Wieland Meyer - Molecular Mycology Research](http://www.mycologylab.org/DefaultInfo.aspx?Page=Home)
+
+**Denmark Department of Agroecology**
+
+[Professor Mogens Støvring Hovmøller - Entomology and Plant Pathology](http://pure.au.dk/portal/en/mogens.hovmoller@agrsci.dk)
 
 
  {% elsif type == 'fun' %}

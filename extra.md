@@ -20,7 +20,7 @@ Here are some cool people in fields that interest us. note: This list is in no w
 
 **Australian National University**
 
-[John Rathjen - Plant Immunity](https://biology.anu.edu.au/research/labs/rathjen-group-plant-immunity)
+[John Rathjen - Plant Immunity](https://biology.anu.edu.au/research/labs/rathjen-group-plant-immunity)  
 [Professor Eric Stone - Quantitative and Computational Biology](https://biology.anu.edu.au/research/labs/stone-group-quantitative-and-computational-biology)
 
 **NSW Department of Primary Industries**

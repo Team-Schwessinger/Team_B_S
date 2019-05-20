@@ -500,6 +500,10 @@ tbody tr:nth-child(odd) th {
 }
 
 // change font for navbar
+.navbar-default .navbar-brand {
+  color: #FFFFFF;
+}
+
 .navbar-default .navbar-nav>li>a {
   color: #FFFFFF;
 }

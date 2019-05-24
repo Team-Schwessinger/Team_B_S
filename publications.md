@@ -16,6 +16,8 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 # 2019
 
+**Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer** <br>
+Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger Phytobiomes Journal, 0, PBIOMES-01-19-0004-R. [doi: 10.1094/pbiomes-01-19-0004-r](https://apsjournals.apsnet.org/doi/abs/10.1094/PBIOMES-01-19-0004-R)
 
 **Harnessing the MinION: An example of how to establish long-read sequencing in a laboratory using challenging plant tissue from Eucalyptus pauciflora** <br>
 M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfear and B. Schwessinger 2019. Molecular Ecology Resources, 19, 77-89. [doi: 10.1111/1755-0998.12938](http://www.ncbi.nlm.nih.gov/pubmed/30118581)

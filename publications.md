@@ -223,14 +223,8 @@ W. Wang, M. Schalamun, A. M. Suarez, D. Kainer, B. Schwessinger and R. Lanfear 2
 **A comprehensive toolkit to enable MinION long-read sequencing in any laboratory** <br>
 M. Schalamun, D. Kainer, E. Beavan, R. Nagar, D. Eccles, J. Rathjen, R. Lanfear and B. Schwessinger 2018. bioRxiv, 289579. [doi: 10.1101/289579](https://www.biorxiv.org/content/10.1101/289579v1)
 
-**Departmental-level approaches to gender equity in biology** <br>
-C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27325)
-
-**Maintaining confidence in the reporting of scientific outputs** <br>
-S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27098)
-
 **On the value of preprints: an early career researcher perspective** <br>
-S. Sarabipour, H. J. Debat, E. Emmott, S. Burgess, B. Schwessinger and Z. Hensel 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27400)
+S. Sarabipour, H. J. Debat, E. Emmott, S. Burgess, B. Schwessinger and Z. Hensel 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27400v1](https://peerj.com/preprints/27400)
 
 **Variation and inheritance of the Xanthomonas gene cluster required for activation of XA21-mediated immunity** <br>
 F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2018. bioRxiv, 149930. [doi: 10.1101/149930](https://www.biorxiv.org/content/10.1101/149930v2)
@@ -248,7 +242,7 @@ B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. 
 N. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schwessinger and P. Ronald 2017. bioRxiv, 119925. [doi: 10.1101/119925](https://www.biorxiv.org/content/10.1101/119925v1)
 
 **XA21-specific induction of stress-related genes following <i>Xanthomonas</i> infection of detached rice leaves** <br>
-N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/2289)
+N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: 10.7287/peerj.preprints.2289v1](https://peerj.com/preprints/2289)
 
 **Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
 B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. bioRxiv, 006155. [doi: 10.1101/006155](https://www.biorxiv.org/content/10.1101/006155v3)
@@ -257,7 +251,7 @@ B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Can
 X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2)
 
 **The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
-O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. In: (ed.)^(eds.) ed.: PeerJ PrePrints. [doi: ](https://peerj.com/preprints/109v1)
+O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. In: (ed.)^(eds.) ed.: PeerJ PrePrints. [doi: 10.7282/peerjpr.preprints.109v1](https://peerj.com/preprints/109v1)
 
 # Preprints that might be published
 
@@ -266,8 +260,12 @@ M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. C
 
 # Preprints that will never be published
 
-
+**Maintaining confidence in the reporting of scientific outputs** <br>
+S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)
 <hr>
+
+**Departmental-level approaches to gender equity in biology** <br>
+C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27325v1](https://peerj.com/preprints/27325)
 
 ### Copyright Notice
 

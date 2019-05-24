@@ -25,12 +25,6 @@ M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfe
 **On the value of preprints: An early career researcher perspective** <br>
 S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hensel 2019. PLoS biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](http://www.ncbi.nlm.nih.gov/pubmed/30789895)
 
-**Effective data management to promote reproducibility** <br>
-D. Ganguly, P. A. Crisp and B. Schwessinger 2019. In: (ed.)^(eds.) Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. ed. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c6e70f61de37]
-
-**How to facilitate a global open science early-career research community with local impact** <br>
-B. Schwessinger 2019. In: (ed.)^(eds.) Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. ed. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c82370880d04]
-
 **Variation and inheritance of the Xanthomonas raxX-raxSTAB gene cluster required for activation of XA21-mediated immunity** <br>
 F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. [doi: 10.1111/mpp.12783](http://www.ncbi.nlm.nih.gov/pubmed/30773771)
 
@@ -55,9 +49,6 @@ B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. 
 
 **Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling** <br>
 A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 561, 248-252. [doi: 10.1038/s41586-018-0471-x](http://www.ncbi.nlm.nih.gov/pubmed/30177827)
-
-**Gender Equity: Addressing recruitment at the departmental level** <br>
-Christiana J McDonald-Spicer, Benjamin Schwessinger and S. Howitt. 2018. [Online]. eLIFE. Available at: https://elifesciences.org/inside-elife/6118bb63/gender-equity-addressing-recruitment-at-the-departmental-level.
 
 **Author Correction: Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling** <br>
 A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 563, E30. [doi: 10.1038/s41586-018-0663-4](http://www.ncbi.nlm.nih.gov/pubmed/30333630)
@@ -146,9 +137,6 @@ A. P. Macho, B. Schwessinger, V. Ntoukakis, A. Brutus, C. Segonzac, S. Roy, Y. K
 
 **An XA21-associated kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors** <br>
 X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2014. Molecular Plant, 7, 874-892. [doi: 10.1093/mp/ssu003](http://www.ncbi.nlm.nih.gov/pubmed/24482436)
-
-**How postdocs benefit from building a union** <br>
-B. Cain, J. M. Budke, K. J. Wood, N. T. Sweeney and B. Schwessinger 2014. eLife, 3. [doi: 10.7554/eLife.05614](http://www.ncbi.nlm.nih.gov/pubmed/25415240)
 
 **The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
 O. Bahar, R. Pruitt, D. D. Luu, B. Schwessinger, A. Daudi, F. Liu, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2014. PeerJ, 2, e242. [doi: 10.7717/peerj.242](http://www.ncbi.nlm.nih.gov/pubmed/24482761)

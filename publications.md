@@ -141,6 +141,9 @@ X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. W
 **The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
 O. Bahar, R. Pruitt, D. D. Luu, B. Schwessinger, A. Daudi, F. Liu, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2014. PeerJ, 2, e242. [doi: 10.7717/peerj.242](http://www.ncbi.nlm.nih.gov/pubmed/24482761)
 
+**How postdocs benefit from building a union** <br>
+B. Cain, J. M. Budke, K. J. Wood, N. T. Sweeney and B. Schwessinger 2014. eLife, 3. [doi: 10.7554/eLife.05614](http://www.ncbi.nlm.nih.gov/pubmed/25415240)
+
 <hr>
 
 # 2012
@@ -203,17 +206,13 @@ L. Conti, G. Price, E. O'Donnell, B. Schwessinger, P. Dominy and A. Sadanandom 2
 
 <hr>
  
-### Preprints that might never be published
+### Preprints 
 
 _XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves._ <br> 
 N. C. Thomas, **B. Schwessinger**, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ, 4, e2446. [doi: 10.7717/peerj.2446](https://doi.org/10.7717/peerj.2446). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/XA21%20specific%20induction%20of%20stress%20related%20genes%20following%20Xanthomonas%20infection%20of%20detached%20rice%20leaves.pdf)
 
 _The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles._ <br> 
 O. Bahar, R. Pruitt, D. D. Luu, **B. Schwessinger**, A. Daudi, F. Liu, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2014. PeerJ, 2, e242. [doi: 10.7717/peerj.242](https://doi.org/10.7717/peerj.242). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/The%20Xanthomonas%20Ax21%20protein%20is.pdf)
-
-<hr>
-
-### Preprints that will maybe be published
 
 _On the value of preprints: An early career researcher perspective._ <br>
 S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, **B. Schwessinger** and Z. Hensel 2019. PLOS Biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](https://doi.org/10.1371/journal.pbio.3000151). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/On%20the%20value%20of%20preprints%20An%20early%20career.pdf)
@@ -223,10 +222,6 @@ C. J. McDonald-Spicer, **B. Schwessinger** and S. Howitt 2018. PeerJ Preprints, 
 
 _Maintaining confidence in the reporting of scientific outputs._ <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and **B. Schwessinger** 2018. PeerJ Preprints, 6, e27098v1. [doi: 10.7287/peerj.preprints.27098v1](https://doi.org/10.7287/peerj.preprints.27098v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Maintaining%20confidence%20in%20the%20reporting%20of%20scientific%20outputs.pdf)
-
-<hr>
-
-### Preprints that have been published
 
 _An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors_ <br>
 X. Chen, S. Zuo, **B. Schwessinger**, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/An%20XA21%20Associated%20Kinase%20(OsSERK2)%20Regulates%20Immunity%20Mediated%20by%20the%20XA21%20and%20XA3%20Immune%20Receptor.pdf)

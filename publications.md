@@ -214,6 +214,69 @@ B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent applic
 
 # Preprints 
 
+**Complex responses to inflammatory oxidants by the probiotic bacterium Lactobacillus reuteri** <br>
+P. B. Thakur, A. R. Long, B. J. Nelson, R. Kumar, A. F. Rosenberg and M. J. Gray 2019. bioRxiv, 605881. [doi: 10.1101/605881](https://www.biorxiv.org/content/10.1101/605881v1)
+
+**Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer** <br>
+Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger 2019. bioRxiv, 429878. [doi: 10.1101/429878](https://www.biorxiv.org/content/10.1101/429878v4)
+
+**Assembly of chloroplast genomes with long- and short-read data: a comparison of approaches using Eucalyptus pauciflora as a test case** <br>
+W. Wang, M. Schalamun, A. M. Suarez, D. Kainer, B. Schwessinger and R. Lanfear 2018. bioRxiv, 320085. [doi: 10.1101/320085](https://www.biorxiv.org/content/10.1101/320085v1)
+
+**Clustering de Novo by Gene of Long Reads from Transcriptomics Data** <br>
+C. Marchet, L. Lecompte, C. D. Silva, C. Cruaud, J.-M. Aury, J. Nicolas and P. Peterlongo 2018. bioRxiv, 170035. [doi: 10.1101/170035](https://www.biorxiv.org/content/10.1101/170035v5)
+
+**A comprehensive toolkit to enable MinION long-read sequencing in any laboratory** <br>
+M. Schalamun, D. Kainer, E. Beavan, R. Nagar, D. Eccles, J. Rathjen, R. Lanfear and B. Schwessinger 2018. bioRxiv, 289579. [doi: 10.1101/289579](https://www.biorxiv.org/content/10.1101/289579v1)
+
+**Departmental-level approaches to gender equity in biology** <br>
+C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27325)
+
+**Maintaining confidence in the reporting of scientific outputs** <br>
+S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27098)
+
+**Mechanistic insights into the evolution of DUF26-containing proteins in land plants** <br>
+A. Vaattovaara, B. Brandt, S. Rajaraman, O. Safronov, A. Veidenberg, M. Luklová, J. Kangasjärvi, A. Löytynoja, M. Hothorn, J. Salojärvi and M. Wrzaczek 2018. bioRxiv, 493502. [doi: 10.1101/493502](https://www.biorxiv.org/content/10.1101/493502v1)
+
+**On the value of preprints: an early career researcher perspective** <br>
+S. Sarabipour, H. J. Debat, E. Emmott, S. Burgess, B. Schwessinger and Z. Hensel 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27400)
+
+**Variation and inheritance of the Xanthomonas gene cluster required for activation of XA21-mediated immunity** <br>
+F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2018. bioRxiv, 149930. [doi: 10.1101/149930](https://www.biorxiv.org/content/10.1101/149930v2)
+
+**De novo assembly and phasing of dikaryotic genomes from two isolates of Puccinia coronata f. sp. avenae, the causal agent of oat crown rust** <br>
+M. E. Miller, Y. Zhang, V. Omidvar, J. Sperschneider, B. Schwessinger, C. Raley, J. M. Palmer, D. Garnica, N. Upadhyaya, J. Rathjen, J. M. Taylor, R. F. Park, P. N. Dodds, C. D. Hirsch, S. F. Kianian and M. Figueroa 2017. bioRxiv, 179226. [doi: 10.1101/179226](https://www.biorxiv.org/content/10.1101/179226v1)
+
+**A microbially derived tyrosine sulfated peptide mimics a plant peptide hormone** <br>
+R. N. Pruitt, A. Joe, W. Zhang, W. Feng, V. Stewart, B. Schwessinger, J. R. Dinneny and P. C. Ronald 2017. bioRxiv, 116897. [doi: 10.1101/116897](https://www.biorxiv.org/content/10.1101/116897v1)
+
+**A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplotype diversity** <br>
+B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. M. Taylor, P. N. Dodds, M. Figueroa, P. F. Robert and J. Rathjen 2017. bioRxiv, 192435. [doi: 10.1101/192435](https://www.biorxiv.org/content/10.1101/192435v3)
+
+**The Rice XA21 Ectodomain Fused to the Arabidopsis EFR Cytoplasmic Domain Confers Resistance to Xanthomonas oryzae pv. oryzae** <br>
+N. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schwessinger and P. Ronald 2017. bioRxiv, 119925. [doi: 10.1101/119925](https://www.biorxiv.org/content/10.1101/119925v1)
+
+**XA21-specific induction of stress-related genes following <i>Xanthomonas</i> infection of detached rice leaves** <br>
+N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/2289)
+
+**Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
+B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. bioRxiv, 006155. [doi: 10.1101/006155](https://www.biorxiv.org/content/10.1101/006155v3)
+
+**A Genetic Screen Identifies Two Novel Rice Cysteine-rich Receptor-like Kinases That Are Required for the Rice NH1-mediated Immune Response** <br>
+M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. Chen and P. Ronald 2014. bioRxiv, 003129. [doi: 10.1101/003129](https://www.biorxiv.org/content/10.1101/003129v1)
+
+**Phytophthora infestans RXLR-WY effector AVR3a associates with a Dynamin-Related Protein involved in endocytosis of a plant pattern recognition receptor** <br>
+A. Chaparro-Garcia, S. Schwizer, J. Sklenar, K. Yoshida, J. I. B. Bos, S. Schornack, A. M. E. Jones, T. O. Bozkurt and S. Kamoun 2014. bioRxiv, 012963. [doi: 10.1101/012963](https://www.biorxiv.org/content/10.1101/012963v1)
+
+**Rice BiP3 regulates immunity mediated by the PRRs XA3 and XA21 but not immunity mediated by the NB-LRR protein, Pi5** <br>
+C.-J. Park, M.-Y. Song, C.-Y. Kim, J.-S. Jeon and P. C. Ronald 2014. bioRxiv, 003533. [doi: 10.1101/003533](https://www.biorxiv.org/content/10.1101/003533v1)
+
+**An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors** <br>
+X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2)
+
+**The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
+O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. In: (ed.)^(eds.) ed.: PeerJ PrePrints. [doi: ](https://peerj.com/preprints/109v1)
+
 <hr>
 
 ### Copyright Notice

@@ -23,6 +23,12 @@ M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfe
 **On the value of preprints: An early career researcher perspective** <br>
 S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hensel 2019. PLoS biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](http://www.ncbi.nlm.nih.gov/pubmed/30789895)
 
+**Effective data management to promote reproducibility** <br>
+D. Ganguly, P. A. Crisp and B. Schwessinger 2019. In: (ed.)^(eds.) Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. ed. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c6e70f61de37]
+
+**How to facilitate a global open science early-career research community with local impact** <br>
+B. Schwessinger 2019. In: (ed.)^(eds.) Openness and Reproducibility in Science Workshop, 25 February, 2019, Australian National University. ed. The Australian National University: The Australian National Centre for the Public Awareness of Science. [doi: 10.25911/5c82370880d04]
+
 **Variation and inheritance of the Xanthomonas raxX-raxSTAB gene cluster required for activation of XA21-mediated immunity** <br>
 F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. [doi: 10.1111/mpp.12783](http://www.ncbi.nlm.nih.gov/pubmed/30773771)
 
@@ -39,11 +45,17 @@ W. Wang, M. Schalamun, A. Morales-Suarez, D. Kainer, B. Schwessinger and R. Lanf
 **The rice XA21 ectodomain fused to the Arabidopsis EFR cytoplasmic domain confers resistance to Xanthomonas oryzae pv. oryzae** <br>
 N. C. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schwessinger and P. C. Ronald 2018. PeerJ, 6, e4456. [doi: 10.7717/peerj.4456](http://www.ncbi.nlm.nih.gov/pubmed/29761034)
 
+**Engineering pathogen resistance in plants** <br>
+B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461.
+
 **A Near-Complete Haplotype-Phased Genome of the Dikaryotic Wheat Stripe Rust Fungus Puccinia striiformis f. sp. tritici Reveals High Interhaplotype Diversity** <br>
 B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. M. Taylor, P. N. Dodds, M. Figueroa, R. F. Park and J. P. Rathjen 2018. mBio, 9. [doi: 10.1128/mBio.02275-17](http://www.ncbi.nlm.nih.gov/pubmed/29463659)
 
 **Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling** <br>
 A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 561, 248-252. [doi: 10.1038/s41586-018-0471-x](http://www.ncbi.nlm.nih.gov/pubmed/30177827)
+
+**Gender Equity: Addressing recruitment at the departmental level** <br>
+Christiana J McDonald-Spicer, Benjamin Schwessinger and S. Howitt. 2018. [Online]. eLIFE. Available at: https://elifesciences.org/inside-elife/6118bb63/gender-equity-addressing-recruitment-at-the-departmental-level.
 
 **Author Correction: Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling** <br>
 A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 563, E30. [doi: 10.1038/s41586-018-0663-4](http://www.ncbi.nlm.nih.gov/pubmed/30333630)
@@ -72,6 +84,12 @@ R. N. Pruitt, A. Joe, W. Zhang, W. Feng, V. Stewart, B. Schwessinger, J. R. Dinn
 
 **A chloroplast retrograde signal, 3'-phosphoadenosine 5'-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination** <br>
 W. Pornsiriwong, G. M. Estavillo, K. X. Chan, E. E. Tee, D. Ganguly, P. A. Crisp, S. Y. Phua, C. Zhao, J. Qiu, J. Park, M. T. Yong, N. Nisar, A. K. Yadav, B. Schwessinger, J. Rathjen, C. I. Cazzonelli, P. B. Wilson, M. Gilliham, Z.-H. Chen and B. J. Pogson 2017. eLife, 6. [doi: 10.7554/eLife.23361](http://www.ncbi.nlm.nih.gov/pubmed/28323614)
+
+**Distribution and inheritance of a gene cluster encoding a sulfated tyrosine peptide in Xanthomonas spp.** <br>
+M. McDonald, B. Schwessinger, V. Stewart and P. C. Ronald 2017. bioRxiv, 149930. [doi: 10.1101/149930](http://biorxiv.org/content/early/2017/06/14/149930.abstract)
+
+**Improving methodologies for rapid diagnosis of coinfection in plants** <br>
+G. Green, A. Milgate, J. Rathjen and B. Schwessinger 2017. F1000Research, 6. **doi:**
 
 <hr>
 
@@ -152,6 +170,9 @@ C. Dardick, B. Schwessinger and P. Ronald 2012. Current Opinion in Plant Biology
 **Brassinosteroids inhibit pathogen-associated molecular pattern-triggered immune signaling independent of the receptor kinase BAK1** <br>
 C. Albrecht, F. Boutrot, C. Segonzac, B. Schwessinger, S. Gimenez-Ibanez, D. Chinchilla, J. P. Rathjen, S. C. de Vries and C. Zipfel 2012. Proceedings of the National Academy of Sciences of the United States of America, 109, 303-308. [doi: 10.1073/pnas.1109921108](http://www.ncbi.nlm.nih.gov/pubmed/22087006)
 
+**The XA21-associated Kinase 1 (XAK1) regulates immunity mediated by the pattern-recognition receptor XA21** <br>
+Mawsheng Chern, Patrick ECanlas, Benjamin Schwessinger and P. CRonald 2012. In: (ed.)^(eds.) From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. [doi: 
+
 <hr>
 
 # 2011
@@ -166,6 +187,11 @@ M. Roux, B. Schwessinger, C. Albrecht, D. Chinchilla, A. Jones, N. Holton, F. G.
 V. Ntoukakis, B. Schwessinger, C. Segonzac and C. Zipfel 2011. The Plant Cell, 23, 3871-3878. [doi: 10.1105/tpc.111.090779](http://www.ncbi.nlm.nih.gov/pubmed/22129600)
 
 <hr>
+
+# 2010
+
+**Genetic analysis of signalling components of PAMP-triggered immunity (PTI) in plants** <br>
+B. Schwessinger. 2010. University of East Anglia.
 
 # 2009
 

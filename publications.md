@@ -25,8 +25,8 @@ S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hen
 
 **Variation and inheritance of the Xanthomonas raxX-raxSTAB gene cluster required for activation of XA21-mediated immunity** <br>
 F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2019. Molecular Plant Pathology, 20, 656-672. [doi: 10.1111/mpp.12783](http://www.ncbi.nlm.nih.gov/pubmed/30773771)
-**MinIONQC: fast and simple quality control for MinION sequencing data** <br>
 
+**MinIONQC: fast and simple quality control for MinION sequencing data** <br>
 R. Lanfear, M. Schalamun, D. Kainer, W. Wang and B. Schwessinger 2019. Bioinformatics (Oxford, England), 35, 523-525. [doi: 10.1093/bioinformatics/bty654](http://www.ncbi.nlm.nih.gov/pubmed/30052755)
 
 <hr>

@@ -164,7 +164,7 @@ C. Dardick, B. Schwessinger and P. Ronald 2012. Current Opinion in Plant Biology
 C. Albrecht, F. Boutrot, C. Segonzac, B. Schwessinger, S. Gimenez-Ibanez, D. Chinchilla, J. P. Rathjen, S. C. de Vries and C. Zipfel 2012. Proceedings of the National Academy of Sciences of the United States of America, 109, 303-308. [doi: 10.1073/pnas.1109921108](http://www.ncbi.nlm.nih.gov/pubmed/22087006)
 
 **The XA21-associated Kinase 1 (XAK1) regulates immunity mediated by the pattern-recognition receptor XA21** <br>
-Mawsheng Chern, Patrick ECanlas, Benjamin Schwessinger and P. CRonald 2012. In: (ed.)^(eds.) From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. [doi: 
+Mawsheng Chern, Patrick ECanlas, Benjamin Schwessinger and P. CRonald 2012. From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. [doi: 
 
 <hr>
 
@@ -242,7 +242,7 @@ B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. 
 N. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schwessinger and P. Ronald 2017. bioRxiv, 119925. [doi: 10.1101/119925](https://www.biorxiv.org/content/10.1101/119925v1)
 
 **XA21-specific induction of stress-related genes following <i>Xanthomonas</i> infection of detached rice leaves** <br>
-N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: 10.7287/peerj.preprints.2289v1](https://peerj.com/preprints/2289)
+N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ Preprints. [doi: 10.7287/peerj.preprints.2289v1](https://peerj.com/preprints/2289)
 
 **Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
 B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. bioRxiv, 006155. [doi: 10.1101/006155](https://www.biorxiv.org/content/10.1101/006155v3)
@@ -251,7 +251,7 @@ B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Can
 X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2)
 
 **The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
-O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. In: (ed.)^(eds.) ed.: PeerJ PrePrints. [doi: 10.7282/peerjpr.preprints.109v1](https://peerj.com/preprints/109v1)
+O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. PeerJ PrePrints. [doi: 10.7282/peerjpr.preprints.109v1](https://peerj.com/preprints/109v1)
 
 # Preprints that might be published
 

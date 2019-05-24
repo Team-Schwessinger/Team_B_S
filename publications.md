@@ -261,13 +261,12 @@ O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, 
 **A Genetic Screen Identifies Two Novel Rice Cysteine-rich Receptor-like Kinases That Are Required for the Rice NH1-mediated Immune Response** <br>
 M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. Chen and P. Ronald 2014. bioRxiv, 003129. [doi: 10.1101/003129](https://www.biorxiv.org/content/10.1101/003129v1)
 
+**Maintaining confidence in the reporting of scientific outputs** <br>
+S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)
+
 <hr>
 
 # Preprints that will never be published
-
-**Maintaining confidence in the reporting of scientific outputs** <br>
-S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)
-<hr>
 
 **Departmental-level approaches to gender equity in biology** <br>
 C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27325v1](https://peerj.com/preprints/27325)

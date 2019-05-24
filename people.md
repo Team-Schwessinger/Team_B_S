@@ -44,6 +44,7 @@ permalink: /people/
     {% endif %}
   {% endfor %}
 </div>
+<hr>
 
 {% endfor %}
 

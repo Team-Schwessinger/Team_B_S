@@ -232,9 +232,6 @@ C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. In: (ed.)^(eds.) ed.:
 **Maintaining confidence in the reporting of scientific outputs** <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27098)
 
-**Mechanistic insights into the evolution of DUF26-containing proteins in land plants** <br>
-A. Vaattovaara, B. Brandt, S. Rajaraman, O. Safronov, A. Veidenberg, M. Luklová, J. Kangasjärvi, A. Löytynoja, M. Hothorn, J. Salojärvi and M. Wrzaczek 2018. bioRxiv, 493502. [doi: 10.1101/493502](https://www.biorxiv.org/content/10.1101/493502v1)
-
 **On the value of preprints: an early career researcher perspective** <br>
 S. Sarabipour, H. J. Debat, E. Emmott, S. Burgess, B. Schwessinger and Z. Hensel 2018. In: (ed.)^(eds.) ed.: PeerJ Preprints. [doi: ](https://peerj.com/preprints/27400)
 

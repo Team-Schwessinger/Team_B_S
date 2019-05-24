@@ -206,52 +206,13 @@ L. Conti, G. Price, E. O'Donnell, B. Schwessinger, P. Dominy and A. Sadanandom 2
 
 <hr>
  
-### Preprints 
+## Patents
 
-_XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves._ <br> 
-N. C. Thomas, **B. Schwessinger**, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ, 4, e2446. [doi: 10.7717/peerj.2446](https://doi.org/10.7717/peerj.2446). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/XA21%20specific%20induction%20of%20stress%20related%20genes%20following%20Xanthomonas%20infection%20of%20detached%20rice%20leaves.pdf)
+**Engineering pathogen resistance in plants** <br>
+B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461.
 
-_The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles._ <br> 
-O. Bahar, R. Pruitt, D. D. Luu, **B. Schwessinger**, A. Daudi, F. Liu, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2014. PeerJ, 2, e242. [doi: 10.7717/peerj.242](https://doi.org/10.7717/peerj.242). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/The%20Xanthomonas%20Ax21%20protein%20is.pdf)
 
-_On the value of preprints: An early career researcher perspective._ <br>
-S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, **B. Schwessinger** and Z. Hensel 2019. PLOS Biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](https://doi.org/10.1371/journal.pbio.3000151). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/On%20the%20value%20of%20preprints%20An%20early%20career.pdf)
-
-_Departmental-level approaches to gender equity in biology._ <br>
-C. J. McDonald-Spicer, **B. Schwessinger** and S. Howitt 2018. PeerJ Preprints, 6, e27325v1. [doi: 10.7287/peerj.preprints.27325v1](https://doi.org/10.7287/peerj.preprints.27325v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Departmental-level%20approaches%20to%20Gender%20Equity%20in.pdf)
-
-_Maintaining confidence in the reporting of scientific outputs._ <br>
-S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and **B. Schwessinger** 2018. PeerJ Preprints, 6, e27098v1. [doi: 10.7287/peerj.preprints.27098v1](https://doi.org/10.7287/peerj.preprints.27098v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Maintaining%20confidence%20in%20the%20reporting%20of%20scientific%20outputs.pdf)
-
-_An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors_ <br>
-X. Chen, S. Zuo, **B. Schwessinger**, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/An%20XA21%20Associated%20Kinase%20(OsSERK2)%20Regulates%20Immunity%20Mediated%20by%20the%20XA21%20and%20XA3%20Immune%20Receptor.pdf)
-
-_Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses_ <br>
-**B. Schwessinger**, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. bioRxiv, 006155. [doi: 10.1101/006155](https://www.biorxiv.org/content/10.1101/006155v3). **PDF available [here]**
-
-_De novo assembly and phasing of dikaryotic genomes from two isolates of Puccinia coronata f. sp. avenae, the causal agent of oat crown rust_ <br>
-M. E. Miller, Y. Zhang, V. Omidvar, J. Sperschneider, **B. Schwessinger**, C. Raley, J. M. Palmer, D. Garnica, N. Upadhyaya, J. Rathjen, J. M. Taylor, R. F. Park, P. N. Dodds, C. D. Hirsch, S. F. Kianian and M. Figueroa 2017. bioRxiv, 179226. [doi: 10.1101/179226](https://www.biorxiv.org/content/10.1101/179226v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/De%20Novo%20Assembly%20and%20Phasing%20of%20Dikaryotic%20Genomes%20from%20Two%20Isolates%20of%20Puccinia%20coronata%20f.%20sp.%20avenae%2C%20the%20Causal%20Agent%20of%20Oat%20Crown%20Rust.pdf)
-
-_A near complete haplotype-phased genome of the dikaryotic wheat stripe rust fungus Puccinia striiformis f. sp. tritici reveals high inter-haplotype diversity_ <br>
-**B. Schwessinger**, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. M. Taylor, P. N. Dodds, M. Figueroa, P. F. Robert and J. Rathjen 2017. bioRxiv, 192435. [doi: 10.1101/192435](https://www.biorxiv.org/content/10.1101/192435v3). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/A%20Near%20Complete%20Haplotype%20Phased%20Genome%20of%20the%20Dikaryotic%20Wheat%20Stripe%20Rust%20Fungus%20Puccinia%20striiformis%20f.%20sp.%20tritici%20Reveals%20High%20Interhaplotype%20Diversity.pdf)
-
-_A microbially derived tyrosine sulfated peptide mimics a plant peptide hormone_ <br>
-R. N. Pruitt, A. Joe, W. Zhang, W. Feng, V. Stewart, **B. Schwessinger**, J. R. Dinneny and P. C. Ronald 2017. bioRxiv, 116897. [doi: 10.1101/116897](https://www.biorxiv.org/content/10.1101/116897v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/A%20microbially%20derived%20tyrosine%E2%80%90sulfated%20peptide%20mimics%20a%20plant%20peptide%20hormone.pdf)
-
-_The Rice XA21 Ectodomain Fused to the Arabidopsis EFR Cytoplasmic Domain Confers Resistance to Xanthomonas oryzae pv. oryzae_ <br>
-N. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, **B. Schwessinger** and P. Ronald 2017. bioRxiv, 119925. [doi: 10.1101/119925](https://www.biorxiv.org/content/10.1101/119925v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/The%20rice%20XA21%20ectodomain%20fused%20to%20the%20Arabidopsis%20EFR%20cytoplasmic%20domain%20confers%20resistance%20to%20Xanthomonas%20oryzae%20pv.%20oryzae.pdf)
-
-_Variation and inheritance of the Xanthomonas gene cluster required for activation of XA21-mediated immunity_ <br>
-F. Liu, M. McDonald, **B. Schwessinger**, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V. Stewart and P. C. Ronald 2018. bioRxiv, 149930. [doi: 10.1101/149930](https://www.biorxiv.org/content/10.1101/149930v2). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Variation%20and%20inheritance%20of%20the%20XanthomonasraxX%E2%80%90raxSTAB%20gene%20cluster%20required%20for%20activation%20of%20XA21%E2%80%90mediated%20immunity.pdf)
-
-_A comprehensive toolkit to enable MinION long-read sequencing in any laboratory_ <br>
-M. Schalamun, D. Kainer, E. Beavan, R. Nagar, D. Eccles, J. Rathjen, R. Lanfear and **B. Schwessinger** 2018. bioRxiv, 289579. [doi: 10.1101/289579](https://www.biorxiv.org/content/10.1101/289579v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/A%20comprehensive%20toolkit%20to%20enable%20MinION%20long-read%20sequencing%20in%20any%20laboratory.pdf)
-
-_Assembly of chloroplast genomes with long- and short-read data: a comparison of approaches using Eucalyptus pauciflora as a test case_ <br>
-W. Wang, M. Schalamun, A. M. Suarez, D. Kainer, **B. Schwessinger** and R. Lanfear 2018. bioRxiv, 320085. [doi: 10.1101/320085](https://www.biorxiv.org/content/10.1101/320085v1). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Assembly%20of%20chloroplast%20genomes%20with%20long-%20and%20short-read%20data%20a%20comparison%20of%20approaches%20using%20Eucalyptus%20pauciflora%20as%20a%20test%20case.pdf)
-
-_Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer_ <br>
-**Y. Hu**, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and **B. Schwessinger** 2019. bioRxiv, 429878. [doi: 10.1101/429878](https://www.biorxiv.org/content/10.1101/429878v4). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Pathogen%20Detection%20and%20Microbiome%20Analysis%20of%20Infected%20Wheat%20Using%20a%20Portable%20DNA.pdf)
+# Preprints 
 
 <hr>
 

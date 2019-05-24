@@ -220,9 +220,6 @@ Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinge
 **Assembly of chloroplast genomes with long- and short-read data: a comparison of approaches using Eucalyptus pauciflora as a test case** <br>
 W. Wang, M. Schalamun, A. M. Suarez, D. Kainer, B. Schwessinger and R. Lanfear 2018. bioRxiv, 320085. [doi: 10.1101/320085](https://www.biorxiv.org/content/10.1101/320085v1)
 
-**Clustering de Novo by Gene of Long Reads from Transcriptomics Data** <br>
-C. Marchet, L. Lecompte, C. D. Silva, C. Cruaud, J.-M. Aury, J. Nicolas and P. Peterlongo 2018. bioRxiv, 170035. [doi: 10.1101/170035](https://www.biorxiv.org/content/10.1101/170035v5)
-
 **A comprehensive toolkit to enable MinION long-read sequencing in any laboratory** <br>
 M. Schalamun, D. Kainer, E. Beavan, R. Nagar, D. Eccles, J. Rathjen, R. Lanfear and B. Schwessinger 2018. bioRxiv, 289579. [doi: 10.1101/289579](https://www.biorxiv.org/content/10.1101/289579v1)
 
@@ -255,12 +252,6 @@ N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. S
 
 **Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
 B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. bioRxiv, 006155. [doi: 10.1101/006155](https://www.biorxiv.org/content/10.1101/006155v3)
-
-**Phytophthora infestans RXLR-WY effector AVR3a associates with a Dynamin-Related Protein involved in endocytosis of a plant pattern recognition receptor** <br>
-A. Chaparro-Garcia, S. Schwizer, J. Sklenar, K. Yoshida, J. I. B. Bos, S. Schornack, A. M. E. Jones, T. O. Bozkurt and S. Kamoun 2014. bioRxiv, 012963. [doi: 10.1101/012963](https://www.biorxiv.org/content/10.1101/012963v1)
-
-**Rice BiP3 regulates immunity mediated by the PRRs XA3 and XA21 but not immunity mediated by the NB-LRR protein, Pi5** <br>
-C.-J. Park, M.-Y. Song, C.-Y. Kim, J.-S. Jeon and P. C. Ronald 2014. bioRxiv, 003533. [doi: 10.1101/003533](https://www.biorxiv.org/content/10.1101/003533v1)
 
 **An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors** <br>
 X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. Wang, A. Daudi, C. J. Petzold, J. L. Heazlewood and P. C. Ronald 2013. bioRxiv, 000950. [doi: 10.1101/000950](https://www.biorxiv.org/content/10.1101/000950v2)

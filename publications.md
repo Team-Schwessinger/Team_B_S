@@ -212,10 +212,7 @@ L. Conti, G. Price, E. O'Donnell, B. Schwessinger, P. Dominy and A. Sadanandom 2
 B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461.
 
 
-# Preprints 
-
-**Complex responses to inflammatory oxidants by the probiotic bacterium Lactobacillus reuteri** <br>
-P. B. Thakur, A. R. Long, B. J. Nelson, R. Kumar, A. F. Rosenberg and M. J. Gray 2019. bioRxiv, 605881. [doi: 10.1101/605881](https://www.biorxiv.org/content/10.1101/605881v1)
+# Preprints that have been published
 
 **Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer** <br>
 Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger 2019. bioRxiv, 429878. [doi: 10.1101/429878](https://www.biorxiv.org/content/10.1101/429878v4)
@@ -262,9 +259,6 @@ N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. S
 **Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
 B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. bioRxiv, 006155. [doi: 10.1101/006155](https://www.biorxiv.org/content/10.1101/006155v3)
 
-**A Genetic Screen Identifies Two Novel Rice Cysteine-rich Receptor-like Kinases That Are Required for the Rice NH1-mediated Immune Response** <br>
-M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. Chen and P. Ronald 2014. bioRxiv, 003129. [doi: 10.1101/003129](https://www.biorxiv.org/content/10.1101/003129v1)
-
 **Phytophthora infestans RXLR-WY effector AVR3a associates with a Dynamin-Related Protein involved in endocytosis of a plant pattern recognition receptor** <br>
 A. Chaparro-Garcia, S. Schwizer, J. Sklenar, K. Yoshida, J. I. B. Bos, S. Schornack, A. M. E. Jones, T. O. Bozkurt and S. Kamoun 2014. bioRxiv, 012963. [doi: 10.1101/012963](https://www.biorxiv.org/content/10.1101/012963v1)
 
@@ -276,6 +270,14 @@ X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. W
 
 **The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
 O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. In: (ed.)^(eds.) ed.: PeerJ PrePrints. [doi: ](https://peerj.com/preprints/109v1)
+
+# Preprints that might be published
+
+**A Genetic Screen Identifies Two Novel Rice Cysteine-rich Receptor-like Kinases That Are Required for the Rice NH1-mediated Immune Response** <br>
+M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. Chen and P. Ronald 2014. bioRxiv, 003129. [doi: 10.1101/003129](https://www.biorxiv.org/content/10.1101/003129v1)
+
+# Preprints that will never be published
+
 
 <hr>
 

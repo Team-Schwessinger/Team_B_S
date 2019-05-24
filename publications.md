@@ -211,6 +211,7 @@ L. Conti, G. Price, E. O'Donnell, B. Schwessinger, P. Dominy and A. Sadanandom 2
 **Engineering pathogen resistance in plants** <br>
 B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461.
 
+<hr>
 
 # Preprints that have been published
 
@@ -253,10 +254,14 @@ X. Chen, S. Zuo, B. Schwessinger, M. Chern, P. E. Canlas, D. Ruan, X. Zhou, J. W
 **The Xanthomonas Ax21 protein is processed by the general secretory system and is secreted in association with outer membrane vesicles** <br>
 O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, R. Koebnik and P. Ronald 2013. PeerJ PrePrints. [doi: 10.7282/peerjpr.preprints.109v1](https://peerj.com/preprints/109v1)
 
+<hr>
+
 # Preprints that might be published
 
 **A Genetic Screen Identifies Two Novel Rice Cysteine-rich Receptor-like Kinases That Are Required for the Rice NH1-mediated Immune Response** <br>
 M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. Chen and P. Ronald 2014. bioRxiv, 003129. [doi: 10.1101/003129](https://www.biorxiv.org/content/10.1101/003129v1)
+
+<hr>
 
 # Preprints that will never be published
 
@@ -266,6 +271,8 @@ S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. 
 
 **Departmental-level approaches to gender equity in biology** <br>
 C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27325v1](https://peerj.com/preprints/27325)
+
+<hr>
 
 ### Copyright Notice
 

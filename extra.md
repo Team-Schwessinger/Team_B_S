@@ -18,7 +18,22 @@ permalink: /extra/
 ### **Lab extracurricular activities**
 {% endif %}
 
- ### **Collaborators of Team Schwessinger**
+ <div class="content list">
+  {% for post in site.posts %}
+    {% if post.categories contains type %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
+      </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<hr>
+{% endfor %}
+
+### **Collaborators of Team Schwessinger**
 Here are some cool people in fields that interest us. note: This list is in no way complete. We have a lot of collaborators – if you’ve collaborated with us and want a link here, let us know!
 
 **Australian National University**
@@ -37,18 +52,3 @@ Here are some cool people in fields that interest us. note: This list is in no w
 **Denmark Department of Agroecology**
 
 [Professor Mogens Støvring Hovmøller - Entomology and Plant Pathology](http://pure.au.dk/portal/en/mogens.hovmoller@agrsci.dk)
-
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains type %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-
-<hr>
-{% endfor %}

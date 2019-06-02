@@ -1,5 +1,5 @@
 ---
-title: Curatora in protocols.io
+title: Initiator of the High molecular weight DNA extraction and (nanopore) long-read sequencing usergroup on protocols.io
 description: Link to webpage
 categories: everyone
 ---

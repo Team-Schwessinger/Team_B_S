@@ -14,7 +14,8 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-# Classic publications (aka journal mediated peer-reviewed articles)
+# Classic peer-reviewed publications
+
 
 # 2019
 
@@ -76,9 +77,6 @@ R. N. Pruitt, A. Joe, W. Zhang, W. Feng, V. Stewart, B. Schwessinger, J. R. Dinn
 
 **A chloroplast retrograde signal, 3'-phosphoadenosine 5'-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination** <br>
 W. Pornsiriwong, G. M. Estavillo, K. X. Chan, E. E. Tee, D. Ganguly, P. A. Crisp, S. Y. Phua, C. Zhao, J. Qiu, J. Park, M. T. Yong, N. Nisar, A. K. Yadav, B. Schwessinger, J. Rathjen, C. I. Cazzonelli, P. B. Wilson, M. Gilliham, Z.-H. Chen and B. J. Pogson 2017. eLife, 6. [doi: 10.7554/eLife.23361](http://www.ncbi.nlm.nih.gov/pubmed/28323614)
-
-**Improving methodologies for rapid diagnosis of coinfection in plants** <br>
-G. Green, A. Milgate, J. Rathjen and B. Schwessinger 2017. F1000Research, 6. **doi:**
 
 <hr>
 
@@ -263,6 +261,9 @@ S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. 
 
 **Departmental-level approaches to gender equity in biology** <br>
 C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27325v1](https://peerj.com/preprints/27325)
+
+**Improving methodologies for rapid diagnosis of coinfection in plants** <br>
+G. Green, A. Milgate, J. Rathjen and B. Schwessinger 2017. F1000Research, 6. **doi:**
 
 <hr>
 

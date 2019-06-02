@@ -14,6 +14,8 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+# Classic publications (aka journal mediated peer-reviewed articles)
+
 # 2019
 
 **Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer** <br>
@@ -40,9 +42,6 @@ W. Wang, M. Schalamun, A. Morales-Suarez, D. Kainer, B. Schwessinger and R. Lanf
 
 **The rice XA21 ectodomain fused to the Arabidopsis EFR cytoplasmic domain confers resistance to Xanthomonas oryzae pv. oryzae** <br>
 N. C. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schwessinger and P. C. Ronald 2018. PeerJ, 6, e4456. [doi: 10.7717/peerj.4456](http://www.ncbi.nlm.nih.gov/pubmed/29761034)
-
-**Engineering pathogen resistance in plants** <br>
-B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent application 15382461.
 
 **A Near-Complete Haplotype-Phased Genome of the Dikaryotic Wheat Stripe Rust Fungus Puccinia striiformis f. sp. tritici Reveals High Interhaplotype Diversity** <br>
 B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. M. Taylor, P. N. Dodds, M. Figueroa, R. F. Park and J. P. Rathjen 2018. mBio, 9. [doi: 10.1128/mBio.02275-17](http://www.ncbi.nlm.nih.gov/pubmed/29463659)
@@ -77,9 +76,6 @@ R. N. Pruitt, A. Joe, W. Zhang, W. Feng, V. Stewart, B. Schwessinger, J. R. Dinn
 
 **A chloroplast retrograde signal, 3'-phosphoadenosine 5'-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination** <br>
 W. Pornsiriwong, G. M. Estavillo, K. X. Chan, E. E. Tee, D. Ganguly, P. A. Crisp, S. Y. Phua, C. Zhao, J. Qiu, J. Park, M. T. Yong, N. Nisar, A. K. Yadav, B. Schwessinger, J. Rathjen, C. I. Cazzonelli, P. B. Wilson, M. Gilliham, Z.-H. Chen and B. J. Pogson 2017. eLife, 6. [doi: 10.7554/eLife.23361](http://www.ncbi.nlm.nih.gov/pubmed/28323614)
-
-**Distribution and inheritance of a gene cluster encoding a sulfated tyrosine peptide in Xanthomonas spp.** <br>
-M. McDonald, B. Schwessinger, V. Stewart and P. C. Ronald 2017. bioRxiv, 149930. [doi: 10.1101/149930](http://biorxiv.org/content/early/2017/06/14/149930.abstract)
 
 **Improving methodologies for rapid diagnosis of coinfection in plants** <br>
 G. Green, A. Milgate, J. Rathjen and B. Schwessinger 2017. F1000Research, 6. **doi:**
@@ -213,7 +209,7 @@ B. S. Pamela Ronald, Rory Pruitt, Anna Joe, Weiguo Zhang. 2018. US patent applic
 
 <hr>
 
-# Preprints that have been published
+# Preprints that have been published as journal mediated peer-reviewed articles
 
 **Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer** <br>
 Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger 2019. bioRxiv, 429878. [doi: 10.1101/429878](https://www.biorxiv.org/content/10.1101/429878v4)
@@ -257,9 +253,6 @@ O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, 
 <hr>
 
 # Preprints that might be published
-
-**A Genetic Screen Identifies Two Novel Rice Cysteine-rich Receptor-like Kinases That Are Required for the Rice NH1-mediated Immune Response** <br>
-M. Chern, R. S. Bart, W. Bai, D. Ruan, W. H. Sze-To, P. E. Canlas, R. Jain, X. Chen and P. Ronald 2014. bioRxiv, 003129. [doi: 10.1101/003129](https://www.biorxiv.org/content/10.1101/003129v1)
 
 **Maintaining confidence in the reporting of scientific outputs** <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)

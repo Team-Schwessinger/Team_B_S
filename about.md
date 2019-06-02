@@ -10,11 +10,26 @@ We are a highly collaborative and interactive team that studies the interaction 
 Please see [How to Join](http://Team-Schwessinger.github.io/Team_B_S/how_to_join/) for more information.
 
 ### Research
-We study these plant-fungi interactions on multiple molecular and temporal scales. This includes many aspects:
 
-Detailed molecular interaction studies of plant and fungal proteins leading to disease or immunity. The seconds to days timescale.
-Detailed genome evolution and adaptation of fungal pathogens, especially the [wheat stripe rust fungus](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14159?scrollTo=references&), in response to wild and agricultural ecosystems. The months to years timescale.
-Detailed comparative and population genomics analysis of rust fungi with a focus on wheat rusts, yet looking beyond. The decades to millions of year timescale.
+Our team focuses on questions around plant biosecurity in Australia by studying the interaction between plants and their fungal pathogen. Specifically, we work on agronomic important wheat rust fungi and the environmental important myrtle rust fungus that infects a wide range of myrtacea (e.g. eucalyptus trees).
+
+**Key questions are:**
+
+* How do these invasive fungal pathogens infect host plants?
+* What are the genes underlying host adaptation enabling infection?
+* How does evolution and adaptation shape genome structure in agricultural vs. natural ecosystems?
+* Can we develop cutting edge sequence based methods for pathogen detection?
+* How do microbial communities in plant leaves change during the infection with invasive pathogens?
+
+Many of these questions are also applicable to other study systems, hence we are a really collaborative team. We work with other groups at RSB and beyond on plant, animal, and fungal genomics. 
+
+**Specifics**
+
+We study plant-fungi interactions on multiple molecular and temporal scales. This includes many aspects:
+
+* Detailed molecular interaction studies of plant and fungal proteins leading to disease or immunity. The seconds to days timescale.
+* Detailed genome evolution and adaptation of fungal pathogens, especially the [wheat stripe rust fungus](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14159?scrollTo=references&), in response to wild and agricultural ecosystems. The months to years timescale.
+* Detailed comparative and population genomics analysis of rust fungi with a focus on wheat rusts, yet looking beyond. The decades to millions of year timescale.
 
 Our 2019 lab projects include: 
 

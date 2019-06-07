@@ -16,6 +16,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 # Classic peer-reviewed publications
 
+<hr>
 
 # 2019
 

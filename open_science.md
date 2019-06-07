@@ -5,6 +5,9 @@ permalink: /open_science/
 
 
 ### **Contributions of Team Schwessinger to Open Science**
+
+<hr>
+
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'openscience' %}

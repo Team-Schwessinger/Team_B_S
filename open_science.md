@@ -4,7 +4,7 @@ permalink: /open_science/
 ---
 
 
-### **Open Science and Contributions of Team Schwessinger to the Scientific Community**
+### **Contributions of Team Schwessinger to Open Science**
 <div class="content list">
   {% for post in site.posts %}
     {% if post.categories contains 'openscience' %}

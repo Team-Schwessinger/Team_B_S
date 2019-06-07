@@ -1,5 +1,5 @@
 ---
-title: Protocols.io Ambassadors
+title: protocols.io Ambassadors
 description: Link to webpage
 categories: openscience
 ---

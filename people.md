@@ -22,7 +22,7 @@ permalink: /people/
  {% elsif item == 'staff' %}
 <h3>Research Fellows</h3>
  {% elsif item == 'previous' %}
-<h3>Previously (Co-)/Supervised Students</h3>
+<h2>Previously (Co-)/Supervised Students</h2>
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}

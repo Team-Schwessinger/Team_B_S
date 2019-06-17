@@ -3,14 +3,12 @@ title: Reference
 permalink: /resources/
 ---
 
-{% assign reference_types = "everyone|researchers|discussion" | split: "|" %}
+{% assign reference_types = "everyone|discussion" | split: "|" %}
 
 {% for type in reference_types %}
 
 {% if type == 'everyone' %}
 ### **Resources for everyone**
- {% elsif type == 'researchers' %}
-### **Resources for researchers**
  {% elsif type == 'discussion' %}
 ### **Random bits of discussion**
 {% endif %}

@@ -10,6 +10,8 @@ permalink: /open_science/
 
 ### Advanced Scientific Programming in Python
 
+<img width="300" height="550" src="{{site.baseurl}}/images/people/python.jpg">
+
 Earlier in 2019, Benjamin helped organise the 2nd Advanced Scientific Programming in Python for Asia Pacific.  
 To learn more about what happened, please click [here](https://scipy-school.org/).  
 

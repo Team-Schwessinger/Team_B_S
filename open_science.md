@@ -10,7 +10,7 @@ permalink: /open_science/
 
 ### Advanced Scientific Programming in Python
 
-<img src="https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/images/people/python.JPG" data-action="zoom">  
+<img width="500" src="https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/images/people/python.JPG" data-action="zoom">  
 
 
 Earlier in 2019, Benjamin helped organise the 2nd Advanced Scientific Programming in Python for Asia Pacific.  

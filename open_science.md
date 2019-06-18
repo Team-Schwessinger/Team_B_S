@@ -19,7 +19,7 @@ To learn more about what happened, please click [here](https://scipy-school.org/
 
 ### PoreCamp Australia 2017
 
-![alt text](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/images/people/MinION.jpg)
+![pore camp](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/images/people/MinION.jpg)
 
 In 2017, Benjamin Schwessinger helped to organise PoreCamp2017, an intensive training "bootcamp" based around the Oxford Nanopore MinION sequencing platform.  
 To learn more about PoreCamp 2017, please click [here](https://porecamp-au.github.io/).

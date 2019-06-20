@@ -8,6 +8,10 @@ permalink: /open_science/
 
 <hr>
 
+Team Schwessinger is dedicated to open science, and holds it as one of their most important principles when working in the lab. Listed here are some of Benjamin and the team's contributions to making data sharing more available and accessible to all in the community.
+
+<hr>
+
 ### Advanced Scientific Programming in Python
 
 <img height="200" src="{{site.baseurl}}/images/people/python.JPG">

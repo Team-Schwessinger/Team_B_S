@@ -11,7 +11,7 @@ Please see [How to Join](http://Team-Schwessinger.github.io/Team_B_S/how_to_join
 
 ### Research
 
-Our team focuses on questions around plant biosecurity in Australia by studying the interaction between plants and their fungal pathogen. Specifically, we work on agronomic important wheat rust fungi and the environmental important myrtle rust fungus that infects a wide range of myrtacea (e.g. eucalyptus trees).
+Our team focuses on questions around plant biosecurity in Australia by studying the interaction between plants and their fungal pathogen. Specifically, we work on agronomic important wheat rust fungi and the environmental important myrtle rust fungus that infects a wide range of myrtacea (e.g. eucalyptus trees). We also have an interest in bioinformatics and sequencing technologies in relation to plant sciences, and are currently doing research into MinION sequencing ability and error.
 
 **Key questions are:**
 
@@ -37,8 +37,12 @@ Our 2019 lab projects include:
 
 [Detection of fungal pathogens and their associated microbiome](https://biology.anu.edu.au/research/projects/detection-fungal-pathogens-and-their-associated-microbiome) (Summer, Honours, and Master students)
 
+**Our experience with MinION sequencing:**
+
+Evolution has driven genetic diversity of life on Earth, but also created highly complex genomes that are difficult to sequence. Current draft genomes can have thousands to hundreds of thousands of contigs rather than chromosomes, containing incorrect assemblies, gaps and errors. With rapid advances in long-read technologies, it is becoming possible to resolve complex genomes, including repetitive, polyploid plant genomes. Despite the technology being available, a challenge persists: the extraction of pure high molecular weight DNA suitable for long-read sequencing. This is particularly true of recalcitrant native Australian trees such as Eucalypts and Acacias. To resolve this, firstly we optimised a density gradient based nuclei extraction to remove cytoplasmic secondary metabolites, phenols and limit reads from high copy count plastid genomes. Secondly, we optimised a gentle high molecular weight DNA extraction free of columns and high centrifugation, to limit DNA fragmentation. Finally, the DNA was purified and size selected by gel electrophoresis. For sequencing, we adopted the portable MinION sequencer from Oxford Nanopore Technologies. Using these approaches, we have been obtaining  approximately 10 gigabases of sequencing from a single MinION revC flow cell and approximately 15 gigabases with new revD flow cells. This includes quality reads over 200 kb in length, average N50 values of 20 kb and some N50 values exceeding 45 kb. Such ultra-long reads assist the assembly of high quality genomes, from telomere to telomere.
+
 ### The science beyond the 'lab'
-Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science.
+Beyond being nerds, we aim to contribute to a welcoming and progressive academic environment. Group members are actively encouraged to contribute to community events, outreach science communication, and university commities. For example, group members are part of [eLife's Early Career Advisory Board](https://elifesciences.org/), ambassador for the protocol sharing webpage [protocols.io](https://www.protocols.io/), and chair of the RSB Equity Committee. And of course we love open access and reproducible science. For more information and detail on our contributions to open science, please look at our [Open Science](http://teamschwessinger.com/open_science/) page.
 
 <hr>
 

@@ -59,7 +59,7 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 | B. S. | 07/2012-09/2015 | Human Frontier Science Program Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $195k | Principal Investigator |
 | B. S. | 01/2012-07/2015 | European Molecular Biology Organization Long-Term Fellowship, Function of non-RD kinases in plant immunity | Postdoctoral Grant | $80k | Principal Investigator |
 
-<hr>
+
 
 ### **Awards, Fellowships and Scholarships**
 

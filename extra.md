@@ -29,7 +29,7 @@ permalink: /extra/
     {% endif %}
   {% endfor %}
 </div>
-
+<hr>
 {% endfor %}
 
 ### **Collaborators of Team Schwessinger**

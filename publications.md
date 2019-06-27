@@ -159,7 +159,7 @@ C. Dardick, B. Schwessinger and P. Ronald 2012. Current Opinion in Plant Biology
 C. Albrecht, F. Boutrot, C. Segonzac, B. Schwessinger, S. Gimenez-Ibanez, D. Chinchilla, J. P. Rathjen, S. C. de Vries and C. Zipfel 2012. Proceedings of the National Academy of Sciences of the United States of America, 109, 303-308. [doi: 10.1073/pnas.1109921108](http://www.ncbi.nlm.nih.gov/pubmed/22087006). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Brassinosteroids%20inhibit%20pathogen%20associated%20molecular.pdf)
 
 **The XA21-associated Kinase 1 (XAK1) regulates immunity mediated by the pattern-recognition receptor XA21** <br>
-M. Chern, P. E. Canlas, B. Schwessinger and P. C. Ronald 2012. From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. **[doi: .]** . **PDF available [here](
+M. Chern, P. E. Canlas, B. Schwessinger and P. C. Ronald 2012. From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. [doi:10.1093/mp/ssu003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064043/). **PDF available [here](
 
 <hr>
 

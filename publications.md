@@ -24,7 +24,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger Phytobiomes Journal, 0, PBIOMES-01-19-0004-R. [doi: 10.1094/pbiomes-01-19-0004-r](https://apsjournals.apsnet.org/doi/abs/10.1094/PBIOMES-01-19-0004-R). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Pathogen%20Detection%20and%20Microbiome%20Analysis%20of%20Infected%20Wheat%20Using%20a%20Portable%20DNA.pdf)
 
 **Harnessing the MinION: An example of how to establish long-read sequencing in a laboratory using challenging plant tissue from Eucalyptus pauciflora** <br>
-M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfear and B. Schwessinger 2019. Molecular Ecology Resources, 19, 77-89. [doi: 10.1111/1755-0998.12938](http://www.ncbi.nlm.nih.gov/pubmed/30118581). **PDF available [here](
+M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfear and B. Schwessinger 2019. Molecular Ecology Resources, 19, 77-89. [doi: 10.1111/1755-0998.12938](http://www.ncbi.nlm.nih.gov/pubmed/30118581). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Harnessing%20the%20MinION.pdf)
 
 **On the value of preprints: An early career researcher perspective** <br>
 S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hensel 2019. PLoS biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](http://www.ncbi.nlm.nih.gov/pubmed/30789895). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/On%20the%20value%20of%20preprints%20An%20early%20career.pdf)
@@ -49,10 +49,10 @@ N. C. Thomas, N. Oksenberg, F. Liu, D. Caddell, A. Nalyvayko, Y. Nguyen, B. Schw
 B. Schwessinger, J. Sperschneider, W. S. Cuddy, D. P. Garnica, M. E. Miller, J. M. Taylor, P. N. Dodds, M. Figueroa, R. F. Park and J. P. Rathjen 2018. mBio, 9. [doi: 10.1128/mBio.02275-17](http://www.ncbi.nlm.nih.gov/pubmed/29463659). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/A%20Near%20Complete%20Haplotype%20Phased%20Genome%20of%20the%20Dikaryotic%20Wheat%20Stripe%20Rust%20Fungus%20Puccinia%20striiformis%20f.%20sp.%20tritici%20Reveals%20High%20Interhaplotype%20Diversity.pdf)
 
 **Author Correction: Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling** <br>
-A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 563, E30. [doi: 10.1038/s41586-018-0663-4](http://www.ncbi.nlm.nih.gov/pubmed/30333630). **PDF available [here](
+A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 563, E30. [doi: 10.1038/s41586-018-0663-4](http://www.ncbi.nlm.nih.gov/pubmed/30333630). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/author%20correction%20phosphocode.pdf)
 
 **Phosphocode-dependent functional dichotomy of a common co-receptor in plant signalling** <br>
-A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 561, 248-252. [doi: 10.1038/s41586-018-0471-x](http://www.ncbi.nlm.nih.gov/pubmed/30177827). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Phosphocode-dependent%20functional%20dichotomy%20of%20a%20common%20co-receptor%20in%20plant%20signalling..pdf)
+A. Perraki, T. A. DeFalco, P. Derbyshire, J. Avila, D. Séré, J. Sklenar, X. Qi, L. Stransfeld, B. Schwessinger, Y. Kadota, A. P. Macho, S. Jiang, D. Couto, K. U. Torii, F. L. H. Menke and C. Zipfel 2018. Nature, 561, 248-252. [doi: 10.1038/s41586-018-0471-x](http://www.ncbi.nlm.nih.gov/pubmed/30177827). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Phosphocode-dependent%20functional%20dichotomy%20of%20a%20common%20co-receptor%20in%20plant%20signalling.pdf)
 
 **De Novo Assembly and Phasing of Dikaryotic Genomes from Two Isolates of Puccinia coronata f. sp. avenae, the Causal Agent of Oat Crown Rust** <br>
 M. E. Miller, Y. Zhang, V. Omidvar, J. Sperschneider, B. Schwessinger, C. Raley, J. M. Palmer, D. Garnica, N. Upadhyaya, J. Rathjen, J. M. Taylor, R. F. Park, P. N. Dodds, C. D. Hirsch, S. F. Kianian and M. Figueroa 2018. mBio, 9. [doi: 10.1128/mBio.01650-17](http://www.ncbi.nlm.nih.gov/pubmed/29463655). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/De%20Novo%20Assembly%20and%20Phasing%20of%20Dikaryotic%20Genomes%20from%20Two%20Isolates%20of%20Puccinia%20coronata%20f.%20sp.%20avenae%2C%20the%20Causal%20Agent%20of%20Oat%20Crown%20Rust.pdf)
@@ -68,7 +68,7 @@ E. Thynne, I. M. L. Saur, J. Simbaqueba, H. A. Ogilvie, Y. Gonzalez-Cendales, O.
 V. Singh, A. Perraki, S. Y. Kim, S. Shrivastava, J. H. Lee, Y. Zhao, B. Schwessinger, M.-H. Oh, A. Marshall-Colon, C. Zipfel and S. C. Huber 2017. Frontiers in Plant Science, 8, 1273. [doi: 10.3389/fpls.2017.01273](http://www.ncbi.nlm.nih.gov/pubmed/28824659). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Tyrosine-610%20in%20the%20Receptor%20Kinase%20BAK1%20Does%20Not%20Play%20a%20Major%20Role%20in%20Brassinosteroid%20Signaling%20or%20Innate%20Immunity.pdf)
 
 **Extraction of High Molecular Weight DNA from Fungal Rust Spores for Long Read Sequencing** <br>
-B. Schwessinger and J. P. Rathjen 2017. Methods in Molecular Biology (Clifton, N.J.), 1659, 49-57. [doi: 10.1007/978-1-4939-7249-4_5](http://www.ncbi.nlm.nih.gov/pubmed/28856640). **PDF available [here](
+B. Schwessinger and J. P. Rathjen 2017. Methods in Molecular Biology (Clifton, N.J.), 1659, 49-57. [doi: 10.1007/978-1-4939-7249-4_5](http://www.ncbi.nlm.nih.gov/pubmed/28856640). 
 
 **Fundamental wheat stripe rust research in the 21st century** <br>
 B. Schwessinger 2017. The New Phytologist, 213, 1625-1631. [doi: 10.1111/nph.14159](http://www.ncbi.nlm.nih.gov/pubmed/27575735). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Fundamental%20wheat%20stripe%20rust%20research%20in%20the.pdf)
@@ -87,7 +87,7 @@ W. Pornsiriwong, G. M. Estavillo, K. X. Chan, E. E. Tee, D. Ganguly, P. A. Crisp
 N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ, 4, e2446. [doi: 10.7717/peerj.2446](http://www.ncbi.nlm.nih.gov/pubmed/27703843). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/XA21%20specific%20induction%20of%20stress%20related%20genes%20following%20Xanthomonas%20infection%20of%20detached%20rice%20leaves.pdf)
 
 **A second-generation expression system for tyrosine-sulfated proteins and its application in crop protection** <br>
-B. Schwessinger, X. Li, T. L. Ellinghaus, L. J. G. Chan, T. Wei, A. Joe, N. Thomas, R. Pruitt, P. D. Adams, M. S. Chern, C. J. Petzold, C. C. Liu and P. C. Ronald 2016. Integrative Biology: Quantitative Biosciences from Nano to Macro, 8, 542-545. [doi: 10.1039/c5ib00232j](http://www.ncbi.nlm.nih.gov/pubmed/26611838). **PDF available [here](
+B. Schwessinger, X. Li, T. L. Ellinghaus, L. J. G. Chan, T. Wei, A. Joe, N. Thomas, R. Pruitt, P. D. Adams, M. S. Chern, C. J. Petzold, C. C. Liu and P. C. Ronald 2016. Integrative Biology: Quantitative Biosciences from Nano to Macro, 8, 542-545. [doi: 10.1039/c5ib00232j](http://www.ncbi.nlm.nih.gov/pubmed/26611838). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/second%20gen%20expression.pdf)
 
 **Structural Analysis of an Avr4 Effector Ortholog Offers Insight into Chitin Binding and Recognition by the Cf-4 Receptor** <br>
 A. C. Kohler, L.-H. Chen, N. Hurlburt, A. Salvucci, B. Schwessinger, A. J. Fisher and I. Stergiopoulos 2016. The Plant Cell, 28, 1945-1965. [doi: 10.1105/tpc.15.00893](http://www.ncbi.nlm.nih.gov/pubmed/27401545). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Structural%20Analysis%20of%20an%20Avr4%20Effector%20Ortholog%20Offers%20Insight%20into%20Chitin%20Binding%20and%20Recognition%20by%20the%20Cf-4%20Receptor.pdf)
@@ -109,13 +109,13 @@ B. Schwessinger, R. Bart, K. V. Krasileva and G. Coaker 2015. Frontiers in Plant
 B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. PLoS pathogens, 11, e1004872. [doi: 10.1371/journal.ppat.1004872](http://www.ncbi.nlm.nih.gov/pubmed/25906371). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Correction%20Transgenic%20Expression%20of%20the.PDF)
 
 **Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
-B. Schwessinger, O. Bahar, N. Thomas, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. PLoS pathogens, 11, e1004809. [doi: 10.1371/journal.ppat.1004809](http://www.ncbi.nlm.nih.gov/pubmed/25821973). **PDF available [here](
+B. Schwessinger, O. Bahar, N. Thomas, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. PLoS pathogens, 11, e1004809. [doi: 10.1371/journal.ppat.1004809](http://www.ncbi.nlm.nih.gov/pubmed/25821973). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/transgenic%20expression.pdf)
 
 **The rice immune receptor XA21 recognizes a tyrosine-sulfated protein from a Gram-negative bacterium** <br>
 R. N. Pruitt, B. Schwessinger, A. Joe, N. Thomas, F. Liu, M. Albert, M. R. Robinson, L. J. G. Chan, D. D. Luu, H. Chen, O. Bahar, A. Daudi, D. De Vleesschauwer, D. Caddell, W. Zhang, X. Zhao, X. Li, J. L. Heazlewood, D. Ruan, D. Majumder, M. Chern, H. Kalbacher, S. Midha, P. B. Patil, R. V. Sonti, C. J. Petzold, C. C. Liu, J. S. Brodbelt, G. Felix and P. C. Ronald 2015. Science Advances, 1, e1500245. [doi: 10.1126/sciadv.1500245](http://www.ncbi.nlm.nih.gov/pubmed/26601222). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/The%20rice%20immune%20receptor%20XA21%20recognizes.pdf)
 
 **Proteome profile of the endomembrane of developing coleoptiles from switchgrass (Panicum virgatum)** <br>
-J. Lao, M. K. Sharma, R. Sharma, S. M. G. Fernández-Niño, J. Schmutz, P. C. Ronald, J. L. Heazlewood and B. Schwessinger 2015. Proteomics, 15, 2286-2290. [doi: 10.1002/pmic.201400487](http://www.ncbi.nlm.nih.gov/pubmed/25677556). **PDF available [here](
+J. Lao, M. K. Sharma, R. Sharma, S. M. G. Fernández-Niño, J. Schmutz, P. C. Ronald, J. L. Heazlewood and B. Schwessinger 2015. Proteomics, 15, 2286-2290. [doi: 10.1002/pmic.201400487](http://www.ncbi.nlm.nih.gov/pubmed/25677556). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/proteome%20profile.pdf)
 
 <hr>
 
@@ -158,8 +158,8 @@ C. Dardick, B. Schwessinger and P. Ronald 2012. Current Opinion in Plant Biology
 **Brassinosteroids inhibit pathogen-associated molecular pattern-triggered immune signaling independent of the receptor kinase BAK1** <br>
 C. Albrecht, F. Boutrot, C. Segonzac, B. Schwessinger, S. Gimenez-Ibanez, D. Chinchilla, J. P. Rathjen, S. C. de Vries and C. Zipfel 2012. Proceedings of the National Academy of Sciences of the United States of America, 109, 303-308. [doi: 10.1073/pnas.1109921108](http://www.ncbi.nlm.nih.gov/pubmed/22087006). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Brassinosteroids%20inhibit%20pathogen%20associated%20molecular.pdf)
 
-**The XA21-associated Kinase 1 (XAK1) regulates immunity mediated by the pattern-recognition receptor XA21** <br>
-M. Chern, P. E. Canlas, B. Schwessinger and P. C. Ronald 2012. From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. [doi:10.1093/mp/ssu003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064043/). **PDF available [here](
+**An XA21-associated Kinase 1 (XAK1) regulates immunity mediated by the pattern-recognition receptor XA21** <br>
+M. Chern, P. E. Canlas, B. Schwessinger and P. C. Ronald 2012. From Plant Science to Agricultural Development - Proceedings of the 2012 National Conference on Plant Biology. ed. China. [doi:10.1093/mp/ssu003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064043/). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/an%20xa21%20associated.pdf)
 
 <hr>
 

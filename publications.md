@@ -86,6 +86,9 @@ W. Pornsiriwong, G. M. Estavillo, K. X. Chan, E. E. Tee, D. Ganguly, P. A. Crisp
 **XA21-specific induction of stress-related genes following Xanthomonas infection of detached rice leaves** <br>
 N. C. Thomas, B. Schwessinger, F. Liu, H. Chen, T. Wei, Y. P. Nguyen, I. W. F. Shaker and P. C. Ronald 2016. PeerJ, 4, e2446. [doi: 10.7717/peerj.2446](http://www.ncbi.nlm.nih.gov/pubmed/27703843). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/XA21%20specific%20induction%20of%20stress%20related%20genes%20following%20Xanthomonas%20infection%20of%20detached%20rice%20leaves.pdf)
 
+**A second-generation expression system for tyrosine-sulfated proteins and its application in crop protection** <br>
+B. Schwessinger, X. Li, T. L. Ellinghaus, L. J. G. Chan, T. Wei, A. Joe, N. Thomas, R. Pruitt, P. D. Adams, M. S. Chern, C. J. Petzold, C. C. Liu and P. C. Ronald 2016. Integrative Biology: Quantitative Biosciences from Nano to Macro, 8, 542-545. [doi: 10.1039/c5ib00232j](http://www.ncbi.nlm.nih.gov/pubmed/26611838). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/second%20gen%20expression.pdf)
+
 **Structural Analysis of an Avr4 Effector Ortholog Offers Insight into Chitin Binding and Recognition by the Cf-4 Receptor** <br>
 A. C. Kohler, L.-H. Chen, N. Hurlburt, A. Salvucci, B. Schwessinger, A. J. Fisher and I. Stergiopoulos 2016. The Plant Cell, 28, 1945-1965. [doi: 10.1105/tpc.15.00893](http://www.ncbi.nlm.nih.gov/pubmed/27401545). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Structural%20Analysis%20of%20an%20Avr4%20Effector%20Ortholog%20Offers%20Insight%20into%20Chitin%20Binding%20and%20Recognition%20by%20the%20Cf-4%20Receptor.pdf)
 
@@ -101,9 +104,6 @@ B. Schwessinger and J. P. Rathjen 2015. Trends in Plant Science, 20, 531-533. [d
 
 **Focus issue on plant immunity: from model systems to crop species** <br>
 B. Schwessinger, R. Bart, K. V. Krasileva and G. Coaker 2015. Frontiers in Plant Science, 6, 195. [doi: 10.3389/fpls.2015.00195](http://www.ncbi.nlm.nih.gov/pubmed/25859255). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Focus%20issue%20on%20plant%20immunity%20from%20model%20systems%20to%20crop%20species.pdf)
-
-**A second-generation expression system for tyrosine-sulfated proteins and its application in crop protection** <br>
-B. Schwessinger, X. Li, T. L. Ellinghaus, L. J. G. Chan, T. Wei, A. Joe, N. Thomas, R. Pruitt, P. D. Adams, M. S. Chern, C. J. Petzold, C. C. Liu and P. C. Ronald 2015. Integrative Biology: Quantitative Biosciences from Nano to Macro, 8, 542-545. [doi: 10.1039/c5ib00232j](http://www.ncbi.nlm.nih.gov/pubmed/26611838). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/second%20gen%20expression.pdf)
 
 **Correction: Transgenic expression of the dicotyledonous pattern recognition receptor EFR in rice leads to ligand-dependent activation of defense responses** <br>
 B. Schwessinger, O. Bahar, N. Thomas, N. Holton, V. Nekrasov, D. Ruan, P. E. Canlas, A. Daudi, C. J. Petzold, V. R. Singan, R. Kuo, M. Chovatia, C. Daum, J. L. Heazlewood, C. Zipfel and P. C. Ronald 2015. PLoS pathogens, 11, e1004872. [doi: 10.1371/journal.ppat.1004872](http://www.ncbi.nlm.nih.gov/pubmed/25906371). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Correction%20Transgenic%20Expression%20of%20the.PDF)

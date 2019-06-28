@@ -1,7 +1,7 @@
 ---
 name: Aisha Ward
 position: staff
-avatar: Aisha.jpg
+avatar: Aisha.JPG
 twitter: 
 ---
 

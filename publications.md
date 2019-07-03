@@ -253,6 +253,12 @@ O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, 
 
 # Preprints that might be published
 
+**The draft nuclear genome assembly of <em>Eucalyptus pauciflora</em>: new approaches to comparing <em>de novo</em> assemblies** <br>
+W. Wang, A. Das, D. Kainer, M. Schalamun, A. Morales-Suarez, B. Schwessinger and R. Lanfear 2019. bioRxiv, 678730. [doi: 10.1101/678730](https://www.biorxiv.org/content/biorxiv/early/2019/06/21/678730.full.pdf)  
+
+**Transposon mediated horizontal transfer of the host-specific virulence protein ToxA between three fungal wheat pathogens** <br>
+M. C. McDonald, A. P. Taranto, E. Hill, B. Schwessinger, Z. Liu, S. Simpfendorfer, A. Milgate and P. S. Solomon 2019. bioRxiv, 671446. [doi: 10.1101/671446](https://www.biorxiv.org/content/biorxiv/early/2019/06/17/671446.full.pdf)
+
 **Maintaining confidence in the reporting of scientific outputs** <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)
 

@@ -1,6 +1,6 @@
 ---
 name: Jamila Nasim
-position: gradstudent
+position: member
 avatar: Jamila-Nasim.jpg
 ---
 

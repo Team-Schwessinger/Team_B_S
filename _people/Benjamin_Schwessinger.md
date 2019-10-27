@@ -7,6 +7,8 @@ twitter: schwessinger
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
+**Principle Investigator**
+
 - _Australian National University_<br>
 - _Plants and Fungi._
 

@@ -1,7 +1,7 @@
 ---
 name: Jemimah Hamilton
 position: member
-avatar: jemimah.png
+avatar: jemimah.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -1,6 +1,6 @@
 ---
 name: Tamene Tolessa
-position: postgrad
+position: member
 avatar: Tamene.jpg
 twitter:
 ---

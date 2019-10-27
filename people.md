@@ -10,21 +10,14 @@ permalink: /people/
 
 <div class="pos_header">
 {% if item == 'postdoc' %}
-<h3>Postdoctoral Fellows</h3>
  {% elsif item == 'pi' %}
-<h3>Principal Investigator</h3>
  {% elsif item == 'postgrad' %}
-<h3>PhD Students</h3>
  {% elsif item == 'gradstudent' %}
-<h3>Masters and Honours Students</h3>
  {% elsif item == 'projectstudent' %}
-<h3>Undergraduate Project Students</h3>
  {% elsif item == 'staff' %}
-<h3>Research Fellows</h3>
  {% elsif item == 'previous' %}
 <h3>Previously (Co-)/Supervised Students</h3>
  {% elsif item == 'alumni' %}
-<h3>Alumni</h3>
 {% endif %}
 </div>
 
@@ -51,6 +44,7 @@ permalink: /people/
 
 | Who are they | When were they here | What were they | 
 | :------------- |:-------------| :-----------| 
+| Somasundhari Shanmuganadam  | 2018 | Masters Student |
 | Amy MacKenzie | 2018 | Co-advised Honour Student | 
 | Anjuni Peiris | 2018 | Co-advised Honour Student | 
 | Miriam Schalamun | 2017 | Co-advised Master Student | 

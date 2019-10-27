@@ -1,7 +1,7 @@
 ---
 name: Abigail Piscioneri
 position: member
-avatar: abigail.png
+avatar: abigail.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

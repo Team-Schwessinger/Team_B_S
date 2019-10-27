@@ -1,6 +1,6 @@
 ---
 name: Salome Wilson
-position: gradstudent
+position: member
 avatar: Salome.jpg
 twitter: 
 ---

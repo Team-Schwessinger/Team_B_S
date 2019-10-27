@@ -1,6 +1,6 @@
 ---
 name: Yiheng Hu (co-supervised by Prof. Rathjen and Stone)
-position: postgrad
+position: member
 avatar: yiheng_hu.jpg
 twitter: 
 ---

@@ -1,6 +1,6 @@
 ---
 name: Tavish Eenjes
-position: projectstudent
+position: member
 avatar: Tavish.jpg
 twitter: 
 joined: 2018

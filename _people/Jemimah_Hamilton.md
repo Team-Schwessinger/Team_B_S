@@ -1,5 +1,5 @@
 ---
-name: Jemimah_Hamilton
+name: Jemimah Hamilton
 position: member
 avatar: jemimah.png
 ---

@@ -4,20 +4,15 @@ permalink: /people/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|postgrad|gradstudent|projectstudent|staff|alumni|previous" | split: "|" %}
+{% assign people_array = "pi|member" | split: "|" %}
 
 {% for item in people_array %}
 
 <div class="pos_header">
-{% if item == 'postdoc' %}
- {% elsif item == 'pi' %}
- {% elsif item == 'postgrad' %}
- {% elsif item == 'gradstudent' %}
- {% elsif item == 'projectstudent' %}
- {% elsif item == 'staff' %}
+{% if item == 'pi' %}
+ {% elsif item == 'member' %}
  {% elsif item == 'previous' %}
 <h3>Previously (Co-)/Supervised Students</h3>
- {% elsif item == 'alumni' %}
 {% endif %}
 </div>
 

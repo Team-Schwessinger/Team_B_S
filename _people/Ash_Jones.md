@@ -1,6 +1,6 @@
 ---
 name: Ash Jones
-position: staff
+position: member
 avatar: AshJones.jpg
 twitter:
 joined: 2018

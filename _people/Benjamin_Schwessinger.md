@@ -1,6 +1,6 @@
 ---
 name: Benjamin Schwessinger
-position: pi
+position: member
 avatar: Benjamin-Schwessinger.png
 twitter: schwessinger
 ---

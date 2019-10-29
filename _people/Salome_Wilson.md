@@ -5,7 +5,7 @@ avatar: Salome.jpg
 twitter: 
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 I’m a Masters student visiting from the University of Queensland, currently working on refining a method for conducting gene interaction assays using wheat protoplasts.  This method has potential for use in screening effector candidates and investigating the molecular interactions involved in infection and effector triggered immunity.
 

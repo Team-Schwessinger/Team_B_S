@@ -6,7 +6,7 @@ twitter:
 joined: 2018
 ---
 
-<img width="300" height="375" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 Currently I am a research officer within Benjamin Schwessinger and Justin Borevitz laboratories in the Research School of Biology at the Australian National University. My primary focus is DNA sequencing using long-read technologies from Oxford Nanopore for genome assemblies and investigating population genetics. My work spans across 14 genera from plants, fungi, insects and novel hybrids. My work has wide applications in global food security, elucidating pathogen infection, re-forestation efforts and understanding speciation.
 

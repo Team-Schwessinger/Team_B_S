@@ -1,6 +1,6 @@
 ---
 name: Jemimah Hamilton
-position: staff
+position: member
 avatar: jemimah.jpg
 ---
 

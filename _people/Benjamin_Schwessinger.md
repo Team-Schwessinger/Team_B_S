@@ -1,6 +1,6 @@
 ---
 name: Benjamin Schwessinger
-position: staff
+position: member
 avatar: Benjamin-Schwessinger.png
 twitter: schwessinger
 ---

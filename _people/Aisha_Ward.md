@@ -1,6 +1,6 @@
 ---
 name: Aisha Ward
-position: staff
+position: member
 avatar: Aisha.JPG
 twitter: 
 ---

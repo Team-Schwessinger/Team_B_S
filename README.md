@@ -48,7 +48,7 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 ```
 ---
 name: Benjamin Schwessinger
-position: pi
+position: member 
 avatar: Benjamin-Schwessinger.jpg
 twitter: @Schwessinger
 joined: 2008
@@ -56,7 +56,7 @@ joined: 2008
 ```
 
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent` (for Honours and Masters students), `projectstudent` (for undergraduate students), and `staff`. Position will put you into section that you choose.
+For lab position, everyone is 'member'. 
 
 ## Add new publications
 

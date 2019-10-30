@@ -33,6 +33,7 @@ permalink: /people/
 
 {% endfor %}
 
+<hr>
 
 <h3>Previously (Co-)/Supervised Students</h3>
 

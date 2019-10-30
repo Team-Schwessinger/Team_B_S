@@ -1,6 +1,6 @@
 ---
 name: Jamila Nasim
-position: staff
+position: member
 avatar: Jamila-Nasim.jpg
 ---
 

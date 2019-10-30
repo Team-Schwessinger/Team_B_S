@@ -1,6 +1,6 @@
 ---
 name: Mustafa Albekaa
-position: staff
+position: member
 avatar: mustafa.png
 ---
 

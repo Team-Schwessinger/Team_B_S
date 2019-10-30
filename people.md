@@ -11,8 +11,6 @@ permalink: /people/
 <div class="pos_header">
 {% if item == 'pi' %}
  {% elsif item == 'member' %}
- {% elsif item == 'previous' %}
-<h3>Previously (Co-)/Supervised Students</h3>
 {% endif %}
 </div>
 
@@ -35,6 +33,8 @@ permalink: /people/
 
 {% endfor %}
 
+
+<h3>Previously (Co-)/Supervised Students</h3>
 
 | Who are they | When were they here | What were they | 
 | :------------- |:-------------| :-----------| 

@@ -37,6 +37,8 @@ permalink: /people/
 
 <h3>Previously (Co-)/Supervised Students</h3>
 
+<hr>
+
 | Who are they | When were they here | What were they | 
 | :------------- |:-------------| :-----------| 
 | Somasundhari Shanmuganadam  | 2018 | Masters Student |

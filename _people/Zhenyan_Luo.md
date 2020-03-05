@@ -1,7 +1,7 @@
 ---
 name: Zhenyan Luo
 position: member
-avatar: Yan.JPG
+avatar: Yan.png
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -18,13 +18,30 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+# 2020
+
+**Distinct life histories impact dikaryotic genome evolution in the rust fungus Puccinia striiformis causing stripe rust in wheat** <br> Benjamin Schwessinger, Yan-Jun Chen, Richard Tien, Josef Korbinian Vogt, Jana Sperschneider, Ramawatar Nagar, Mark McMullan, Thomas Sicheritz-Ponten, Chris K Sørensen, Mogens Støvring Hovmøller, John P Rathjen, Annemarie Fejer Justesen. Genome Biology and Evolution, evaa071, [doi: https://doi.org/10.1093/gbe/evaa071](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa071/5818494)
+
+**Draft Genome Resource for Macrophomina phaseolina Associated With Charcoal Rot in Sorghum** <br> Purushotham N, Jones A, Poudel B, Nasim J, Adorada D, Sparks A, Schwessinger B, Vaghefi N. Mol Plant Microbe Interact. 2020 May;33(5):724-726. [doi: 10.1094/MPMI-12-19-0356-A](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-12-19-0356-A). Epub 2020 Mar 24. PMID: 32096690
+
+**The Rice Xa3 Gene Confers Resistance to Xanthomonas oryzae pv. oryzae in the Model Rice Kitaake Genetic Background** <br> Liu F, Zhang W, Schwessinger B, Wei T, Ruan D, Ronald P. Front Plant Sci. 2020 Feb 6;11:49. [doi: 10.3389/fpls.2020.00049](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/32117387/). eCollection 2020.
+PMID: 32117387
+
+**The draft nuclear genome assembly of Eucalyptus pauciflora: a pipeline for comparing de novo assemblies** <br> Wang W, Das A, Kainer D, Schalamun M, Morales-Suarez A, Schwessinger B, Lanfear R. Gigascience. 2020 Jan 1;9(1):giz160. [doi: 10.1093/gigascience/giz160](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6939829/). PMID: 31895413; PMCID: PMC6939829.
+
+<hr>
+
 # 2019
+
+**Long-read sequencing based clinical metagenomics for the detection and confirmation of Pneumocystis jirovecii directly from clinical specimens: A paradigm shift in mycological diagnostics** <br> Irinyi L, Hu Y, Hoang MTV, Pasic L, Halliday C, Jayawardena M, Basu I, McKinney W, Morris AJ, Rathjen J, Stone E, Chen S, Sorrell TC, Schwessinger B, Meyer W. Med Mycol. 2019 Nov 23:myz109. [doi: 10.1093/mmy/myz109](https://academic.oup.com/mmy/article-lookup/doi/10.1093/mmy/myz109). Online ahead of print. PMID: 31758176
+
+**Emergence of the Ug99 lineage of the wheat stem rust pathogen through somatic hybridisation** <br> Li F, Upadhyaya NM, Sperschneider J, Matny O, Nguyen-Phuc H, Mago R, Raley C, Miller ME, Silverstein KAT, Henningsen E, Hirsch CD, Visser B, Pretorius ZA, Steffenson BJ, Schwessinger B, Dodds PN, Figueroa M. Nat Commun. 2019 Nov 7;10(1):5068. [doi: 10.1038/s41467-019-12927-7](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/31699975/). PMID: 31699975
+
+**Transposon-Mediated Horizontal Transfer of the Host-Specific Virulence Protein ToxA between Three Fungal Wheat Pathogens** <br>
+Megan C. McDonald, Adam P. Taranto, Erin Hill, Benjamin Schwessinger, Zhaohui Liu, Steven Simpfendorfer, Andrew Milgate, Peter S. Solomon. mBio Sep 2019, 10 (5) e01515-19; [doi: 10.1128/mBio.01515-19](https://mbio.asm.org/content/10/5/e01515-19)
 
 **Pathogen Detection and Microbiome Analysis of Infected Wheat Using a Portable DNA Sequencer** <br>
 Y. Hu, G. S. Green, A. W. Milgate, E. A. Stone, J. P. Rathjen and B. Schwessinger Phytobiomes Journal, 0, PBIOMES-01-19-0004-R. [doi: 10.1094/pbiomes-01-19-0004-r](https://apsjournals.apsnet.org/doi/abs/10.1094/PBIOMES-01-19-0004-R). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Pathogen%20Detection%20and%20Microbiome%20Analysis%20of%20Infected%20Wheat%20Using%20a%20Portable%20DNA.pdf)
-
-**Harnessing the MinION: An example of how to establish long-read sequencing in a laboratory using challenging plant tissue from Eucalyptus pauciflora** <br>
-M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfear and B. Schwessinger 2019. Molecular Ecology Resources, 19, 77-89. [doi: 10.1111/1755-0998.12938](http://www.ncbi.nlm.nih.gov/pubmed/30118581). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Harnessing%20the%20MinION.pdf)
 
 **On the value of preprints: An early career researcher perspective** <br>
 S. Sarabipour, H. J. Debat, E. Emmott, S. J. Burgess, B. Schwessinger and Z. Hensel 2019. PLoS biology, 17, e3000151. [doi: 10.1371/journal.pbio.3000151](http://www.ncbi.nlm.nih.gov/pubmed/30789895). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/On%20the%20value%20of%20preprints%20An%20early%20career.pdf)
@@ -34,6 +51,10 @@ F. Liu, M. McDonald, B. Schwessinger, A. Joe, R. Pruitt, T. Erickson, X. Zhao, V
 
 **MinIONQC: fast and simple quality control for MinION sequencing data** <br>
 R. Lanfear, M. Schalamun, D. Kainer, W. Wang and B. Schwessinger 2019. Bioinformatics (Oxford, England), 35, 523-525. [doi: 10.1093/bioinformatics/bty654](http://www.ncbi.nlm.nih.gov/pubmed/30052755). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/MinIONQC%20fast%20and%20simple%20quality%20control%20for%20MinION%20sequencing%20data.pdf)
+
+**Harnessing the MinION: An example of how to establish long-read sequencing in a laboratory using challenging plant tissue from Eucalyptus pauciflora** <br>
+M. Schalamun, R. Nagar, D. Kainer, E. Beavan, D. Eccles, J. P. Rathjen, R. Lanfear and B. Schwessinger 2019. Molecular Ecology Resources, 19, 77-89. [doi: 10.1111/1755-0998.12938](http://www.ncbi.nlm.nih.gov/pubmed/30118581). PDF available [here](https://github.com/Team-Schwessinger/Team_B_S/blob/gh-pages/_publication_pdfs/Harnessing%20the%20MinION.pdf)
+
 
 <hr>
 
@@ -253,14 +274,12 @@ O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, 
 
 # Preprints that might be published
 
-**The draft nuclear genome assembly of <em>Eucalyptus pauciflora</em>: new approaches to comparing <em>de novo</em> assemblies** <br>
-W. Wang, A. Das, D. Kainer, M. Schalamun, A. Morales-Suarez, B. Schwessinger and R. Lanfear 2019. bioRxiv, 678730. [doi: 10.1101/678730](https://www.biorxiv.org/content/biorxiv/early/2019/06/21/678730.full.pdf)  
-
-**Transposon mediated horizontal transfer of the host-specific virulence protein ToxA between three fungal wheat pathogens** <br>
-M. C. McDonald, A. P. Taranto, E. Hill, B. Schwessinger, Z. Liu, S. Simpfendorfer, A. Milgate and P. S. Solomon 2019. bioRxiv, 671446. [doi: 10.1101/671446](https://www.biorxiv.org/content/biorxiv/early/2019/06/17/671446.full.pdf)
-
 **Maintaining confidence in the reporting of scientific outputs** <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)
+
+**Uncovering the microbiome of invasive sympatric European brown hares and European rabbits in Australia** <br> Somasundhari Shanmuganandam, Yiheng Hu, Tanja Strive, Benjamin Schwessinger, Robyn N. Hall. bioRxiv 832477; [doi: https://doi.org/10.1101/832477](https://www.biorxiv.org/content/10.1101/832477v1.full)
+
+**The stem rust fungus Puccinia graminis f. sp. tritici induces waves of small RNAs with opposing profiles during wheat infection** <br> Jana Sperschneider, Silke Jacques, Bo Xu, Narayana M. Upadhyaya, Rohit Mago, Ashley W. Jones, Benjamin Schwessinger, Melania Figueroa, Karam B. Singh, Eric A. Stone, Ming-Bo Wang, Jennifer M. Taylor, Peter N. Dodds. bioRxiv 469338; [doi: https://doi.org/10.1101/469338](https://www.biorxiv.org/content/10.1101/469338v2.full)
 
 <hr>
 

@@ -57,8 +57,8 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 
 | Granted to | When | What | Grant type | Amount (AUD) | Role |
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
-| B. S. | 07/2020 - 06/2022 | Australian Capital Territory Priority Investment Program (PIP) - EcoKDDart: Future Proofing Biodiversity and Biosecurity with a novel integrative Big Data Analysis Hub | Industry Science Grant | $1.2 million | co-Principal Investigator |
-| B. S. | 06/2020 - 05/2022 | Australian Research Council Linkage project - Combating myrtle rust, a new disease threatening Australia’s unique flora | Science Grant | $400k | Principal Investigator |
+| B. S. | 07/2020 - 06/2022 | Australian Capital Territory Priority Investment Program (PIP) - EcoKDDart: Future Proofing Biodiversity and Biosecurity with a novel integrative Big Data Analysis Hub | Industry Research Grant | $1.2 million | co-Principal Investigator |
+| B. S. | 06/2020 - 05/2022 | Australian Research Council Linkage project - Combating myrtle rust, a new disease threatening Australia’s unique flora | Research Grant | $400k | Principal Investigator |
 | B. S. | 02/2019 | Mozilla Science Foundation, Reproducibility for Everyone | Science Grant | $15k | Principal Investigator |
 | B. S. | 11/2018 | Research School Biology, Increasing Scientific Rigor at RSB | Science Grant | $10k | Principal Investigator |
 | B. S. | 10/2018-09/2022 | Australian Research Council - Identify, characterise, detect factors causing wheat disease epidemics | Research Grant | $780k | Principal Investigator |

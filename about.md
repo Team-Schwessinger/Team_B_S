@@ -7,7 +7,7 @@ permalink: /about/
 We are a highly collaborative and interactive team that studies the interaction of fungi and plants. We use a wide variety of tools reaching from biochemistry, bioinformatics, genomics, to environmental sampling. Modern biology is best mixed by combining good 'old school' biochemistry with modern data science stirred with interesting biological questions.
 
 ### How to join our Team
-We welcome people from all ways of life fostering diversity and inclusion. Please see [How to Join](http://Team-Schwessinger.github.io/Team_B_S/how_to_join/) for more information.
+We welcome people from all ways of life, fostering diversity and inclusion. Please see [How to Join](http://Team-Schwessinger.github.io/Team_B_S/how_to_join/) for more information.
 
 ### Research
 

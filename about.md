@@ -11,7 +11,14 @@ Please see [How to Join](http://Team-Schwessinger.github.io/Team_B_S/how_to_join
 
 ### Research
 
-Our team focuses on questions around plant biosecurity in Australia by studying the interaction between plants and their fungal pathogen. Specifically, we work on agronomic important wheat rust fungi and the environmental important myrtle rust fungus that infects a wide range of myrtacea (e.g. eucalyptus trees). We also have an interest in bioinformatics and sequencing technologies in relation to plant sciences, and are currently doing research into MinION sequencing ability and error.
+Our team's main focus revolves around questions and hypotheses related to (plant) biosecurity in Australia by studying the interaction between plants, their fungal pathogen, and their phyllosphere microbiomes. Specifically, we work on agronomic important wheat rust fungi and the environmental important myrtle rust fungus that infects a wide range of myrtacea (e.g. eucalyptus trees). Concomitantly, we work on novel sequence based diagnostics combining nanopore long-read sequencing and machince learning.  
+
+In addition, we work highly collaboratively to enable exciting science and public health efforts. Current joined projects are:
+
+* on the genome biology of [*Wahlenbergia ceracea*](https://en.wikipedia.org/wiki/Wahlenbergia_ceracea) in collaboration with the [Nicotra Lab](https://biology.anu.edu.au/people/academics/adrienne-nicotra) 
+* supporting the public health response to COVID-19 in the Australian Captial Territory (ACT) by performing SARS-COV2 genome sequencing in collaboration with ACT Pathology and ACT Health. 
+
+
 
 **Key questions are:**
 

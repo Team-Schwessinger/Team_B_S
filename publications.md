@@ -18,6 +18,12 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+# 2021
+
+**Genome Sequence of the Fungus Nannizziopsis barbatae, an Emerging Reptile Pathogen** <br> Powell D, Jones A, Kent N, Kaur P, Bar I, Schwessinger B, Frère CH. Microbiol Resour Announc. 2021 Jan 7;10(1):e01213-20. [doi: 10.1128/MRA.01213-20](https://mra.asm.org/content/10/1/e01213-20) PMID: 33414335.
+
+<hr>
+
 # 2020
 
 **Distinct life histories impact dikaryotic genome evolution in the rust fungus Puccinia striiformis causing stripe rust in wheat** <br> Benjamin Schwessinger, Yan-Jun Chen, Richard Tien, Josef Korbinian Vogt, Jana Sperschneider, Ramawatar Nagar, Mark McMullan, Thomas Sicheritz-Ponten, Chris K Sørensen, Mogens Støvring Hovmøller, John P Rathjen, Annemarie Fejer Justesen. Genome Biology and Evolution, evaa071, [doi: https://doi.org/10.1093/gbe/evaa071](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa071/5818494)
@@ -28,6 +34,15 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 PMID: 32117387
 
 **The draft nuclear genome assembly of Eucalyptus pauciflora: a pipeline for comparing de novo assemblies** <br> Wang W, Das A, Kainer D, Schalamun M, Morales-Suarez A, Schwessinger B, Lanfear R. Gigascience. 2020 Jan 1;9(1):giz160. [doi: 10.1093/gigascience/giz160](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6939829/). PMID: 31895413; PMCID: PMC6939829.
+
+**Long-read sequencing based clinical metagenomics for the detection and confirmation of Pneumocystis jirovecii directly from clinical specimens: A paradigm shift in mycological diagnostics** <br> Laszlo Irinyi, Yiheng Hu, Minh Thuy Vi Hoang, Lana Pasic, Catriona Halliday, Menuk Jayawardena, Indira Basu, Wendy McKinney, Arthur J Morris, John Rathjen, Eric Stone, Sharon Chen, Tania C Sorrell, Benjamin Schwessinger, Wieland Meyer. Med Mycol. 2020 July;58(5):650-660. [https://doi.org/10.1093/mmy/myz109](https://academic.oup.com/mmy/article/58/5/650/5638042). PMID: 31758176.
+
+**Blurred lines: integrating emerging technologies to advance plant biosecurity** <br> Yiheng Hu, Salome Wilson, Benjamin Schwessinger, John P Rathjen. Current Opinion in Plant Biology. 2020 Aug;56:127-134. [https://doi.org/10.1016/j.pbi.2020.04.011](https://www.sciencedirect.com/science/article/pii/S1369526620300510). PMID: 32610220.
+
+**Uncovering the microbiome of invasive sympatric European brown hares and European rabbits in Australia** <br> Somasundhari Shanmuganandam, Yiheng Hu, Tanja Strive, Benjamin Schwessinger, Robyn N. Hall. PeerJ. 2020 Aug 18;8:e9564. [doi: 10.7717/peerj.9564](https://peerj.com/articles/9564/). PMID: 32874776; PMCID: PMC7441920.
+
+
+**Evolution and Adaptation of Forest and Crop Pathogens in the Anthropocene** <br> Hessenauer P, Feau N, Gill U, Schwessinger B, Brar GS, Hamelin RC. Phytopathology. 2021 Jan;111(1):49-67. [doi: 10.1094/PHYTO-08-20-0358-FI](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0358-FI) Epub 2020 Dec 18. PMID: 33200962.
 
 <hr>
 
@@ -277,9 +292,13 @@ O. Bahar, R. N. Pruitt, D. D. Luu, B. Schwessinger, R. Ruan, L. Fontaine-Bodin, 
 **Maintaining confidence in the reporting of scientific outputs** <br>
 S. Sarabipour, E. M. Wissink, S. J. Burgess, Z. Hensel, H. Debat, E. Emmott, A. Akay, K. Akdemir and B. Schwessinger 2018. PeerJ Preprints. [doi: 10.7287/peerj.preprints.27098v1](https://peerj.com/preprints/27098)
 
-**Uncovering the microbiome of invasive sympatric European brown hares and European rabbits in Australia** <br> Somasundhari Shanmuganandam, Yiheng Hu, Tanja Strive, Benjamin Schwessinger, Robyn N. Hall. bioRxiv 832477; [doi: https://doi.org/10.1101/832477](https://www.biorxiv.org/content/10.1101/832477v1.full)
-
 **The stem rust fungus Puccinia graminis f. sp. tritici induces waves of small RNAs with opposing profiles during wheat infection** <br> Jana Sperschneider, Silke Jacques, Bo Xu, Narayana M. Upadhyaya, Rohit Mago, Ashley W. Jones, Benjamin Schwessinger, Melania Figueroa, Karam B. Singh, Eric A. Stone, Ming-Bo Wang, Jennifer M. Taylor, Peter N. Dodds. bioRxiv 469338; [doi: https://doi.org/10.1101/469338](https://www.biorxiv.org/content/10.1101/469338v2.full)
+
+**Austropuccinia psidii, causing myrtle rust, has a gigabase-sized genome shaped by transposable elements** <br> Peri A Tobias, Benjamin Schwessinger, Cecilia H Deng, Chen Wu, Chongmei Dong, Jana Sperschneider, Ashley Jones, Zhenyan Lou, Peng Zhang, Karanjeet Sandhu, Grant R Smith, Josquin Tibbits, David Chagné, Robert F Park. bioRxiv 2020.03.18.996108; [doi: https://doi.org/10.1101/2020.03.18.996108](https://www.biorxiv.org/content/10.1101/2020.03.18.996108v2)
+
+**Evaluating features of scientific conferences: A call for improvements** <br> Sarvenaz Sarabipour, Aziz Khan, Samantha Seah, Aneth D. Mwakilili, Fiona N. Mumoki, Pablo J. Sáez, Benjamin Schwessinger, Humberto J. Debat, Tomislav Mestrovic. bioRxiv 2020.04.02.022079; [doi: https://doi.org/10.1101/2020.04.02.022079](https://www.biorxiv.org/content/10.1101/2020.04.02.022079v4)
+
+**Reproducibility for everyone: a community-led initiative with global reach in reproducible research training** <br> Susann Auer, Nele Haelterman, Tracey Weissgerber, Jeffrey Erlich, Damar Susilaradeya, Magdalena Julkowska, Małgorzata Gazda, Angela Abitua, Anzela Niraulu, Aparna Shah, April Clyburne-Sherin, Benoit Guiquel, Bradly Alicea, Caroline LaManna, Diep Ganguly, Eric J. Perkins, Helena Jambor, Ian Li, Jennifer Tsang, Joanne Kamens, Lenny Teytelman, Mariella Paul, Santosh Phuyal, Nicolas Schmelling, Peter Crisp, Sarvenaz Sarabipour, Sonali Roy, Susanna Bachle, Tuan Tran, Tyler Ford, Vicky Steeves, Vinodh Ilangovan, Benjamin Schwessinger, Nafisa Jadavji. OSF Preprints. 2020 Oct 31. [doi:10.31219/osf.io/dxw67](https://osf.io/dxw67)
 
 <hr>
 
@@ -292,6 +311,13 @@ C. J. McDonald-Spicer, B. Schwessinger and S. Howitt 2018. PeerJ Preprints. [doi
 G. Green, A. Milgate, J. Rathjen and B. Schwessinger 2017. F1000Research, 6. **doi:**
 
 <hr>
+
+# Protocols
+
+**Scalable high-molecular weight DNA extraction for longread sequencing** <br> : Ashley Jones, Cynthia Torkel, David Stanley, Jamila Nasim, Justin Borevitz, Benjamin Schwessinger. 2020 Oct 19. https://dx.doi.org/10.17504/protocols.io.bnjhmcj6
+
+<hr>
+
 
 ### Copyright Notice
 

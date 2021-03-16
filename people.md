@@ -41,6 +41,9 @@ permalink: /people/
 
 | Who are they | When were they here | What were they | 
 | :------------- |:-------------| :-----------| 
+| Mustafa Albekaa  | 2020 | Honours Student |
+| Jemimah Hamilton  | 2020 | Honours Student |
+| Jamila Nasim  | 2019-2020 | Masters Student |
 | Somasundhari Shanmuganadam  | 2018 | Masters Student |
 | Amy MacKenzie | 2018 | Co-advised Honour Student | 
 | Anjuni Peiris | 2018 | Co-advised Honour Student | 

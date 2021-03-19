@@ -314,7 +314,7 @@ G. Green, A. Milgate, J. Rathjen and B. Schwessinger 2017. F1000Research, 6. **d
 
 # Protocols
 
-**Scalable high-molecular weight DNA extraction for longread sequencing** <br> : Ashley Jones, Cynthia Torkel, David Stanley, Jamila Nasim, Justin Borevitz, Benjamin Schwessinger. 2020 Oct 19. https://dx.doi.org/10.17504/protocols.io.bnjhmcj6
+**Scalable high-molecular weight DNA extraction for longread sequencing** <br> Ashley Jones, Cynthia Torkel, David Stanley, Jamila Nasim, Justin Borevitz, Benjamin Schwessinger. 2020 Oct 19. https://dx.doi.org/10.17504/protocols.io.bnjhmcj6
 
 <hr>
 

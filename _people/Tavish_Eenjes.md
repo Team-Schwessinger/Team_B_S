@@ -2,7 +2,7 @@
 name: Tavish Eenjes
 position: member
 avatar: Tavish.jpg
-twitter: @enby_fungi
+twitter: enby_fungi
 joined: 2018
 ---
 

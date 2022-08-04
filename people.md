@@ -44,7 +44,7 @@ permalink: /people/
 | Mustafa Albekaa  | 2020 | Honours Student |
 | Jemimah Hamilton  | 2020 | Honours Student |
 | Jamila Nasim  | 2019-2020 | Masters Student |
-| Somasundhari Shanmuganadam  | 2018 | Masters Student |
+| Somasundhari Shanmuganadam  | 2018-2019 | Masters Student |
 | Amy MacKenzie | 2018 | Co-advised Honour Student | 
 | Anjuni Peiris | 2018 | Co-advised Honour Student | 
 | Miriam Schalamun | 2017 | Co-advised Master Student | 

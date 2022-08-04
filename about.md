@@ -74,6 +74,9 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 
 | Awarded to | When | Award type | What | 
 | :----------- | :----------- | :----------- | :----------- | 
+| S. W. | 05/2022 | Scholarship | Ritman Scholarship for the PBRI Symposium 2022 |
+| T. E. | 05/2022 | Scholarship | Ritman Scholarship for the PBRI Symposium 2022 |
+| S. W. | 08/2021 | Scholarship | Crawford Fund Conference Scholarship 2021 | 
 | B. S. | 10/2018-09/2022 | Fellowship | Future Fellowship 2018 - Australian Research Council |
 | B. S. | 01/2017 | Award | Shortlisted for the New Phytologist Tansley Medal for Excellence in Plant Science |
 | B. S. | 10/2015-09/2018 | Award | Discovery Early Career Researcher Award - Australian Research Council |

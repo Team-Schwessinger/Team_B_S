@@ -18,9 +18,39 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+# 2022
+
+Hoang, M.T.V., Irinyi, L., Hu, Y., Schwessinger, B., Meyer, W., 2022. **Long-Reads-Based Metagenomics in Clinical Diagnosis With a Special Focus on Fungal Infections. Front. Microbiol. 12. [https://doi.org/10.3389/fmicb.2021.708550](https://doi.org/10.3389/fmicb.2021.708550)
+
+Schwessinger, B.$, Jones, A., Albekaa, M., Hu, Y., Mackenzie, A., Tam, R., Nagar, R., Milgate, A., Rathjen, J.P$., Periyannan, S. $, 2022. **A Chromosome Scale Assembly of an Australian Puccinia striiformis f. sp. tritici Isolate of the PstS1 Lineage**. Mol. Plant-Microbe Interactions 35, 293–296. [https://doi.org/10.1094/MPMI-09-21-0236-A](https://doi.org/10.1094/MPMI-09-21-0236-A)
+
+Duan, H.#, Jones, A.W.#, Hewitt, T., Mackenzie, A., Hu, Y., Sharp, A., Lewis, D., Mago, R., Upadhyaya, N.M., Rathjen, J.P., Stone, E.A., Schwessinger, B., Figueroa, M., Dodds, P.N., Periyannan, S., Sperschneider, J., 2022. **Physical separation of haplotypes in dikaryons allows benchmarking of phasing accuracy in Nanopore and HiFi assemblies with Hi-C data**. Genome Biol. 23, 84. [https://doi.org/10.1186/s13059-022-02658-2](https://doi.org/10.1186/s13059-022-02658-2)
+
+Hu, Y., Irinyi, L., Hoang, M.T.V., Eenjes, T., Graetz, A., Stone, E.A., Meyer, W., Schwessinger, B.$, Rathjen, J.P.$, 2022. **Inferring Species Compositions of Complex Fungal Communities from Long- and Short-Read Sequence Data**. mBio 13, e02444-21. [https://doi.org/10.1128/mbio.02444-21](https://doi.org/10.1128/mbio.02444-21)
+
+Poudel, B., Purushotham, N., Jones, A., Nasim, J., Adorada, D.L., Sparks, A.H., Schwessinger, B., Vaghefi, N., 2022. **The First Annotated Genome Assembly of Macrophomina tecta Associated with Charcoal Rot of Sorghum. Genome Biol**. Evol. 14, evac081. [https://doi.org/10.1093/gbe/evac081](https://doi.org/10.1093/gbe/evac081)
+
+Kent, B.A., Holman, C., Amoako, E., Antonietti, A., Azam, J.M., Ballhausen, H., Bediako, Y., Belasen, A.M., Carneiro, C.F.D., Chen, Y.-C., Compeer, E.B., Connor, C.A.C., Crüwell, S., Debat, H., Dorris, E., Ebrahimi, H., Erlich, J.C., Fernández-Chiappe, F., Fischer, F., Gazda, M.A., Glatz, T., Grabitz, P., Heise, V., Kent, D.G., Lo, H., McDowell, G., Mehta, D., Neumann, W.-J., Neves, K., Patterson, M., Penfold, N.C., Piper, S.K., Puebla, I., Quashie, P.K., Quezada, C.P., Riley, J.L., Rohmann, J.L., Saladi, S., Schwessinger, B., Siegerink, B., Stehlik, P., Tzilivaki, A., Umbers, K.D.L., Varma, A., Walavalkar, K., Winde, C.M. de, Zaza, C., Weissgerber, T.L., 2022. **Recommendations for empowering early career researchers to improve research culture and practice**. PLOS Biol. 20, e3001680. [https://doi.org/10.1371/journal.pbio.3001680](https://doi.org/10.1371/journal.pbio.3001680)
+
+Ferguson, S., Jones, A., Murray, K., Schwessinger, B., Borevitz, J.O., n.d. **Interspecies genome divergence is predominantly due to frequent small scale rearrangements in Eucalyptus**. Mol. Ecol. n/a. [https://doi.org/10.1111/mec.16608](https://doi.org/10.1111/mec.16608)
+
+<hr>
+
 # 2021
 
-**Genome Sequence of the Fungus Nannizziopsis barbatae, an Emerging Reptile Pathogen** <br> Powell D, Jones A, Kent N, Kaur P, Bar I, Schwessinger B, Frère CH. Microbiol Resour Announc. 2021 Jan 7;10(1):e01213-20. [doi: 10.1128/MRA.01213-20](https://mra.asm.org/content/10/1/e01213-20) PMID: 33414335.
+Powell, D., Jones, A., Kent, N., Kaur, P., Bar, I., Schwessinger, B., Frère, C.H., 2021. **Genome Sequence of the Fungus Nannizziopsis barbatae, an Emerging Reptile Pathogen**. Microbiol. Resour. Announc. 10, e01213-20. [https://doi.org/10.1128/MRA.01213-20](https://mra.asm.org/content/10/1/e01213-20). 
+
+Sarabipour, S., Khan, A., Seah, Y.F.S. et al. **Changing scientific meetings for the better**. Nat Hum Behav 5, 296–300 (2021). [https://doi.org/10.1038/s41562-021-01067-y](https://www.nature.com/articles/s41562-021-01067-y)
+
+Auer, S., Haeltermann, N.A., Weissberger, T.L., Erlich, J.C., Susilaradeya, D., Julkowska, M., Gazda, M.A., Schwessinger, B. $, Jadavji, N.M. $, Reproducibility for Everyone Team, 2021. **A community-led initiative for training in reproducible research**. eLife 10, e64719. [https://doi.org/10.7554/eLife.64719](https://doi.org/10.7554/eLife.64719)
+
+Jones, A.$, Torkel, C., Stanley, D., Nasim, J., Borevitz, J., Schwessinger, B., 2021. **High-molecular weight DNA extraction, clean-up and size selection for long-read sequencing**. PLOS ONE 16, e0253830. [https://doi.org/10.1371/journal.pone.0253830](https://doi.org/10.1371/journal.pone.0253830)
+
+Lane, C.R., Sherry, N.L., Porter, A.F., Duchene, S., Horan, K., Andersson, P., Wilmot, M., … Schwessinger, B. et al. (2021), **Genomics-informed responses in the elimination of COVID-19 in Victoria, Australia: an observational, genomic epidemiological study**, The Lancet Public Health, pp. S2468-2667(21)00133-X. [https://doi.org/10.1016/S2468-2667(21)00133-X](https://doi.org/10.1016/S2468-2667(21)00133-X)
+
+Sperschneider, J., Jones, A.W., Nasim, J., Xu, B., Jacques, S., Zhong, C., Upadhyaya, N.M., Mago, R., Hu, Y., Figueroa, M., Singh, K.B., Stone, E.A., Schwessinger, B., Wang, M.-B., Taylor, J.M., Dodds, P.N., 2021. **The stem rust fungus Puccinia graminis f. sp. tritici induces centromeric small RNAs during late infection that are associated with genome-wide DNA methylation**. BMC Biol. 19, 203. [https://doi.org/10.1186/s12915-021-01123-z](https://doi.org/10.1186/s12915-021-01123-z)))))
+
+Bender, K.W., Couto, D., Kadota, Y., Macho, A.P., Sklenar, J., Derbyshire, P., Bjornson, M., DeFalco, T.A., Petriello, A., Font Farre, M., Schwessinger, B., Ntoukakis, V., Stransfeld, L., Jones, A.M.E., Menke, F.L.H., Zipfel, C., 2021. **Activation loop phosphorylation of a non-RD receptor kinase initiates plant innate immune signaling**. Proc. Natl. Acad. Sci. 118, e2108242118. [https://doi.org/10.1073/pnas.2108242118](https://doi.org/10.1073/pnas.2108242118)
 
 <hr>
 
@@ -41,8 +71,9 @@ PMID: 32117387
 
 **Uncovering the microbiome of invasive sympatric European brown hares and European rabbits in Australia** <br> Somasundhari Shanmuganandam, Yiheng Hu, Tanja Strive, Benjamin Schwessinger, Robyn N. Hall. PeerJ. 2020 Aug 18;8:e9564. [doi: 10.7717/peerj.9564](https://peerj.com/articles/9564/). PMID: 32874776; PMCID: PMC7441920.
 
-
 **Evolution and Adaptation of Forest and Crop Pathogens in the Anthropocene** <br> Hessenauer P, Feau N, Gill U, Schwessinger B, Brar GS, Hamelin RC. Phytopathology. 2021 Jan;111(1):49-67. [doi: 10.1094/PHYTO-08-20-0358-FI](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0358-FI) Epub 2020 Dec 18. PMID: 33200962.
+
+**Austropuccinia psidii, causing myrtle rust, has a gigabase-sized genome shaped by transposable elements** <br> Peri A Tobias, Benjamin Schwessinger, Cecilia H Deng, Chen Wu, Chongmei Dong, Jana Sperschneider, Ashley Jones, Zhenyan Lou, Peng Zhang, Karanjeet Sandhu, Grant R Smith, Josquin Tibbits, David Chagné, Robert F Park, G3 Genes|Genomes|Genetics, Volume 11, Issue 3, March 2021, jkaa015, https://doi.org/10.1093/g3journal/jkaa015
 
 <hr>
 

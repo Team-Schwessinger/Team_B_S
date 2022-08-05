@@ -1,0 +1,12 @@
+---
+name: Jinghang Feng
+position: member
+avatar: Jinghang.jpg
+---
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+I am currently a second year master student in the Schwessinger group, completing a Master of Computing. Now I am doing research about machine learning methods applied to fungal gene classification with supervisor Yu Lin and Benjamin Schwessinger. I finished my undergraduate study from 2017 to 2021 at the Harbin Institute of Technology (HIT) in Harbin, China. During my undergraduate period, I learned a lot of knowledge about machine learning and deep learning. <br>
+
+The computer regards everything as a vector when processing it, but humans may regard it as a much more complex thing. However, sometimes computers may perform better than humans when using machine learning methods. So, machine learning method is sometimes very fantastic. <br>
+
+I like to ride bikes during my spare time.  I also like playing the League of Legends and watching the League of Legends championships. I watched almost each match played by Tian in LPL and Faker in LCK.

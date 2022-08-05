@@ -57,6 +57,14 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 
 | Granted to | When | What | Grant type | Amount (AUD) | Role |
 | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |
+| B. S. | 2022 | Australian Federal Government Grant, Detection and differentiation of plant pathogens in air samples using high throughput sequencing | Industry Grant | $550k | Principal Investigaor & sole Principal Investigaor ANU |
+| B. S. | 2022 | Genome assemblies for Plant Pathogen Initiative Bioplatforms, Puccinia triticina and Puccinia graminis f. sp. tritici | Sequencing Grant | $35k | co-Principal Investigator |
+| B. S. | 2021 | ARC Training Centre for Accelerated Future Crop Development | Industry Training Grant | $5 million | co-Principal Investiator |
+| B. S. | 2020-2022 | ACT Health, Tracing the spread of Sars-Cov2 in the Australian Capital Territory | $1.3 million | Principal Investigator |
+| B. S. | 2020 | Genome assemblies for Genomics for Aus Plants, Wahlenbergia ceracea | Sequencing Grant | $25k | co-Principal Investigator |
+| B. S. | 2020 | Genome assemblies for Genomics for Aus Plants, Xanthorrhoea australis | Sequencing Grant | $25k | co-Principal Investigator |
+| B. S. | 2020 | Soil Carbon, Consultancy on fungal genomics | Industry Grant | $12,500 | Principal Investigator |
+| B. S. | 2020-2023 | Chan Zuckerberg Initiative (CZI) – Reproducibility for Everyone (R4E) | Science Education Grant | $300k | co-Principal Investigator |
 | B. S. | 07/2020 - 06/2022 | Australian Capital Territory Priority Investment Program (PIP) - EcoKDDart: Future Proofing Biodiversity and Biosecurity with a novel integrative Big Data Analysis Hub | Industry Research Grant | $1.2 million | co-Principal Investigator |
 | B. S. | 06/2020 - 05/2022 | Australian Research Council Linkage project - Combating myrtle rust, a new disease threatening Australia’s unique flora | Research Grant | $400k | Principal Investigator |
 | B. S. | 02/2019 | Mozilla Science Foundation, Reproducibility for Everyone | Science Grant | $15k | Principal Investigator |
@@ -74,6 +82,9 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 
 | Awarded to | When | Award type | What | 
 | :----------- | :----------- | :----------- | :----------- | 
+| S. W. | 05/2022 | Scholarship | Ritman Scholarship for the PBRI Symposium 2022 |
+| T. E. | 05/2022 | Scholarship | Ritman Scholarship for the PBRI Symposium 2022 |
+| S. W. | 08/2021 | Scholarship | Crawford Fund Conference Scholarship 2021 | 
 | B. S. | 10/2018-09/2022 | Fellowship | Future Fellowship 2018 - Australian Research Council |
 | B. S. | 01/2017 | Award | Shortlisted for the New Phytologist Tansley Medal for Excellence in Plant Science |
 | B. S. | 10/2015-09/2018 | Award | Discovery Early Career Researcher Award - Australian Research Council |

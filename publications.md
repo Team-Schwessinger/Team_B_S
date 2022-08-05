@@ -20,7 +20,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 # 2022
 
-Hoang, M.T.V., Irinyi, L., Hu, Y., Schwessinger, B., Meyer, W., 2022. **Long-Reads-Based Metagenomics in Clinical Diagnosis With a Special Focus on Fungal Infections. Front. Microbiol. 12. [https://doi.org/10.3389/fmicb.2021.708550](https://doi.org/10.3389/fmicb.2021.708550)
+Hoang, M.T.V., Irinyi, L., Hu, Y., Schwessinger, B., Meyer, W., 2022. **Long-Reads-Based Metagenomics in Clinical Diagnosis With a Special Focus on Fungal Infections**. Front. Microbiol. 12. [https://doi.org/10.3389/fmicb.2021.708550](https://doi.org/10.3389/fmicb.2021.708550)
 
 Schwessinger, B.$, Jones, A., Albekaa, M., Hu, Y., Mackenzie, A., Tam, R., Nagar, R., Milgate, A., Rathjen, J.P$., Periyannan, S. $, 2022. **A Chromosome Scale Assembly of an Australian Puccinia striiformis f. sp. tritici Isolate of the PstS1 Lineage**. Mol. Plant-Microbe Interactions 35, 293–296. [https://doi.org/10.1094/MPMI-09-21-0236-A](https://doi.org/10.1094/MPMI-09-21-0236-A)
 
@@ -73,7 +73,7 @@ PMID: 32117387
 
 **Evolution and Adaptation of Forest and Crop Pathogens in the Anthropocene** <br> Hessenauer P, Feau N, Gill U, Schwessinger B, Brar GS, Hamelin RC. Phytopathology. 2021 Jan;111(1):49-67. [doi: 10.1094/PHYTO-08-20-0358-FI](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-08-20-0358-FI) Epub 2020 Dec 18. PMID: 33200962.
 
-**Austropuccinia psidii, causing myrtle rust, has a gigabase-sized genome shaped by transposable elements** <br> Peri A Tobias, Benjamin Schwessinger, Cecilia H Deng, Chen Wu, Chongmei Dong, Jana Sperschneider, Ashley Jones, Zhenyan Lou, Peng Zhang, Karanjeet Sandhu, Grant R Smith, Josquin Tibbits, David Chagné, Robert F Park, G3 Genes|Genomes|Genetics, Volume 11, Issue 3, March 2021, jkaa015, https://doi.org/10.1093/g3journal/jkaa015
+**Austropuccinia psidii, causing myrtle rust, has a gigabase-sized genome shaped by transposable elements** <br> Peri A Tobias, Benjamin Schwessinger, Cecilia H Deng, Chen Wu, Chongmei Dong, Jana Sperschneider, Ashley Jones, Zhenyan Lou, Peng Zhang, Karanjeet Sandhu, Grant R Smith, Josquin Tibbits, David Chagné, Robert F Park, G3 GenesGenomesGenetics, Volume 11, Issue 3, March 2021, jkaa015, https://doi.org/10.1093/g3journal/jkaa015
 
 <hr>
 

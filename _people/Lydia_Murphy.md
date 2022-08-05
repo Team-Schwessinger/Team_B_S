@@ -1,9 +1,9 @@
 ---
 name: Lydia Murphy
 position: casual
-
+avatar: Lydia.jpg
 ---
-
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 I began working with the Schwessinger lab as part of the Sars-Cov2 research team and have now transitioned into cloning and plasmid work for other projects within the lab. <br> 
 

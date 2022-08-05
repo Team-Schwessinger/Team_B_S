@@ -1,7 +1,7 @@
 ---
 name: Jinghang Feng
 position: member
-avatar: Jinghang.jpg
+avatar: Jinghang.JPG
 ---
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 

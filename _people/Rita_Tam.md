@@ -8,6 +8,6 @@ avatar: Rita.jpg
 
 
 
-Rita is an Honours student working on avirulence gene identification and phylogenetic analysis of wheat stripe rust. Throughout her bachelor's degree in genetics in ANU, she has developed a deep interest in molecular biology, biochemistry and programming. Now in Team Schwessinger, she is passionate about uncovering the evolutionary history of host adaptation of this bright-yellow fungus with the use of bioinformatics techniques.
+Rita is a technical assistant, mainly working on the application of bioinformatics methods to identify avirulence candidate genes in wheat stripe rust. Throughout her bachelor's degree in genetics in ANU, she has developed a deep interest in molecular biology, biochemistry and programming. She finished Honours in genetics with Schwessinger's Lab in 2021, will be starting her PhD journey in late 2022. <br>
 
-Away from the office, she likes drawing, cooking, playing chess and watching marine documentaries. Her spirit animal is kakapo.
+Away from the office, she likes exploring music, gaming and motorbiking. Her spirit animal is sea otter.

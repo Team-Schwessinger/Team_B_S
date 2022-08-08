@@ -60,7 +60,7 @@ Beyond being nerds, we aim to contribute to a welcoming and progressive academic
 | B. S. | 2022 | Australian Federal Government Grant, Detection and differentiation of plant pathogens in air samples using high throughput sequencing | Industry Grant | $550k | Principal Investigaor & sole Principal Investigaor ANU |
 | B. S. | 2022 | Genome assemblies for Plant Pathogen Initiative Bioplatforms, Puccinia triticina and Puccinia graminis f. sp. tritici | Sequencing Grant | $35k | co-Principal Investigator |
 | B. S. | 2021 | ARC Training Centre for Accelerated Future Crop Development | Industry Training Grant | $5 million | co-Principal Investiator |
-| B. S. | 2020-2022 | ACT Health, Tracing the spread of Sars-Cov2 in the Australian Capital Territory | $1.3 million | Principal Investigator |
+| B. S. | 2020-2022 | ACT Health, Tracing the spread of Sars-Cov2 in the Australian Capital Territory | Industry Training Grant |  ongoing | Principal Investigator |
 | B. S. | 2020 | Genome assemblies for Genomics for Aus Plants, Wahlenbergia ceracea | Sequencing Grant | $25k | co-Principal Investigator |
 | B. S. | 2020 | Genome assemblies for Genomics for Aus Plants, Xanthorrhoea australis | Sequencing Grant | $25k | co-Principal Investigator |
 | B. S. | 2020 | Soil Carbon, Consultancy on fungal genomics | Industry Grant | $12,500 | Principal Investigator |

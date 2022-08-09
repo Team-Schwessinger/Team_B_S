@@ -41,6 +41,7 @@ permalink: /people/
 
 | Who are they | When were they here | What were they | 
 | :------------- |:-------------| :-----------| 
+| Yiheng Hu | 2018-2022 | PhD Student |
 | Mustafa Albekaa  | 2020 | Honours Student |
 | Jemimah Hamilton  | 2020 | Honours Student |
 | Jamila Nasim  | 2019-2020 | Masters Student |
